@@ -1,0 +1,4137 @@
+Date,LeagueName,HomeTeam,AwayTeam,FTR,pred
+2022-01-01,EPL,Crystal Palace,West Ham,A,H
+2022-01-01,EPL,Watford,Tottenham,A,A
+2022-01-01,EPL,Arsenal,Man City,A,A
+2022-01-02,EPL,Leeds,Burnley,H,H
+2022-01-02,EPL,Everton,Brighton,A,A
+2022-01-02,EPL,Brentford,Aston Villa,H,A
+2022-01-02,LaLiga,Betis,Celta,A,H
+2022-01-02,LaLiga,Mallorca,Barcelona,A,A
+2022-01-02,LaLiga,Ath Madrid,Vallecano,H,H
+2022-01-02,LaLiga,Getafe,Real Madrid,H,A
+2022-01-03,LaLiga,Cadiz,Sevilla,A,A
+2022-01-03,LaLiga,Osasuna,Ath Bilbao,A,A
+2022-01-03,LaLiga,Villarreal,Levante,H,H
+2022-01-03,EPL,Man United,Wolves,A,H
+2022-01-06,SerieA,Spezia,Verona,A,A
+2022-01-06,SerieA,Sampdoria,Cagliari,A,H
+2022-01-06,SerieA,Milan,Roma,H,A
+2022-01-07,Bundes,Bayern Munich,M'gladbach,A,H
+2022-01-08,LaLiga,Real Madrid,Valencia,H,H
+2022-01-08,Bundes,Hoffenheim,Augsburg,H,H
+2022-01-08,Bundes,RB Leipzig,Mainz,H,H
+2022-01-08,LaLiga,Sociedad,Celta,H,A
+2022-01-08,LaLiga,Levante,Mallorca,H,A
+2022-01-08,Bundes,Ein Frankfurt,Dortmund,A,A
+2022-01-09,Bundes,Hertha,FC Koln,A,A
+2022-01-09,Bundes,Bochum,Wolfsburg,H,A
+2022-01-09,SerieA,Inter,Lazio,H,H
+2022-01-09,SerieA,Genoa,Spezia,A,H
+2022-01-09,SerieA,Udinese,Atalanta,A,A
+2022-01-09,SerieA,Napoli,Sampdoria,H,H
+2022-01-09,SerieA,Venezia,Milan,A,A
+2022-01-09,SerieA,Verona,Salernitana,A,H
+2022-01-09,SerieA,Roma,Juventus,A,A
+2022-01-09,LaLiga,Sevilla,Getafe,H,H
+2022-01-09,LaLiga,Osasuna,Cadiz,H,H
+2022-01-09,SerieA,Empoli,Sassuolo,A,A
+2022-01-10,SerieA,Torino,Fiorentina,H,A
+2022-01-10,LaLiga,Espanol,Elche,A,H
+2022-01-11,SerieA,Cagliari,Bologna,H,A
+2022-01-11,EPL,Southampton,Brentford,H,A
+2022-01-12,EPL,West Ham,Norwich,H,H
+2022-01-14,Bundes,Dortmund,Freiburg,H,A
+2022-01-15,Bundes,FC Koln,Bayern Munich,A,A
+2022-01-15,EPL,Wolves,Southampton,H,A
+2022-01-15,Bundes,Union Berlin,Hoffenheim,H,A
+2022-01-15,Bundes,Stuttgart,RB Leipzig,A,A
+2022-01-15,Bundes,Mainz,Bochum,H,H
+2022-01-15,SerieA,Juventus,Udinese,H,H
+2022-01-15,EPL,Man City,Chelsea,H,H
+2022-01-15,SerieA,Sampdoria,Torino,A,A
+2022-01-15,Bundes,M'gladbach,Leverkusen,A,A
+2022-01-15,EPL,Norwich,Everton,H,A
+2022-01-15,SerieA,Salernitana,Lazio,A,A
+2022-01-16,EPL,Liverpool,Brentford,H,H
+2022-01-16,EPL,West Ham,Leeds,A,H
+2022-01-16,LaLiga,Elche,Villarreal,H,A
+2022-01-16,SerieA,Sassuolo,Verona,A,H
+2022-01-16,SerieA,Roma,Cagliari,H,H
+2022-01-17,SerieA,Fiorentina,Genoa,H,H
+2022-01-17,SerieA,Milan,Spezia,A,H
+2022-01-17,SerieA,Bologna,Napoli,A,A
+2022-01-18,LaLiga,Betis,Alaves,H,H
+2022-01-19,LaLiga,Celta,Osasuna,H,A
+2022-01-19,EPL,Leicester,Tottenham,A,A
+2022-01-19,EPL,Brentford,Man United,A,A
+2022-01-20,LaLiga,Getafe,Granada,H,A
+2022-01-21,SerieA,Verona,Bologna,H,A
+2022-01-21,EPL,Watford,Norwich,A,H
+2022-01-21,LaLiga,Espanol,Betis,A,A
+2022-01-21,Bundes,Ein Frankfurt,Bielefeld,A,H
+2022-01-22,Bundes,Greuther Furth,Mainz,H,A
+2022-01-22,LaLiga,Ath Madrid,Valencia,H,H
+2022-01-22,LaLiga,Villarreal,Mallorca,H,H
+2022-01-22,LaLiga,Levante,Cadiz,A,H
+2022-01-22,Bundes,Freiburg,Stuttgart,H,H
+2022-01-22,SerieA,Inter,Venezia,H,H
+2022-01-22,Bundes,M'gladbach,Union Berlin,A,A
+2022-01-22,Bundes,Hoffenheim,Dortmund,A,A
+2022-01-22,EPL,Everton,Aston Villa,A,A
+2022-01-22,Bundes,Leverkusen,Augsburg,H,H
+2022-01-22,EPL,Leeds,Newcastle,A,H
+2022-01-22,EPL,Brentford,Wolves,A,H
+2022-01-22,EPL,Man United,West Ham,H,A
+2022-01-23,SerieA,Empoli,Roma,A,A
+2022-01-23,SerieA,Spezia,Sampdoria,H,A
+2022-01-23,Bundes,Hertha,Bayern Munich,A,A
+2022-01-23,Bundes,RB Leipzig,Wolfsburg,H,H
+2022-01-23,EPL,Chelsea,Tottenham,H,A
+2022-01-23,EPL,Crystal Palace,Liverpool,A,A
+2022-01-23,SerieA,Napoli,Salernitana,H,H
+2022-01-23,LaLiga,Vallecano,Ath Bilbao,A,A
+2022-01-23,LaLiga,Alaves,Barcelona,A,A
+2022-01-23,LaLiga,Granada,Osasuna,A,H
+2022-02-04,LaLiga,Getafe,Levante,H,H
+2022-02-05,Bundes,Bayern Munich,RB Leipzig,H,H
+2022-02-05,Bundes,Stuttgart,Ein Frankfurt,A,A
+2022-02-05,Bundes,Mainz,Hoffenheim,H,H
+2022-02-05,Bundes,FC Koln,Freiburg,H,A
+2022-02-05,LaLiga,Elche,Alaves,H,A
+2022-02-05,LaLiga,Celta,Vallecano,H,A
+2022-02-05,LaLiga,Mallorca,Cadiz,H,H
+2022-02-05,SerieA,Fiorentina,Lazio,A,H
+2022-02-05,SerieA,Inter,Milan,A,H
+2022-02-05,Bundes,Augsburg,Union Berlin,H,A
+2022-02-06,SerieA,Atalanta,Cagliari,A,H
+2022-02-06,Bundes,Wolfsburg,Greuther Furth,H,H
+2022-02-06,SerieA,Sampdoria,Sassuolo,H,A
+2022-02-06,SerieA,Venezia,Napoli,A,A
+2022-02-06,SerieA,Udinese,Torino,H,A
+2022-02-06,LaLiga,Barcelona,Ath Madrid,H,A
+2022-02-06,LaLiga,Betis,Villarreal,A,A
+2022-02-06,LaLiga,Real Madrid,Granada,H,H
+2022-02-06,SerieA,Juventus,Verona,H,H
+2022-02-06,Bundes,Dortmund,Leverkusen,A,H
+2022-02-07,LaLiga,Ath Bilbao,Espanol,H,A
+2022-02-08,EPL,West Ham,Watford,H,H
+2022-02-08,EPL,Newcastle,Everton,H,A
+2022-02-09,EPL,Tottenham,Southampton,A,H
+2022-02-09,EPL,Man City,Brentford,H,H
+2022-02-10,EPL,Liverpool,Leicester,H,H
+2022-02-10,EPL,Wolves,Arsenal,A,A
+2022-02-11,LaLiga,Sevilla,Elche,H,H
+2022-02-11,Bundes,RB Leipzig,FC Koln,H,H
+2022-02-12,Bundes,Ein Frankfurt,Wolfsburg,A,H
+2022-02-12,SerieA,Lazio,Bologna,H,H
+2022-02-12,SerieA,Torino,Venezia,A,H
+2022-02-12,Bundes,Greuther Furth,Hertha,H,A
+2022-02-12,Bundes,M'gladbach,Augsburg,H,H
+2022-02-12,Bundes,Leverkusen,Stuttgart,H,H
+2022-02-12,Bundes,Bochum,Bayern Munich,H,A
+2022-02-12,LaLiga,Vallecano,Osasuna,A,A
+2022-02-12,LaLiga,Ath Madrid,Getafe,H,H
+2022-02-12,EPL,Everton,Leeds,H,A
+2022-02-12,EPL,Watford,Brighton,A,A
+2022-02-12,EPL,Norwich,Man City,A,A
+2022-02-13,LaLiga,Sociedad,Granada,H,A
+2022-02-13,LaLiga,Levante,Betis,A,A
+2022-02-13,LaLiga,Alaves,Valencia,H,A
+2022-02-13,SerieA,Verona,Udinese,H,H
+2022-02-13,EPL,Newcastle,Aston Villa,H,A
+2022-02-13,EPL,Tottenham,Wolves,A,H
+2022-02-13,EPL,Burnley,Liverpool,A,A
+2022-02-13,Bundes,Union Berlin,Dortmund,A,A
+2022-02-13,Bundes,Hoffenheim,Bielefeld,H,H
+2022-02-13,SerieA,Milan,Sampdoria,H,H
+2022-02-14,SerieA,Spezia,Fiorentina,A,A
+2022-02-14,LaLiga,Mallorca,Ath Bilbao,H,A
+2022-02-15,EPL,Man United,Brighton,H,A
+2022-02-16,LaLiga,Ath Madrid,Levante,A,H
+2022-02-18,LaLiga,Elche,Vallecano,H,A
+2022-02-18,Bundes,Mainz,Leverkusen,H,A
+2022-02-19,EPL,Crystal Palace,Chelsea,A,A
+2022-02-19,Bundes,Wolfsburg,Hoffenheim,A,A
+2022-02-19,Bundes,Bielefeld,Union Berlin,H,A
+2022-02-19,Bundes,Augsburg,Freiburg,A,A
+2022-02-19,Bundes,FC Koln,Ein Frankfurt,H,A
+2022-02-19,EPL,Brighton,Burnley,A,H
+2022-02-19,EPL,Arsenal,Brentford,H,H
+2022-02-19,EPL,Liverpool,Norwich,H,H
+2022-02-19,EPL,Aston Villa,Watford,A,A
+2022-02-19,EPL,Man City,Tottenham,A,H
+2022-02-19,LaLiga,Real Madrid,Alaves,H,H
+2022-02-19,SerieA,Sampdoria,Empoli,H,A
+2022-02-19,EPL,Southampton,Everton,H,A
+2022-02-19,LaLiga,Granada,Villarreal,A,A
+2022-02-19,LaLiga,Osasuna,Ath Madrid,A,A
+2022-02-20,SerieA,Fiorentina,Atalanta,H,A
+2022-02-20,Bundes,Dortmund,M'gladbach,H,H
+2022-02-20,EPL,Leeds,Man United,A,A
+2022-02-20,EPL,Wolves,Leicester,H,A
+2022-02-20,Bundes,Hertha,RB Leipzig,A,A
+2022-02-20,SerieA,Inter,Sassuolo,A,H
+2022-02-20,LaLiga,Ath Bilbao,Sociedad,H,A
+2022-02-20,LaLiga,Betis,Mallorca,H,H
+2022-02-20,LaLiga,Valencia,Barcelona,A,A
+2022-02-20,Bundes,Bayern Munich,Greuther Furth,H,H
+2022-02-21,SerieA,Bologna,Spezia,H,H
+2022-02-23,EPL,Watford,Crystal Palace,A,A
+2022-02-23,EPL,Liverpool,Leeds,H,H
+2022-02-23,EPL,Burnley,Tottenham,H,A
+2022-02-24,EPL,Arsenal,Wolves,H,H
+2022-02-25,Bundes,Hoffenheim,Stuttgart,H,H
+2022-02-25,EPL,Southampton,Norwich,H,H
+2022-02-25,LaLiga,Levante,Elche,H,H
+2022-02-26,EPL,Everton,Man City,A,A
+2022-02-26,Bundes,Ein Frankfurt,Bayern Munich,A,A
+2022-02-26,Bundes,Union Berlin,Mainz,H,H
+2022-02-26,Bundes,Leverkusen,Bielefeld,H,H
+2022-02-26,Bundes,Freiburg,Hertha,H,H
+2022-02-26,EPL,Brentford,Newcastle,A,H
+2022-02-26,EPL,Leeds,Tottenham,A,A
+2022-02-26,EPL,Brighton,Aston Villa,A,A
+2022-02-26,LaLiga,Mallorca,Valencia,A,H
+2022-02-26,SerieA,Sassuolo,Fiorentina,H,A
+2022-02-26,SerieA,Empoli,Juventus,A,A
+2022-02-26,LaLiga,Ath Madrid,Celta,H,H
+2022-02-26,LaLiga,Vallecano,Real Madrid,A,A
+2022-02-27,LaLiga,Barcelona,Ath Bilbao,H,H
+2022-02-27,LaLiga,Sociedad,Osasuna,H,H
+2022-02-27,LaLiga,Sevilla,Betis,H,A
+2022-02-27,LaLiga,Villarreal,Espanol,H,H
+2022-02-27,SerieA,Torino,Cagliari,A,H
+2022-02-27,SerieA,Lazio,Napoli,A,A
+2022-02-27,SerieA,Verona,Venezia,H,H
+2022-02-27,Bundes,Bochum,RB Leipzig,A,A
+2022-02-27,EPL,West Ham,Wolves,H,A
+2022-02-27,SerieA,Spezia,Roma,A,A
+2022-02-28,SerieA,Atalanta,Sampdoria,H,H
+2022-03-01,EPL,Burnley,Leicester,A,A
+2022-03-02,LaLiga,Mallorca,Sociedad,A,A
+2022-03-04,SerieA,Inter,Salernitana,H,H
+2022-03-04,Bundes,Bielefeld,Augsburg,A,A
+2022-03-05,Bundes,Hertha,Ein Frankfurt,A,A
+2022-03-05,LaLiga,Real Madrid,Sociedad,H,H
+2022-03-05,EPL,Norwich,Brentford,A,A
+2022-03-05,EPL,Wolves,Crystal Palace,A,A
+2022-03-05,EPL,Liverpool,West Ham,H,H
+2022-03-05,Bundes,Bochum,Greuther Furth,H,H
+2022-03-05,LaLiga,Valencia,Granada,H,H
+2022-03-05,EPL,Newcastle,Brighton,H,A
+2022-03-05,Bundes,Stuttgart,M'gladbach,H,H
+2022-03-05,EPL,Aston Villa,Southampton,H,A
+2022-03-05,LaLiga,Osasuna,Villarreal,H,A
+2022-03-05,LaLiga,Espanol,Getafe,H,H
+2022-03-05,EPL,Burnley,Chelsea,A,A
+2022-03-05,EPL,Leicester,Leeds,H,H
+2022-03-05,SerieA,Cagliari,Lazio,A,A
+2022-03-05,SerieA,Roma,Atalanta,H,A
+2022-03-05,SerieA,Udinese,Sampdoria,H,H
+2022-03-05,Bundes,Wolfsburg,Union Berlin,H,A
+2022-03-06,EPL,Watford,Arsenal,A,A
+2022-03-06,EPL,Man City,Man United,H,H
+2022-03-06,SerieA,Venezia,Sassuolo,A,A
+2022-03-06,SerieA,Juventus,Spezia,H,H
+2022-03-06,LaLiga,Betis,Ath Madrid,A,H
+2022-03-06,LaLiga,Celta,Mallorca,H,A
+2022-03-06,LaLiga,Elche,Barcelona,A,A
+2022-03-06,Bundes,FC Koln,Hoffenheim,A,A
+2022-03-06,SerieA,Napoli,Milan,A,H
+2022-03-06,LaLiga,Cadiz,Vallecano,H,A
+2022-03-07,EPL,Tottenham,Everton,H,H
+2022-03-07,LaLiga,Ath Bilbao,Levante,H,H
+2022-03-10,EPL,Norwich,Chelsea,A,A
+2022-03-10,EPL,Southampton,Newcastle,A,H
+2022-03-10,EPL,Wolves,Watford,H,A
+2022-03-10,EPL,Leeds,Aston Villa,A,A
+2022-03-11,LaLiga,Ath Madrid,Cadiz,H,H
+2022-03-12,SerieA,Milan,Empoli,H,H
+2022-03-12,LaLiga,Villarreal,Celta,H,H
+2022-03-12,LaLiga,Granada,Elche,A,H
+2022-03-12,SerieA,Sampdoria,Juventus,A,A
+2022-03-12,Bundes,Freiburg,Wolfsburg,H,H
+2022-03-12,Bundes,M'gladbach,Hertha,H,H
+2022-03-12,EPL,Brighton,Liverpool,A,A
+2022-03-12,EPL,Brentford,Burnley,H,A
+2022-03-12,EPL,Man United,Tottenham,H,A
+2022-03-12,SerieA,Spezia,Cagliari,H,A
+2022-03-13,LaLiga,Barcelona,Osasuna,H,H
+2022-03-13,SerieA,Verona,Napoli,A,H
+2022-03-13,SerieA,Fiorentina,Bologna,H,H
+2022-03-13,EPL,West Ham,Aston Villa,H,H
+2022-03-13,Bundes,Leverkusen,FC Koln,A,H
+2022-03-13,Bundes,Dortmund,Bielefeld,H,H
+2022-03-13,LaLiga,Betis,Ath Bilbao,H,H
+2022-03-13,Bundes,Greuther Furth,RB Leipzig,A,A
+2022-03-13,EPL,Arsenal,Leicester,H,H
+2022-03-13,LaLiga,Sociedad,Alaves,H,H
+2022-03-13,EPL,Chelsea,Newcastle,H,H
+2022-03-13,EPL,Everton,Wolves,A,H
+2022-03-13,EPL,Leeds,Norwich,H,H
+2022-03-13,EPL,Southampton,Watford,A,H
+2022-03-13,Bundes,Ein Frankfurt,Bochum,H,A
+2022-03-14,LaLiga,Mallorca,Real Madrid,A,A
+2022-03-14,SerieA,Lazio,Venezia,H,H
+2022-03-16,EPL,Brighton,Tottenham,A,A
+2022-03-16,Bundes,Mainz,Dortmund,A,A
+2022-03-16,EPL,Arsenal,Liverpool,A,A
+2022-03-17,EPL,Everton,Newcastle,H,A
+2022-03-18,SerieA,Genoa,Torino,H,A
+2022-03-18,SerieA,Sassuolo,Spezia,H,H
+2022-03-18,EPL,Wolves,Leeds,A,H
+2022-03-18,Bundes,Bochum,M'gladbach,A,H
+2022-03-19,Bundes,Mainz,Bielefeld,H,H
+2022-03-19,Bundes,Stuttgart,Augsburg,H,H
+2022-03-19,LaLiga,Osasuna,Levante,H,H
+2022-03-19,EPL,Aston Villa,Arsenal,A,A
+2022-03-19,Bundes,Hertha,Hoffenheim,H,A
+2022-03-19,Bundes,Bayern Munich,Union Berlin,H,H
+2022-03-19,LaLiga,Elche,Valencia,A,A
+2022-03-19,LaLiga,Vallecano,Ath Madrid,A,A
+2022-03-19,SerieA,Cagliari,Milan,A,A
+2022-03-19,SerieA,Napoli,Udinese,H,H
+2022-03-19,LaLiga,Alaves,Granada,A,A
+2022-03-20,LaLiga,Real Madrid,Barcelona,A,H
+2022-03-20,SerieA,Bologna,Atalanta,A,A
+2022-03-20,EPL,Tottenham,West Ham,H,H
+2022-03-20,EPL,Leicester,Brentford,H,H
+2022-03-20,SerieA,Roma,Lazio,H,A
+2022-03-20,LaLiga,Espanol,Mallorca,H,H
+2022-03-20,SerieA,Venezia,Sampdoria,A,H
+2022-03-20,Bundes,Wolfsburg,Leverkusen,A,A
+2022-03-20,LaLiga,Cadiz,Villarreal,H,A
+2022-03-20,SerieA,Juventus,Salernitana,H,H
+2022-04-01,Bundes,Union Berlin,FC Koln,H,H
+2022-04-02,EPL,Wolves,Aston Villa,H,A
+2022-04-02,SerieA,Spezia,Venezia,H,A
+2022-04-02,LaLiga,Ath Madrid,Alaves,H,H
+2022-04-02,LaLiga,Celta,Real Madrid,A,A
+2022-04-02,SerieA,Lazio,Sassuolo,H,A
+2022-04-02,EPL,Burnley,Man City,A,A
+2022-04-02,SerieA,Salernitana,Torino,A,A
+2022-04-02,EPL,Liverpool,Watford,H,H
+2022-04-02,LaLiga,Getafe,Mallorca,H,H
+2022-04-02,Bundes,Dortmund,RB Leipzig,A,H
+2022-04-02,Bundes,Leverkusen,Hertha,H,H
+2022-04-02,LaLiga,Levante,Villarreal,H,A
+2022-04-02,Bundes,Freiburg,Bayern Munich,A,A
+2022-04-02,EPL,Chelsea,Brentford,A,H
+2022-04-02,Bundes,Hoffenheim,Bochum,A,H
+2022-04-03,SerieA,Sampdoria,Roma,A,A
+2022-04-03,Bundes,Augsburg,Wolfsburg,H,H
+2022-04-03,SerieA,Fiorentina,Empoli,H,H
+2022-04-03,SerieA,Atalanta,Napoli,A,H
+2022-04-03,SerieA,Udinese,Cagliari,H,H
+2022-04-03,SerieA,Juventus,Inter,A,H
+2022-04-03,EPL,Tottenham,Newcastle,H,H
+2022-04-03,LaLiga,Ath Bilbao,Elche,H,H
+2022-04-03,LaLiga,Betis,Osasuna,H,H
+2022-04-03,EPL,West Ham,Everton,H,H
+2022-04-03,LaLiga,Barcelona,Sevilla,H,H
+2022-04-04,EPL,Crystal Palace,Arsenal,H,A
+2022-04-04,LaLiga,Sociedad,Espanol,H,H
+2022-04-04,SerieA,Verona,Genoa,H,H
+2022-04-06,EPL,Burnley,Everton,H,H
+2022-04-06,Bundes,Augsburg,Mainz,H,H
+2022-04-08,EPL,Newcastle,Wolves,H,A
+2022-04-08,LaLiga,Sevilla,Granada,H,H
+2022-04-08,Bundes,Stuttgart,Dortmund,A,A
+2022-04-09,Bundes,Hertha,Union Berlin,A,A
+2022-04-09,LaLiga,Mallorca,Ath Madrid,H,A
+2022-04-09,LaLiga,Real Madrid,Getafe,H,H
+2022-04-09,Bundes,FC Koln,Mainz,H,A
+2022-04-09,EPL,Everton,Man United,H,A
+2022-04-09,Bundes,Wolfsburg,Bielefeld,H,H
+2022-04-09,Bundes,Bayern Munich,Augsburg,H,H
+2022-04-09,EPL,Southampton,Chelsea,A,A
+2022-04-09,SerieA,Cagliari,Juventus,A,A
+2022-04-09,SerieA,Inter,Verona,H,H
+2022-04-09,EPL,Aston Villa,Tottenham,A,A
+2022-04-09,EPL,Arsenal,Brighton,A,H
+2022-04-09,LaLiga,Cadiz,Betis,A,A
+2022-04-09,EPL,Watford,Leeds,A,H
+2022-04-09,Bundes,Greuther Furth,M'gladbach,A,H
+2022-04-10,LaLiga,Osasuna,Alaves,H,H
+2022-04-10,SerieA,Napoli,Fiorentina,A,H
+2022-04-10,SerieA,Sassuolo,Atalanta,H,A
+2022-04-10,Bundes,Ein Frankfurt,Freiburg,A,A
+2022-04-10,SerieA,Venezia,Udinese,A,A
+2022-04-10,SerieA,Genoa,Lazio,A,A
+2022-04-10,LaLiga,Espanol,Celta,H,A
+2022-04-10,LaLiga,Elche,Sociedad,A,A
+2022-04-10,EPL,Norwich,Burnley,H,A
+2022-04-10,LaLiga,Levante,Barcelona,A,A
+2022-04-10,EPL,Brentford,West Ham,H,A
+2022-04-10,EPL,Leicester,Crystal Palace,H,A
+2022-04-10,Bundes,RB Leipzig,Hoffenheim,H,H
+2022-04-10,SerieA,Roma,Salernitana,H,H
+2022-04-11,SerieA,Bologna,Sampdoria,H,H
+2022-04-15,SerieA,Spezia,Inter,A,A
+2022-04-15,SerieA,Milan,Genoa,H,H
+2022-04-16,LaLiga,Alaves,Vallecano,H,H
+2022-04-16,LaLiga,Valencia,Osasuna,A,A
+2022-04-16,EPL,Watford,Brentford,A,A
+2022-04-16,Bundes,Dortmund,Wolfsburg,H,H
+2022-04-16,Bundes,Augsburg,Hertha,A,A
+2022-04-16,LaLiga,Elche,Mallorca,H,H
+2022-04-16,Bundes,Freiburg,Bochum,H,A
+2022-04-16,SerieA,Cagliari,Sassuolo,H,A
+2022-04-16,SerieA,Udinese,Empoli,H,H
+2022-04-16,SerieA,Fiorentina,Venezia,H,H
+2022-04-16,SerieA,Sampdoria,Salernitana,A,H
+2022-04-16,LaLiga,Getafe,Villarreal,A,H
+2022-04-16,Bundes,M'gladbach,FC Koln,A,H
+2022-04-16,EPL,Southampton,Arsenal,H,A
+2022-04-16,EPL,Tottenham,Brighton,A,H
+2022-04-16,EPL,Man United,Norwich,H,H
+2022-04-17,Bundes,Bielefeld,Bayern Munich,A,A
+2022-04-17,Bundes,Union Berlin,Ein Frankfurt,H,A
+2022-04-17,Bundes,Leverkusen,RB Leipzig,A,H
+2022-04-17,LaLiga,Granada,Levante,A,H
+2022-04-17,LaLiga,Ath Bilbao,Celta,A,H
+2022-04-17,LaLiga,Sevilla,Real Madrid,A,A
+2022-04-17,EPL,Newcastle,Leicester,H,A
+2022-04-17,LaLiga,Ath Madrid,Espanol,H,H
+2022-04-18,SerieA,Atalanta,Verona,A,H
+2022-04-18,LaLiga,Barcelona,Cadiz,A,H
+2022-04-19,LaLiga,Mallorca,Alaves,H,H
+2022-04-19,LaLiga,Betis,Elche,A,H
+2022-04-19,EPL,Liverpool,Man United,H,H
+2022-04-19,LaLiga,Villarreal,Valencia,H,H
+2022-04-20,EPL,Newcastle,Crystal Palace,H,A
+2022-04-20,SerieA,Udinese,Salernitana,A,H
+2022-04-20,EPL,Chelsea,Arsenal,A,H
+2022-04-20,EPL,Man City,Brighton,H,H
+2022-04-20,LaLiga,Osasuna,Real Madrid,A,A
+2022-04-20,LaLiga,Celta,Getafe,A,H
+2022-04-21,LaLiga,Cadiz,Ath Bilbao,A,H
+2022-04-21,LaLiga,Levante,Sevilla,A,A
+2022-04-21,LaLiga,Espanol,Vallecano,A,H
+2022-04-21,EPL,Burnley,Southampton,H,A
+2022-04-21,LaLiga,Sociedad,Barcelona,A,A
+2022-04-22,Bundes,Wolfsburg,Mainz,H,A
+2022-04-23,SerieA,Inter,Roma,H,H
+2022-04-23,SerieA,Torino,Spezia,H,A
+2022-04-23,EPL,Arsenal,Man United,H,H
+2022-04-23,EPL,Norwich,Newcastle,A,A
+2022-04-23,Bundes,Bayern Munich,Dortmund,H,H
+2022-04-23,Bundes,Greuther Furth,Leverkusen,A,A
+2022-04-23,EPL,Man City,Watford,H,H
+2022-04-23,Bundes,FC Koln,Bielefeld,H,H
+2022-04-23,Bundes,RB Leipzig,Union Berlin,A,H
+2022-04-23,SerieA,Venezia,Atalanta,A,A
+2022-04-24,Bundes,Hertha,Stuttgart,H,A
+2022-04-24,EPL,Chelsea,West Ham,H,A
+2022-04-24,Bundes,Bochum,Augsburg,A,H
+2022-04-24,EPL,Burnley,Wolves,H,A
+2022-04-24,SerieA,Lazio,Milan,A,A
+2022-04-24,SerieA,Empoli,Napoli,H,A
+2022-04-24,LaLiga,Barcelona,Vallecano,A,H
+2022-04-24,SerieA,Salernitana,Fiorentina,H,A
+2022-04-24,SerieA,Genoa,Cagliari,H,H
+2022-04-24,EPL,Liverpool,Everton,H,H
+2022-04-25,SerieA,Sassuolo,Juventus,A,A
+2022-04-27,SerieA,Fiorentina,Udinese,A,H
+2022-04-27,SerieA,Bologna,Inter,H,A
+2022-04-30,EPL,Watford,Burnley,A,A
+2022-04-30,Bundes,Augsburg,FC Koln,A,A
+2022-04-30,Bundes,Dortmund,Bochum,A,H
+2022-04-30,Bundes,Mainz,Bayern Munich,H,A
+2022-04-30,Bundes,Hoffenheim,Freiburg,A,H
+2022-04-30,SerieA,Sampdoria,Genoa,H,H
+2022-04-30,SerieA,Spezia,Lazio,A,A
+2022-04-30,EPL,Leeds,Man City,A,A
+2022-04-30,LaLiga,Ath Bilbao,Ath Madrid,H,H
+2022-04-30,EPL,Southampton,Crystal Palace,A,A
+2022-04-30,EPL,Aston Villa,Norwich,H,H
+2022-04-30,EPL,Newcastle,Liverpool,A,A
+2022-04-30,SerieA,Napoli,Sassuolo,H,A
+2022-04-30,SerieA,Cagliari,Verona,A,A
+2022-04-30,LaLiga,Alaves,Villarreal,H,A
+2022-04-30,LaLiga,Real Madrid,Espanol,H,H
+2022-04-30,EPL,Wolves,Brighton,A,A
+2022-05-01,LaLiga,Barcelona,Mallorca,H,H
+2022-05-01,EPL,Everton,Chelsea,H,A
+2022-05-01,SerieA,Empoli,Torino,A,A
+2022-05-01,EPL,West Ham,Arsenal,A,A
+2022-05-01,SerieA,Milan,Fiorentina,H,H
+2022-05-01,SerieA,Juventus,Venezia,H,H
+2022-05-01,SerieA,Udinese,Inter,A,A
+2022-05-01,EPL,Tottenham,Leicester,H,H
+2022-05-02,Bundes,M'gladbach,RB Leipzig,H,A
+2022-05-02,Bundes,Leverkusen,Ein Frankfurt,H,H
+2022-05-02,EPL,Man United,Brentford,H,H
+2022-05-05,SerieA,Salernitana,Venezia,H,A
+2022-05-06,LaLiga,Levante,Sociedad,H,H
+2022-05-06,SerieA,Inter,Empoli,H,H
+2022-05-06,Bundes,Bochum,Bielefeld,H,H
+2022-05-06,SerieA,Genoa,Juventus,H,A
+2022-05-07,Bundes,FC Koln,Wolfsburg,A,H
+2022-05-07,SerieA,Torino,Napoli,A,A
+2022-05-07,SerieA,Lazio,Sampdoria,H,H
+2022-05-07,EPL,Brighton,Man United,H,A
+2022-05-07,Bundes,Freiburg,Union Berlin,A,A
+2022-05-07,LaLiga,Celta,Alaves,H,H
+2022-05-07,EPL,Brentford,Southampton,H,A
+2022-05-07,Bundes,Greuther Furth,Dortmund,A,A
+2022-05-07,EPL,Crystal Palace,Watford,H,H
+2022-05-07,LaLiga,Cadiz,Elche,H,H
+2022-05-07,EPL,Burnley,Aston Villa,A,A
+2022-05-07,LaLiga,Mallorca,Granada,A,A
+2022-05-07,Bundes,Hertha,Mainz,A,A
+2022-05-07,Bundes,Hoffenheim,Leverkusen,A,A
+2022-05-07,LaLiga,Betis,Barcelona,A,A
+2022-05-08,EPL,Man City,Newcastle,H,H
+2022-05-08,EPL,Norwich,West Ham,A,A
+2022-05-08,LaLiga,Ath Madrid,Real Madrid,H,A
+2022-05-08,SerieA,Spezia,Atalanta,A,A
+2022-05-08,SerieA,Venezia,Bologna,H,A
+2022-05-08,EPL,Arsenal,Leeds,H,H
+2022-05-08,EPL,Leicester,Everton,A,H
+2022-05-08,Bundes,RB Leipzig,Augsburg,H,H
+2022-05-08,SerieA,Verona,Milan,A,A
+2022-05-09,SerieA,Fiorentina,Roma,H,A
+2022-05-10,EPL,Aston Villa,Liverpool,A,A
+2022-05-10,LaLiga,Barcelona,Celta,H,H
+2022-05-10,LaLiga,Valencia,Betis,A,A
+2022-05-10,LaLiga,Granada,Ath Bilbao,H,A
+2022-05-11,LaLiga,Alaves,Espanol,H,A
+2022-05-11,EPL,Wolves,Man City,A,A
+2022-05-11,LaLiga,Elche,Ath Madrid,A,A
+2022-05-11,EPL,Leicester,Norwich,H,H
+2022-05-11,EPL,Leeds,Chelsea,A,A
+2022-05-12,LaLiga,Real Madrid,Levante,H,H
+2022-05-12,LaLiga,Vallecano,Villarreal,A,A
+2022-05-12,LaLiga,Sociedad,Cadiz,H,H
+2022-05-12,EPL,Tottenham,Arsenal,H,H
+2022-05-14,Bundes,Stuttgart,FC Koln,H,A
+2022-05-14,SerieA,Verona,Torino,A,A
+2022-05-14,Bundes,Union Berlin,Bochum,H,H
+2022-05-14,Bundes,M'gladbach,Hoffenheim,H,A
+2022-05-14,Bundes,Leverkusen,Freiburg,H,H
+2022-05-14,Bundes,Augsburg,Greuther Furth,H,H
+2022-05-14,SerieA,Udinese,Spezia,A,H
+2022-05-14,Bundes,Dortmund,Hertha,H,H
+2022-05-15,EPL,Tottenham,Burnley,H,H
+2022-05-15,SerieA,Cagliari,Inter,A,A
+2022-05-15,SerieA,Bologna,Sassuolo,A,A
+2022-05-15,SerieA,Napoli,Genoa,H,H
+2022-05-15,SerieA,Milan,Atalanta,H,A
+2022-05-15,LaLiga,Celta,Elche,H,H
+2022-05-15,EPL,Watford,Leicester,A,A
+2022-05-15,LaLiga,Villarreal,Sociedad,A,H
+2022-05-15,LaLiga,Mallorca,Vallecano,H,H
+2022-05-15,LaLiga,Levante,Alaves,H,H
+2022-05-15,LaLiga,Ath Bilbao,Osasuna,H,H
+2022-05-15,LaLiga,Betis,Granada,H,H
+2022-05-15,EPL,Everton,Brentford,A,A
+2022-05-16,EPL,Newcastle,Arsenal,H,A
+2022-05-16,SerieA,Sampdoria,Fiorentina,H,A
+2022-05-17,EPL,Southampton,Liverpool,A,A
+2022-05-19,EPL,Everton,Crystal Palace,H,A
+2022-05-20,SerieA,Torino,Roma,A,A
+2022-05-20,LaLiga,Vallecano,Levante,A,H
+2022-05-21,SerieA,Genoa,Bologna,A,A
+2022-05-21,SerieA,Atalanta,Empoli,A,H
+2022-05-21,SerieA,Fiorentina,Juventus,H,H
+2022-05-21,LaLiga,Valencia,Celta,H,A
+2022-05-22,LaLiga,Sevilla,Ath Bilbao,H,H
+2022-05-22,LaLiga,Elche,Getafe,H,A
+2022-05-22,SerieA,Spezia,Napoli,A,A
+2022-05-22,LaLiga,Alaves,Cadiz,A,H
+2022-05-22,SerieA,Salernitana,Udinese,A,A
+2022-05-22,SerieA,Sassuolo,Milan,A,A
+2022-05-22,LaLiga,Osasuna,Mallorca,A,H
+2022-05-22,LaLiga,Barcelona,Villarreal,A,H
+2022-05-22,SerieA,Inter,Sampdoria,H,H
+2022-05-22,EPL,Liverpool,Wolves,H,H
+2022-05-22,EPL,Norwich,Tottenham,A,A
+2022-05-22,LaLiga,Sociedad,Ath Madrid,A,H
+2022-05-22,EPL,Leicester,Southampton,H,H
+2022-05-22,EPL,Crystal Palace,Man United,H,H
+2022-05-22,EPL,Man City,Aston Villa,H,H
+2022-05-22,EPL,Burnley,Newcastle,A,A
+2022-05-22,EPL,Brighton,West Ham,H,A
+2022-05-22,EPL,Brentford,Leeds,A,A
+2022-05-22,EPL,Arsenal,Everton,H,H
+2022-05-22,EPL,Chelsea,Watford,H,H
+2022-08-05,Bundes,Ein Frankfurt,Bayern Munich,A,A
+2022-08-05,EPL,Crystal Palace,Arsenal,A,A
+2022-08-06,EPL,Leeds,Wolves,H,A
+2022-08-06,EPL,Everton,Chelsea,A,A
+2022-08-06,EPL,Tottenham,Southampton,H,H
+2022-08-06,EPL,Bournemouth,Aston Villa,H,A
+2022-08-06,Bundes,Dortmund,Leverkusen,H,A
+2022-08-06,Bundes,Bochum,Mainz,A,H
+2022-08-06,Bundes,Augsburg,Freiburg,A,A
+2022-08-06,Bundes,Union Berlin,Hertha,H,H
+2022-08-06,Bundes,M'gladbach,Hoffenheim,H,H
+2022-08-07,EPL,West Ham,Man City,A,A
+2022-08-07,EPL,Man United,Brighton,A,A
+2022-08-07,Bundes,FC Koln,Schalke 04,H,H
+2022-08-12,Bundes,Freiburg,Dortmund,A,A
+2022-08-12,LaLiga,Osasuna,Sevilla,H,A
+2022-08-13,LaLiga,Valladolid,Villarreal,A,A
+2022-08-13,Bundes,Leverkusen,Augsburg,A,H
+2022-08-13,Bundes,Hoffenheim,Bochum,H,A
+2022-08-13,SerieA,Sampdoria,Atalanta,A,A
+2022-08-13,EPL,Arsenal,Leicester,H,H
+2022-08-13,EPL,Aston Villa,Everton,H,H
+2022-08-13,SerieA,Lecce,Inter,A,A
+2022-08-13,EPL,Brentford,Man United,H,A
+2022-08-13,EPL,Man City,Bournemouth,H,H
+2022-08-13,SerieA,Milan,Udinese,H,A
+2022-08-14,LaLiga,Valencia,Girona,H,A
+2022-08-14,SerieA,Spezia,Empoli,H,H
+2022-08-14,SerieA,Lazio,Bologna,H,H
+2022-08-14,LaLiga,Cadiz,Sociedad,A,A
+2022-08-14,SerieA,Salernitana,Roma,A,A
+2022-08-14,Bundes,Bayern Munich,Wolfsburg,H,H
+2022-08-14,LaLiga,Almeria,Real Madrid,A,A
+2022-08-15,LaLiga,Getafe,Ath Madrid,A,A
+2022-08-15,SerieA,Juventus,Sassuolo,H,H
+2022-08-15,SerieA,Verona,Napoli,A,A
+2022-08-15,LaLiga,Betis,Elche,H,H
+2022-08-19,LaLiga,Espanol,Vallecano,A,H
+2022-08-19,Bundes,M'gladbach,Hertha,H,H
+2022-08-20,Bundes,Union Berlin,RB Leipzig,H,A
+2022-08-20,SerieA,Inter,Spezia,H,H
+2022-08-20,LaLiga,Celta,Real Madrid,A,A
+2022-08-20,SerieA,Sassuolo,Lecce,H,H
+2022-08-20,EPL,Tottenham,Wolves,H,H
+2022-08-20,LaLiga,Osasuna,Cadiz,H,H
+2022-08-20,EPL,Fulham,Brentford,H,A
+2022-08-20,EPL,Crystal Palace,Aston Villa,H,A
+2022-08-20,EPL,Bournemouth,Arsenal,A,A
+2022-08-20,LaLiga,Mallorca,Betis,A,A
+2022-08-20,Bundes,Stuttgart,Freiburg,A,A
+2022-08-20,Bundes,Leverkusen,Hoffenheim,A,H
+2022-08-20,Bundes,Dortmund,Werder Bremen,A,H
+2022-08-20,Bundes,Augsburg,Mainz,A,A
+2022-08-20,EPL,Leicester,Southampton,A,H
+2022-08-21,LaLiga,Ath Madrid,Villarreal,A,A
+2022-08-21,Bundes,Bochum,Bayern Munich,A,A
+2022-08-21,LaLiga,Ath Bilbao,Valencia,H,H
+2022-08-21,LaLiga,Sociedad,Barcelona,A,A
+2022-08-21,EPL,Leeds,Chelsea,H,A
+2022-08-21,EPL,West Ham,Brighton,A,A
+2022-08-22,EPL,Man United,Liverpool,H,A
+2022-08-22,LaLiga,Girona,Getafe,H,H
+2022-08-26,SerieA,Lazio,Inter,H,A
+2022-08-26,LaLiga,Betis,Osasuna,H,H
+2022-08-26,LaLiga,Girona,Celta,A,A
+2022-08-26,Bundes,Freiburg,Bochum,H,H
+2022-08-27,LaLiga,Almeria,Sevilla,H,A
+2022-08-27,EPL,Chelsea,Leicester,H,H
+2022-08-27,LaLiga,Elche,Sociedad,A,A
+2022-08-27,EPL,Man City,Crystal Palace,H,H
+2022-08-27,EPL,Arsenal,Fulham,H,H
+2022-08-27,EPL,Liverpool,Bournemouth,H,H
+2022-08-27,SerieA,Milan,Bologna,H,H
+2022-08-27,Bundes,Hertha,Dortmund,A,A
+2022-08-27,Bundes,Mainz,Leverkusen,A,A
+2022-08-27,Bundes,RB Leipzig,Wolfsburg,H,H
+2022-08-27,Bundes,Schalke 04,Union Berlin,A,A
+2022-08-27,Bundes,Hoffenheim,Augsburg,H,H
+2022-08-27,EPL,Southampton,Man United,A,A
+2022-08-27,LaLiga,Vallecano,Mallorca,A,A
+2022-08-27,EPL,Brighton,Leeds,H,H
+2022-08-28,SerieA,Salernitana,Sampdoria,H,H
+2022-08-28,Bundes,Werder Bremen,Ein Frankfurt,A,A
+2022-08-28,SerieA,Verona,Atalanta,A,A
+2022-08-28,LaLiga,Barcelona,Valladolid,H,H
+2022-08-28,EPL,Aston Villa,West Ham,A,A
+2022-08-28,LaLiga,Espanol,Real Madrid,A,A
+2022-08-29,LaLiga,Cadiz,Ath Bilbao,A,A
+2022-08-29,LaLiga,Valencia,Ath Madrid,A,A
+2022-08-30,EPL,Southampton,Chelsea,H,A
+2022-08-30,EPL,Fulham,Brighton,H,A
+2022-08-31,SerieA,Juventus,Spezia,H,H
+2022-08-31,EPL,Liverpool,Newcastle,H,H
+2022-08-31,EPL,Arsenal,Aston Villa,H,H
+2022-08-31,SerieA,Udinese,Fiorentina,H,H
+2022-09-01,EPL,Leicester,Man United,A,H
+2022-09-01,SerieA,Atalanta,Torino,H,A
+2022-09-02,LaLiga,Celta,Cadiz,H,H
+2022-09-02,Bundes,Dortmund,Hoffenheim,H,H
+2022-09-03,LaLiga,Real Madrid,Betis,H,H
+2022-09-03,LaLiga,Sevilla,Barcelona,A,A
+2022-09-03,SerieA,Milan,Inter,H,A
+2022-09-03,SerieA,Lazio,Napoli,A,A
+2022-09-03,Bundes,Ein Frankfurt,RB Leipzig,H,A
+2022-09-03,Bundes,Wolfsburg,FC Koln,A,A
+2022-09-03,EPL,Chelsea,West Ham,H,H
+2022-09-03,EPL,Brentford,Leeds,H,H
+2022-09-03,EPL,Wolves,Southampton,H,A
+2022-09-03,EPL,Tottenham,Fulham,H,H
+2022-09-03,Bundes,Leverkusen,Freiburg,A,H
+2022-09-03,Bundes,Bochum,Werder Bremen,A,A
+2022-09-04,Bundes,Augsburg,Hertha,A,A
+2022-09-04,LaLiga,Ath Bilbao,Espanol,A,H
+2022-09-04,LaLiga,Osasuna,Vallecano,H,H
+2022-09-04,SerieA,Verona,Sampdoria,H,A
+2022-09-04,LaLiga,Valencia,Getafe,H,A
+2022-09-04,LaLiga,Villarreal,Elche,H,H
+2022-09-04,EPL,Man United,Arsenal,H,A
+2022-09-04,EPL,Brighton,Leicester,H,H
+2022-09-04,Bundes,M'gladbach,Mainz,A,H
+2022-09-04,SerieA,Udinese,Roma,H,A
+2022-09-05,SerieA,Torino,Lecce,H,A
+2022-09-05,LaLiga,Valladolid,Almeria,H,H
+2022-09-09,LaLiga,Girona,Valladolid,H,H
+2022-09-09,Bundes,Werder Bremen,Augsburg,A,H
+2022-09-10,Bundes,Ein Frankfurt,Wolfsburg,A,H
+2022-09-10,Bundes,Hoffenheim,Mainz,H,A
+2022-09-10,SerieA,Napoli,Spezia,H,H
+2022-09-10,SerieA,Inter,Torino,H,H
+2022-09-10,LaLiga,Ath Madrid,Celta,H,H
+2022-09-10,LaLiga,Vallecano,Valencia,H,H
+2022-09-10,LaLiga,Espanol,Sevilla,A,A
+2022-09-10,SerieA,Sampdoria,Milan,A,A
+2022-09-10,Bundes,RB Leipzig,Dortmund,H,A
+2022-09-10,Bundes,Schalke 04,Bochum,H,H
+2022-09-10,LaLiga,Cadiz,Barcelona,A,A
+2022-09-11,Bundes,FC Koln,Union Berlin,A,A
+2022-09-11,LaLiga,Betis,Villarreal,H,A
+2022-09-11,LaLiga,Getafe,Sociedad,H,A
+2022-09-11,LaLiga,Elche,Ath Bilbao,A,A
+2022-09-11,SerieA,Bologna,Fiorentina,H,A
+2022-09-11,SerieA,Lazio,Verona,H,H
+2022-09-11,SerieA,Sassuolo,Udinese,A,A
+2022-09-11,LaLiga,Real Madrid,Mallorca,H,H
+2022-09-12,LaLiga,Almeria,Osasuna,A,A
+2022-09-12,SerieA,Empoli,Roma,A,A
+2022-09-16,EPL,Aston Villa,Southampton,H,H
+2022-09-16,SerieA,Salernitana,Lecce,A,H
+2022-09-16,LaLiga,Valladolid,Cadiz,A,H
+2022-09-17,SerieA,Torino,Sassuolo,A,A
+2022-09-17,Bundes,M'gladbach,RB Leipzig,H,H
+2022-09-17,SerieA,Bologna,Empoli,A,A
+2022-09-17,Bundes,Dortmund,Schalke 04,H,H
+2022-09-17,EPL,Tottenham,Leicester,H,H
+2022-09-17,Bundes,Augsburg,Bayern Munich,H,A
+2022-09-17,SerieA,Spezia,Sampdoria,H,H
+2022-09-17,Bundes,Stuttgart,Ein Frankfurt,A,A
+2022-09-17,LaLiga,Ath Bilbao,Vallecano,H,H
+2022-09-17,LaLiga,Valencia,Celta,H,H
+2022-09-17,LaLiga,Mallorca,Almeria,H,H
+2022-09-17,LaLiga,Barcelona,Elche,H,H
+2022-09-17,EPL,Wolves,Man City,A,A
+2022-09-18,SerieA,Roma,Atalanta,A,H
+2022-09-18,LaLiga,Betis,Girona,H,H
+2022-09-18,LaLiga,Sociedad,Espanol,H,H
+2022-09-18,LaLiga,Ath Madrid,Real Madrid,A,A
+2022-09-18,LaLiga,Osasuna,Getafe,A,H
+2022-09-18,SerieA,Fiorentina,Verona,H,H
+2022-09-18,EPL,Everton,West Ham,H,A
+2022-09-18,SerieA,Udinese,Inter,H,A
+2022-09-18,EPL,Brentford,Arsenal,A,H
+2022-09-18,SerieA,Milan,Napoli,A,A
+2022-09-18,Bundes,Union Berlin,Wolfsburg,H,H
+2022-09-30,Bundes,Bayern Munich,Leverkusen,H,H
+2022-09-30,LaLiga,Ath Bilbao,Almeria,H,H
+2022-10-01,Bundes,RB Leipzig,Bochum,H,H
+2022-10-01,EPL,Arsenal,Tottenham,H,H
+2022-10-01,LaLiga,Getafe,Valladolid,A,A
+2022-10-01,LaLiga,Sevilla,Ath Madrid,A,A
+2022-10-01,LaLiga,Mallorca,Barcelona,A,A
+2022-10-01,Bundes,Werder Bremen,M'gladbach,H,A
+2022-10-01,Bundes,Wolfsburg,Stuttgart,H,A
+2022-10-01,EPL,Southampton,Everton,A,A
+2022-10-01,Bundes,Freiburg,Mainz,H,H
+2022-10-01,EPL,Crystal Palace,Chelsea,A,A
+2022-10-01,EPL,Fulham,Newcastle,A,A
+2022-10-01,SerieA,Napoli,Torino,H,H
+2022-10-01,SerieA,Inter,Roma,A,H
+2022-10-01,SerieA,Empoli,Milan,A,A
+2022-10-01,Bundes,FC Koln,Dortmund,H,H
+2022-10-01,Bundes,Ein Frankfurt,Union Berlin,H,A
+2022-10-01,EPL,West Ham,Wolves,H,A
+2022-10-02,LaLiga,Girona,Sociedad,A,A
+2022-10-02,SerieA,Lazio,Spezia,H,H
+2022-10-02,SerieA,Sassuolo,Salernitana,H,A
+2022-10-02,SerieA,Atalanta,Fiorentina,H,H
+2022-10-02,LaLiga,Celta,Betis,H,A
+2022-10-02,SerieA,Juventus,Bologna,H,H
+2022-10-02,Bundes,Schalke 04,Augsburg,A,H
+2022-10-02,EPL,Man City,Man United,H,H
+2022-10-03,SerieA,Verona,Udinese,A,A
+2022-10-03,LaLiga,Vallecano,Elche,H,H
+2022-10-07,LaLiga,Osasuna,Valencia,A,A
+2022-10-07,Bundes,Hoffenheim,Werder Bremen,A,H
+2022-10-08,SerieA,Milan,Juventus,H,H
+2022-10-08,SerieA,Sassuolo,Inter,A,A
+2022-10-08,LaLiga,Getafe,Real Madrid,A,A
+2022-10-08,LaLiga,Ath Madrid,Girona,H,H
+2022-10-08,LaLiga,Almeria,Vallecano,H,A
+2022-10-08,Bundes,Bochum,Ein Frankfurt,H,A
+2022-10-08,Bundes,Leverkusen,Schalke 04,H,H
+2022-10-08,EPL,Brighton,Tottenham,A,A
+2022-10-08,EPL,Bournemouth,Leicester,H,A
+2022-10-08,EPL,Chelsea,Wolves,H,H
+2022-10-08,EPL,Man City,Southampton,H,H
+2022-10-08,EPL,Newcastle,Brentford,H,H
+2022-10-09,LaLiga,Sociedad,Villarreal,H,A
+2022-10-09,Bundes,Stuttgart,Union Berlin,A,A
+2022-10-09,Bundes,M'gladbach,FC Koln,H,H
+2022-10-09,LaLiga,Barcelona,Celta,H,H
+2022-10-09,EPL,Crystal Palace,Leeds,H,A
+2022-10-09,EPL,Everton,Man United,A,H
+2022-10-09,SerieA,Roma,Lecce,H,H
+2022-10-09,EPL,Arsenal,Liverpool,H,A
+2022-10-09,EPL,West Ham,Fulham,H,A
+2022-10-09,SerieA,Salernitana,Verona,H,A
+2022-10-10,SerieA,Fiorentina,Lazio,A,A
+2022-10-14,EPL,Brentford,Brighton,H,A
+2022-10-14,Bundes,Schalke 04,Hoffenheim,A,A
+2022-10-15,SerieA,Torino,Juventus,A,A
+2022-10-15,Bundes,RB Leipzig,Hertha,H,H
+2022-10-15,LaLiga,Ath Bilbao,Ath Madrid,A,A
+2022-10-15,SerieA,Atalanta,Sassuolo,H,A
+2022-10-15,EPL,Tottenham,Everton,H,H
+2022-10-15,Bundes,Ein Frankfurt,Leverkusen,H,A
+2022-10-15,LaLiga,Mallorca,Sevilla,A,A
+2022-10-15,Bundes,Werder Bremen,Mainz,A,A
+2022-10-15,Bundes,Stuttgart,Bochum,H,H
+2022-10-16,LaLiga,Espanol,Valladolid,H,A
+2022-10-16,Bundes,Union Berlin,Dortmund,H,A
+2022-10-16,Bundes,Bayern Munich,Freiburg,H,H
+2022-10-16,EPL,Liverpool,Man City,H,A
+2022-10-16,SerieA,Napoli,Bologna,H,H
+2022-10-16,EPL,Aston Villa,Chelsea,A,A
+2022-10-16,SerieA,Verona,Milan,A,A
+2022-10-16,LaLiga,Real Madrid,Barcelona,H,H
+2022-10-16,LaLiga,Betis,Almeria,H,A
+2022-10-16,Bundes,FC Koln,Augsburg,H,H
+2022-10-16,EPL,Leeds,Arsenal,A,A
+2022-10-16,SerieA,Inter,Salernitana,H,H
+2022-10-16,LaLiga,Celta,Sociedad,A,A
+2022-10-17,LaLiga,Villarreal,Osasuna,H,H
+2022-10-17,SerieA,Sampdoria,Roma,A,A
+2022-10-18,EPL,Crystal Palace,Wolves,H,H
+2022-10-19,EPL,Liverpool,West Ham,H,H
+2022-10-19,LaLiga,Valladolid,Celta,H,H
+2022-10-19,EPL,Man United,Tottenham,H,A
+2022-10-19,LaLiga,Sociedad,Mallorca,H,H
+2022-10-19,LaLiga,Elche,Real Madrid,A,A
+2022-10-19,EPL,Bournemouth,Southampton,A,A
+2022-10-19,EPL,Newcastle,Everton,H,H
+2022-10-20,LaLiga,Almeria,Girona,H,A
+2022-10-20,EPL,Fulham,Aston Villa,H,A
+2022-10-20,LaLiga,Osasuna,Espanol,H,H
+2022-10-20,LaLiga,Barcelona,Villarreal,H,H
+2022-10-20,EPL,Leicester,Leeds,H,H
+2022-10-21,Bundes,Mainz,FC Koln,H,A
+2022-10-21,SerieA,Juventus,Empoli,H,H
+2022-10-22,EPL,Man City,Brighton,H,H
+2022-10-22,Bundes,Dortmund,Stuttgart,H,H
+2022-10-22,EPL,Nott'm Forest,Liverpool,H,A
+2022-10-22,LaLiga,Valladolid,Sociedad,H,A
+2022-10-22,EPL,Everton,Crystal Palace,H,A
+2022-10-22,Bundes,Freiburg,Werder Bremen,H,A
+2022-10-22,Bundes,M'gladbach,Ein Frankfurt,A,H
+2022-10-22,Bundes,Hoffenheim,Bayern Munich,A,A
+2022-10-22,LaLiga,Real Madrid,Sevilla,H,H
+2022-10-22,LaLiga,Valencia,Mallorca,A,H
+2022-10-22,SerieA,Milan,Monza,H,H
+2022-10-22,LaLiga,Vallecano,Cadiz,H,H
+2022-10-22,SerieA,Salernitana,Spezia,H,H
+2022-10-22,SerieA,Fiorentina,Inter,A,A
+2022-10-23,Bundes,Hertha,Schalke 04,H,H
+2022-10-23,Bundes,Bochum,Union Berlin,H,A
+2022-10-23,EPL,Leeds,Fulham,A,H
+2022-10-23,EPL,Aston Villa,Brentford,H,A
+2022-10-23,EPL,Tottenham,Newcastle,A,H
+2022-10-23,LaLiga,Barcelona,Ath Bilbao,H,A
+2022-10-23,EPL,Wolves,Leicester,A,A
+2022-10-23,LaLiga,Villarreal,Almeria,H,H
+2022-10-23,SerieA,Bologna,Lecce,H,H
+2022-10-23,SerieA,Udinese,Torino,A,A
+2022-10-23,SerieA,Roma,Napoli,A,A
+2022-10-23,LaLiga,Betis,Ath Madrid,A,A
+2022-10-23,SerieA,Atalanta,Lazio,A,A
+2022-10-24,EPL,West Ham,Bournemouth,H,H
+2022-10-24,SerieA,Sassuolo,Verona,H,H
+2022-10-28,Bundes,Werder Bremen,Hertha,H,A
+2022-10-29,SerieA,Inter,Sampdoria,H,H
+2022-10-29,LaLiga,Cadiz,Ath Madrid,H,A
+2022-10-29,LaLiga,Sevilla,Vallecano,A,H
+2022-10-29,LaLiga,Valencia,Barcelona,A,A
+2022-10-29,LaLiga,Almeria,Celta,H,H
+2022-10-29,Bundes,Ein Frankfurt,Dortmund,A,A
+2022-10-29,EPL,Leicester,Man City,A,A
+2022-10-29,EPL,Brighton,Chelsea,H,H
+2022-10-29,EPL,Crystal Palace,Southampton,H,H
+2022-10-29,EPL,Bournemouth,Tottenham,A,A
+2022-10-29,EPL,Liverpool,Leeds,A,H
+2022-10-29,Bundes,Wolfsburg,Bochum,H,H
+2022-10-29,Bundes,Stuttgart,Augsburg,H,H
+2022-10-29,Bundes,RB Leipzig,Leverkusen,H,H
+2022-10-29,Bundes,Bayern Munich,Mainz,H,H
+2022-10-29,SerieA,Napoli,Sassuolo,H,H
+2022-10-29,SerieA,Lecce,Juventus,A,A
+2022-10-29,EPL,Newcastle,Aston Villa,H,H
+2022-10-30,SerieA,Lazio,Salernitana,A,H
+2022-10-30,Bundes,Schalke 04,Freiburg,A,A
+2022-10-30,Bundes,Union Berlin,M'gladbach,H,A
+2022-10-30,SerieA,Spezia,Fiorentina,A,A
+2022-10-30,SerieA,Torino,Milan,H,A
+2022-10-30,SerieA,Empoli,Atalanta,A,A
+2022-10-30,LaLiga,Osasuna,Valladolid,H,H
+2022-10-30,LaLiga,Sociedad,Betis,A,H
+2022-10-30,EPL,Man United,West Ham,H,H
+2022-10-30,EPL,Arsenal,Nott'm Forest,H,H
+2022-10-30,LaLiga,Ath Bilbao,Villarreal,H,H
+2022-10-31,LaLiga,Elche,Getafe,A,A
+2022-10-31,SerieA,Verona,Roma,A,A
+2022-10-31,SerieA,Monza,Bologna,A,H
+2022-11-04,Bundes,M'gladbach,Stuttgart,H,H
+2022-11-04,LaLiga,Girona,Ath Bilbao,H,A
+2022-11-05,SerieA,Empoli,Sassuolo,H,A
+2022-11-05,Bundes,Dortmund,Bochum,H,H
+2022-11-05,Bundes,Werder Bremen,Schalke 04,H,H
+2022-11-05,LaLiga,Celta,Osasuna,A,H
+2022-11-05,SerieA,Milan,Spezia,H,H
+2022-11-05,EPL,Wolves,Brighton,A,A
+2022-11-05,EPL,Man City,Fulham,H,H
+2022-11-05,EPL,Leeds,Bournemouth,H,H
+2022-11-05,EPL,Everton,Leicester,A,A
+2022-11-05,Bundes,Hertha,Bayern Munich,A,A
+2022-11-05,Bundes,Hoffenheim,RB Leipzig,A,A
+2022-11-05,LaLiga,Barcelona,Almeria,H,H
+2022-11-05,Bundes,Mainz,Wolfsburg,A,H
+2022-11-05,LaLiga,Valladolid,Elche,H,H
+2022-11-05,SerieA,Atalanta,Napoli,A,A
+2022-11-05,Bundes,Augsburg,Ein Frankfurt,A,A
+2022-11-06,SerieA,Sampdoria,Fiorentina,A,A
+2022-11-06,Bundes,Leverkusen,Union Berlin,H,A
+2022-11-06,Bundes,Freiburg,FC Koln,H,H
+2022-11-06,SerieA,Roma,Lazio,A,A
+2022-11-06,SerieA,Juventus,Inter,H,A
+2022-11-06,EPL,Tottenham,Liverpool,A,H
+2022-11-06,SerieA,Monza,Verona,H,H
+2022-11-06,SerieA,Bologna,Torino,H,A
+2022-11-06,EPL,Aston Villa,Man United,H,H
+2022-11-06,LaLiga,Villarreal,Mallorca,A,H
+2022-11-06,EPL,Southampton,Newcastle,A,A
+2022-11-06,EPL,West Ham,Crystal Palace,A,H
+2022-11-06,EPL,Chelsea,Arsenal,A,A
+2022-11-07,LaLiga,Vallecano,Real Madrid,H,A
+2022-11-08,SerieA,Napoli,Empoli,H,H
+2022-11-08,Bundes,Bayern Munich,Werder Bremen,H,H
+2022-11-08,Bundes,Stuttgart,Hertha,H,A
+2022-11-08,LaLiga,Ath Bilbao,Valladolid,H,H
+2022-11-08,LaLiga,Elche,Girona,A,H
+2022-11-08,Bundes,Wolfsburg,Dortmund,H,A
+2022-11-08,Bundes,Bochum,M'gladbach,H,A
+2022-11-08,LaLiga,Osasuna,Barcelona,A,A
+2022-11-09,LaLiga,Sevilla,Sociedad,A,A
+2022-11-09,SerieA,Inter,Bologna,H,H
+2022-11-09,Bundes,FC Koln,Leverkusen,A,A
+2022-11-09,Bundes,Ein Frankfurt,Hoffenheim,H,H
+2022-11-09,Bundes,RB Leipzig,Freiburg,H,H
+2022-11-09,Bundes,Schalke 04,Mainz,H,A
+2022-11-09,LaLiga,Espanol,Villarreal,A,A
+2022-11-09,SerieA,Fiorentina,Salernitana,H,H
+2022-11-09,LaLiga,Almeria,Getafe,H,H
+2022-11-09,LaLiga,Mallorca,Ath Madrid,H,A
+2022-11-09,SerieA,Torino,Sampdoria,H,A
+2022-11-09,SerieA,Lecce,Atalanta,H,A
+2022-11-10,LaLiga,Real Madrid,Cadiz,H,H
+2022-11-10,LaLiga,Valencia,Betis,H,A
+2022-11-10,SerieA,Lazio,Monza,H,H
+2022-11-10,SerieA,Verona,Juventus,A,A
+2022-11-11,Bundes,M'gladbach,Dortmund,H,H
+2022-11-11,SerieA,Empoli,Cremonese,H,A
+2022-11-12,EPL,Tottenham,Leeds,H,H
+2022-11-12,Bundes,Schalke 04,Bayern Munich,A,A
+2022-11-12,Bundes,Hoffenheim,Wolfsburg,A,A
+2022-11-12,EPL,Man City,Brentford,A,H
+2022-11-12,Bundes,Augsburg,Bochum,A,H
+2022-11-12,Bundes,Hertha,FC Koln,H,A
+2022-11-12,Bundes,Leverkusen,Stuttgart,H,H
+2022-11-12,Bundes,Werder Bremen,RB Leipzig,A,A
+2022-11-12,EPL,Bournemouth,Everton,H,H
+2022-11-12,EPL,West Ham,Leicester,A,A
+2022-11-12,EPL,Newcastle,Chelsea,H,A
+2022-11-12,EPL,Wolves,Arsenal,A,A
+2022-11-12,SerieA,Napoli,Udinese,H,H
+2022-11-12,EPL,Nott'm Forest,Crystal Palace,H,H
+2022-11-12,SerieA,Sampdoria,Lecce,A,A
+2022-11-12,SerieA,Bologna,Sassuolo,H,A
+2022-11-12,EPL,Liverpool,Southampton,H,H
+2022-11-13,SerieA,Milan,Fiorentina,H,H
+2022-11-13,SerieA,Verona,Spezia,A,A
+2022-11-13,SerieA,Monza,Salernitana,H,H
+2022-11-13,SerieA,Juventus,Lazio,H,A
+2022-11-13,Bundes,Freiburg,Union Berlin,H,A
+2022-11-13,SerieA,Atalanta,Inter,A,A
+2022-11-13,EPL,Brighton,Aston Villa,A,H
+2022-11-13,EPL,Fulham,Man United,A,A
+2022-12-26,EPL,Crystal Palace,Fulham,A,H
+2022-12-26,EPL,Everton,Wolves,A,A
+2022-12-26,EPL,Southampton,Brighton,A,A
+2022-12-26,EPL,Leicester,Newcastle,A,A
+2022-12-26,EPL,Arsenal,West Ham,H,H
+2022-12-26,EPL,Aston Villa,Liverpool,A,A
+2022-12-27,EPL,Chelsea,Bournemouth,H,A
+2022-12-27,EPL,Man United,Nott'm Forest,H,H
+2022-12-28,EPL,Leeds,Man City,A,A
+2022-12-29,LaLiga,Ath Madrid,Elche,H,H
+2022-12-30,EPL,West Ham,Brentford,A,H
+2022-12-30,EPL,Liverpool,Leicester,H,H
+2022-12-30,LaLiga,Valladolid,Real Madrid,A,A
+2022-12-30,LaLiga,Getafe,Mallorca,H,A
+2022-12-31,EPL,Fulham,Southampton,H,A
+2022-12-31,EPL,Bournemouth,Crystal Palace,A,A
+2022-12-31,EPL,Wolves,Man United,A,A
+2022-12-31,EPL,Brighton,Arsenal,A,H
+2022-12-31,LaLiga,Villarreal,Valencia,H,H
+2022-12-31,LaLiga,Sociedad,Osasuna,H,H
+2023-01-01,EPL,Tottenham,Aston Villa,A,H
+2023-01-02,EPL,Brentford,Liverpool,H,A
+2023-01-03,EPL,Man United,Bournemouth,H,H
+2023-01-03,EPL,Leicester,Fulham,A,A
+2023-01-03,EPL,Everton,Brighton,A,A
+2023-01-04,SerieA,Salernitana,Milan,A,A
+2023-01-04,EPL,Southampton,Nott'm Forest,A,H
+2023-01-04,EPL,Crystal Palace,Tottenham,A,A
+2023-01-04,SerieA,Inter,Napoli,H,A
+2023-01-04,SerieA,Roma,Bologna,H,H
+2023-01-04,SerieA,Lecce,Lazio,H,A
+2023-01-04,SerieA,Sassuolo,Sampdoria,A,H
+2023-01-04,SerieA,Cremonese,Juventus,A,A
+2023-01-05,EPL,Chelsea,Man City,A,A
+2023-01-06,LaLiga,Valencia,Cadiz,A,H
+2023-01-06,LaLiga,Elche,Celta,A,A
+2023-01-07,LaLiga,Mallorca,Valladolid,H,H
+2023-01-07,SerieA,Fiorentina,Sassuolo,H,H
+2023-01-07,LaLiga,Villarreal,Real Madrid,H,A
+2023-01-07,SerieA,Juventus,Udinese,H,H
+2023-01-08,LaLiga,Ath Madrid,Barcelona,A,A
+2023-01-08,LaLiga,Sevilla,Getafe,H,H
+2023-01-08,LaLiga,Vallecano,Betis,A,H
+2023-01-08,LaLiga,Almeria,Sociedad,A,A
+2023-01-08,SerieA,Sampdoria,Napoli,A,A
+2023-01-09,SerieA,Bologna,Atalanta,A,A
+2023-01-09,SerieA,Verona,Cremonese,H,A
+2023-01-12,EPL,Fulham,Chelsea,H,A
+2023-01-13,EPL,Aston Villa,Leeds,H,H
+2023-01-13,SerieA,Napoli,Juventus,H,H
+2023-01-14,SerieA,Inter,Verona,H,H
+2023-01-14,LaLiga,Osasuna,Mallorca,H,H
+2023-01-14,SerieA,Cremonese,Monza,A,A
+2023-01-14,LaLiga,Valladolid,Vallecano,A,H
+2023-01-14,LaLiga,Girona,Sevilla,H,H
+2023-01-14,LaLiga,Sociedad,Ath Bilbao,H,H
+2023-01-14,EPL,Nott'm Forest,Leicester,H,A
+2023-01-14,EPL,Wolves,West Ham,H,A
+2023-01-14,EPL,Brentford,Bournemouth,H,H
+2023-01-14,EPL,Everton,Southampton,A,H
+2023-01-14,EPL,Brighton,Liverpool,H,A
+2023-01-14,EPL,Man United,Man City,H,A
+2023-01-15,SerieA,Torino,Spezia,A,A
+2023-01-15,LaLiga,Getafe,Espanol,A,H
+2023-01-15,SerieA,Sassuolo,Lazio,A,A
+2023-01-15,SerieA,Udinese,Bologna,A,H
+2023-01-15,EPL,Newcastle,Fulham,H,H
+2023-01-15,SerieA,Roma,Fiorentina,H,H
+2023-01-15,EPL,Chelsea,Crystal Palace,H,H
+2023-01-15,EPL,Tottenham,Arsenal,A,A
+2023-01-15,SerieA,Atalanta,Salernitana,H,H
+2023-01-16,SerieA,Empoli,Sampdoria,H,H
+2023-01-19,EPL,Man City,Tottenham,H,A
+2023-01-20,LaLiga,Mallorca,Celta,H,H
+2023-01-21,EPL,Southampton,Aston Villa,A,H
+2023-01-21,SerieA,Fiorentina,Torino,A,H
+2023-01-21,SerieA,Salernitana,Napoli,A,A
+2023-01-21,Bundes,Wolfsburg,Freiburg,H,H
+2023-01-21,Bundes,FC Koln,Werder Bremen,H,H
+2023-01-21,LaLiga,Vallecano,Sociedad,A,A
+2023-01-21,EPL,West Ham,Everton,H,H
+2023-01-21,SerieA,Verona,Lecce,H,A
+2023-01-21,Bundes,Ein Frankfurt,Schalke 04,H,H
+2023-01-21,Bundes,Bochum,Hertha,H,A
+2023-01-21,LaLiga,Ath Madrid,Valladolid,H,H
+2023-01-21,LaLiga,Sevilla,Cadiz,H,H
+2023-01-21,Bundes,Union Berlin,Hoffenheim,H,H
+2023-01-21,LaLiga,Espanol,Betis,H,A
+2023-01-22,Bundes,Dortmund,Augsburg,H,H
+2023-01-22,Bundes,M'gladbach,Leverkusen,A,H
+2023-01-22,LaLiga,Barcelona,Getafe,H,H
+2023-01-22,LaLiga,Villarreal,Girona,H,H
+2023-01-22,SerieA,Spezia,Roma,A,A
+2023-01-22,EPL,Man City,Wolves,H,H
+2023-01-22,LaLiga,Ath Bilbao,Real Madrid,A,A
+2023-01-22,SerieA,Sampdoria,Udinese,A,A
+2023-01-22,EPL,Arsenal,Man United,H,H
+2023-01-23,SerieA,Inter,Empoli,A,H
+2023-01-23,EPL,Fulham,Tottenham,A,A
+2023-01-24,Bundes,Schalke 04,RB Leipzig,A,A
+2023-01-24,Bundes,Hertha,Wolfsburg,A,H
+2023-01-24,SerieA,Lazio,Milan,H,A
+2023-01-25,Bundes,Mainz,Dortmund,A,A
+2023-01-25,Bundes,Augsburg,M'gladbach,H,A
+2023-01-25,Bundes,Werder Bremen,Union Berlin,A,A
+2023-01-25,Bundes,Leverkusen,Bochum,H,H
+2023-01-27,SerieA,Bologna,Spezia,H,H
+2023-01-27,Bundes,RB Leipzig,Stuttgart,H,H
+2023-01-27,LaLiga,Almeria,Espanol,H,A
+2023-01-27,SerieA,Lecce,Salernitana,A,H
+2023-01-28,SerieA,Cremonese,Inter,A,A
+2023-01-28,Bundes,Freiburg,Augsburg,H,H
+2023-01-28,Bundes,Mainz,Bochum,H,H
+2023-01-28,Bundes,Werder Bremen,Wolfsburg,H,A
+2023-01-28,SerieA,Atalanta,Sampdoria,H,H
+2023-01-28,Bundes,Hoffenheim,M'gladbach,A,A
+2023-01-28,LaLiga,Getafe,Betis,A,A
+2023-01-28,LaLiga,Sevilla,Elche,H,H
+2023-01-28,LaLiga,Girona,Barcelona,A,A
+2023-01-28,LaLiga,Cadiz,Mallorca,H,A
+2023-01-28,Bundes,Hertha,Union Berlin,A,A
+2023-01-29,LaLiga,Celta,Ath Bilbao,H,H
+2023-01-29,LaLiga,Osasuna,Ath Madrid,A,A
+2023-01-29,LaLiga,Valladolid,Valencia,H,A
+2023-01-29,SerieA,Milan,Sassuolo,A,H
+2023-01-29,Bundes,Leverkusen,Dortmund,A,A
+2023-01-29,SerieA,Napoli,Roma,H,H
+2023-01-29,SerieA,Juventus,Monza,A,H
+2023-01-30,LaLiga,Villarreal,Vallecano,A,H
+2023-02-01,LaLiga,Betis,Barcelona,A,A
+2023-02-02,LaLiga,Real Madrid,Valencia,H,H
+2023-02-03,LaLiga,Ath Bilbao,Cadiz,H,H
+2023-02-03,Bundes,Augsburg,Leverkusen,H,A
+2023-02-04,EPL,Brentford,Southampton,H,H
+2023-02-04,EPL,Wolves,Liverpool,H,A
+2023-02-04,SerieA,Sassuolo,Atalanta,H,A
+2023-02-04,Bundes,Union Berlin,Mainz,H,H
+2023-02-04,Bundes,Ein Frankfurt,Hertha,H,H
+2023-02-04,Bundes,Bochum,Hoffenheim,H,A
+2023-02-04,Bundes,Dortmund,Freiburg,H,H
+2023-02-04,SerieA,Roma,Empoli,H,H
+2023-02-04,EPL,Brighton,Bournemouth,H,H
+2023-02-04,LaLiga,Elche,Villarreal,H,H
+2023-02-04,LaLiga,Betis,Celta,A,H
+2023-02-04,EPL,Everton,Arsenal,H,A
+2023-02-04,EPL,Aston Villa,Leicester,A,H
+2023-02-04,EPL,Man United,Crystal Palace,H,H
+2023-02-04,SerieA,Cremonese,Lecce,A,A
+2023-02-05,EPL,Nott'm Forest,Leeds,H,H
+2023-02-05,LaLiga,Sociedad,Valladolid,A,H
+2023-02-05,Bundes,Stuttgart,Werder Bremen,A,H
+2023-02-05,LaLiga,Mallorca,Real Madrid,H,A
+2023-02-05,LaLiga,Girona,Valencia,H,H
+2023-02-05,LaLiga,Barcelona,Sevilla,H,H
+2023-02-05,SerieA,Inter,Milan,H,A
+2023-02-05,EPL,Tottenham,Man City,H,A
+2023-02-05,SerieA,Fiorentina,Bologna,A,H
+2023-02-05,SerieA,Torino,Udinese,H,A
+2023-02-05,SerieA,Spezia,Napoli,A,A
+2023-02-05,Bundes,Wolfsburg,Bayern Munich,A,A
+2023-02-06,LaLiga,Vallecano,Almeria,H,H
+2023-02-07,SerieA,Salernitana,Juventus,A,A
+2023-02-10,LaLiga,Cadiz,Girona,H,H
+2023-02-10,SerieA,Milan,Torino,H,H
+2023-02-11,LaLiga,Sevilla,Mallorca,H,H
+2023-02-11,Bundes,RB Leipzig,Union Berlin,A,H
+2023-02-11,Bundes,Werder Bremen,Dortmund,A,A
+2023-02-11,Bundes,Mainz,Augsburg,H,A
+2023-02-11,Bundes,Hoffenheim,Leverkusen,A,A
+2023-02-11,Bundes,Freiburg,Stuttgart,H,H
+2023-02-11,Bundes,Bayern Munich,Bochum,H,H
+2023-02-11,LaLiga,Almeria,Betis,A,H
+2023-02-11,LaLiga,Valencia,Ath Bilbao,A,H
+2023-02-11,SerieA,Lazio,Atalanta,A,A
+2023-02-11,EPL,Leicester,Tottenham,H,A
+2023-02-11,EPL,Fulham,Nott'm Forest,H,H
+2023-02-11,EPL,Southampton,Wolves,A,H
+2023-02-12,SerieA,Juventus,Fiorentina,H,H
+2023-02-12,Bundes,Hertha,M'gladbach,H,A
+2023-02-12,Bundes,FC Koln,Ein Frankfurt,H,A
+2023-02-12,SerieA,Bologna,Monza,A,H
+2023-02-12,LaLiga,Villarreal,Barcelona,A,A
+2023-02-12,EPL,Man City,Aston Villa,H,H
+2023-02-12,SerieA,Napoli,Cremonese,H,H
+2023-02-12,LaLiga,Celta,Ath Madrid,A,A
+2023-02-12,EPL,Leeds,Man United,A,A
+2023-02-13,SerieA,Verona,Salernitana,H,H
+2023-02-13,LaLiga,Espanol,Sociedad,A,A
+2023-02-13,EPL,Liverpool,Everton,H,H
+2023-02-15,EPL,Arsenal,Man City,A,A
+2023-02-15,LaLiga,Real Madrid,Elche,H,H
+2023-02-17,Bundes,Augsburg,Hoffenheim,H,A
+2023-02-17,SerieA,Sassuolo,Napoli,A,A
+2023-02-17,LaLiga,Girona,Almeria,H,H
+2023-02-18,LaLiga,Osasuna,Real Madrid,A,A
+2023-02-18,Bundes,Bochum,Freiburg,A,H
+2023-02-18,LaLiga,Betis,Valladolid,H,H
+2023-02-18,LaLiga,Mallorca,Villarreal,H,H
+2023-02-18,Bundes,M'gladbach,Bayern Munich,H,A
+2023-02-18,Bundes,Stuttgart,FC Koln,H,H
+2023-02-18,EPL,Newcastle,Liverpool,A,H
+2023-02-18,Bundes,Wolfsburg,RB Leipzig,A,A
+2023-02-18,SerieA,Monza,Milan,A,A
+2023-02-18,EPL,Wolves,Bournemouth,A,H
+2023-02-18,EPL,Aston Villa,Arsenal,A,A
+2023-02-18,SerieA,Inter,Udinese,H,H
+2023-02-18,Bundes,Ein Frankfurt,Werder Bremen,H,H
+2023-02-18,EPL,Brighton,Fulham,A,H
+2023-02-18,EPL,Everton,Leeds,H,H
+2023-02-18,EPL,Chelsea,Southampton,A,H
+2023-02-18,SerieA,Sampdoria,Bologna,A,A
+2023-02-19,Bundes,Dortmund,Hertha,H,H
+2023-02-19,Bundes,Leverkusen,Mainz,A,H
+2023-02-19,SerieA,Spezia,Juventus,A,A
+2023-02-19,SerieA,Roma,Verona,H,H
+2023-02-19,LaLiga,Ath Madrid,Ath Bilbao,H,H
+2023-02-19,EPL,Tottenham,West Ham,H,H
+2023-02-19,LaLiga,Elche,Espanol,A,A
+2023-02-19,EPL,Man United,Leicester,H,H
+2023-02-19,SerieA,Atalanta,Lecce,A,H
+2023-02-19,LaLiga,Barcelona,Cadiz,H,H
+2023-02-19,SerieA,Salernitana,Lazio,A,A
+2023-02-20,LaLiga,Getafe,Valencia,H,A
+2023-02-24,Bundes,Mainz,M'gladbach,H,H
+2023-02-24,LaLiga,Elche,Betis,A,A
+2023-02-25,LaLiga,Espanol,Mallorca,H,H
+2023-02-25,SerieA,Lecce,Sassuolo,A,A
+2023-02-25,LaLiga,Valencia,Sociedad,H,A
+2023-02-25,EPL,Everton,Aston Villa,A,H
+2023-02-25,EPL,Leeds,Southampton,H,A
+2023-02-25,EPL,Leicester,Arsenal,A,A
+2023-02-25,EPL,West Ham,Nott'm Forest,H,H
+2023-02-25,EPL,Bournemouth,Man City,A,A
+2023-02-25,Bundes,Hoffenheim,Dortmund,A,A
+2023-02-25,Bundes,Werder Bremen,Bochum,H,H
+2023-02-25,Bundes,RB Leipzig,Ein Frankfurt,H,H
+2023-02-25,Bundes,Hertha,Augsburg,H,H
+2023-02-25,Bundes,FC Koln,Wolfsburg,A,H
+2023-02-25,LaLiga,Cadiz,Vallecano,H,A
+2023-02-25,SerieA,Empoli,Napoli,A,A
+2023-02-25,Bundes,Schalke 04,Stuttgart,H,A
+2023-02-26,Bundes,Bayern Munich,Union Berlin,H,H
+2023-02-26,LaLiga,Ath Bilbao,Girona,A,H
+2023-02-26,LaLiga,Almeria,Barcelona,H,A
+2023-02-26,LaLiga,Sevilla,Osasuna,A,H
+2023-02-26,EPL,Tottenham,Chelsea,H,A
+2023-02-26,SerieA,Salernitana,Monza,H,A
+2023-02-26,SerieA,Bologna,Inter,H,A
+2023-02-26,LaLiga,Celta,Valladolid,H,H
+2023-02-26,SerieA,Milan,Atalanta,H,H
+2023-02-27,SerieA,Verona,Fiorentina,A,A
+2023-02-27,SerieA,Lazio,Sampdoria,H,H
+2023-02-27,LaLiga,Villarreal,Getafe,H,H
+2023-02-28,SerieA,Cremonese,Roma,H,A
+2023-02-28,SerieA,Juventus,Torino,H,H
+2023-03-01,EPL,Arsenal,Everton,H,H
+2023-03-01,EPL,Liverpool,Wolves,H,H
+2023-03-03,SerieA,Napoli,Lazio,A,H
+2023-03-03,Bundes,Dortmund,RB Leipzig,H,A
+2023-03-04,LaLiga,Getafe,Girona,H,H
+2023-03-04,Bundes,Bochum,Schalke 04,A,H
+2023-03-04,LaLiga,Mallorca,Elche,A,H
+2023-03-04,Bundes,Stuttgart,Bayern Munich,A,A
+2023-03-04,Bundes,Augsburg,Werder Bremen,H,H
+2023-03-04,Bundes,Mainz,Hoffenheim,H,H
+2023-03-04,LaLiga,Ath Madrid,Sevilla,H,H
+2023-03-04,EPL,Southampton,Leicester,H,A
+2023-03-04,EPL,Arsenal,Bournemouth,H,H
+2023-03-04,LaLiga,Almeria,Villarreal,A,H
+2023-03-04,EPL,Chelsea,Leeds,H,H
+2023-03-04,EPL,Brighton,West Ham,H,H
+2023-03-04,EPL,Aston Villa,Crystal Palace,H,A
+2023-03-04,EPL,Man City,Newcastle,H,H
+2023-03-04,SerieA,Fiorentina,Milan,H,A
+2023-03-04,SerieA,Monza,Empoli,H,A
+2023-03-04,EPL,Wolves,Tottenham,H,A
+2023-03-05,EPL,Liverpool,Man United,H,H
+2023-03-05,LaLiga,Valladolid,Espanol,H,H
+2023-03-05,SerieA,Roma,Juventus,H,A
+2023-03-05,Bundes,Leverkusen,Hertha,H,H
+2023-03-05,LaLiga,Barcelona,Valencia,H,H
+2023-03-05,SerieA,Inter,Lecce,H,H
+2023-03-06,SerieA,Torino,Bologna,H,H
+2023-03-06,EPL,Brentford,Fulham,H,A
+2023-03-06,SerieA,Sassuolo,Cremonese,H,H
+2023-03-10,SerieA,Spezia,Inter,H,A
+2023-03-10,Bundes,FC Koln,Bochum,A,H
+2023-03-11,LaLiga,Celta,Vallecano,H,H
+2023-03-11,EPL,Bournemouth,Liverpool,H,A
+2023-03-11,EPL,Everton,Brentford,H,H
+2023-03-11,EPL,Leicester,Chelsea,A,A
+2023-03-11,EPL,Tottenham,Nott'm Forest,H,H
+2023-03-11,EPL,Crystal Palace,Man City,A,A
+2023-03-11,LaLiga,Real Madrid,Espanol,H,H
+2023-03-11,Bundes,RB Leipzig,M'gladbach,H,H
+2023-03-11,Bundes,Bayern Munich,Augsburg,H,H
+2023-03-11,SerieA,Napoli,Atalanta,H,H
+2023-03-11,SerieA,Empoli,Udinese,A,A
+2023-03-11,LaLiga,Valencia,Osasuna,H,H
+2023-03-12,SerieA,Juventus,Sampdoria,H,H
+2023-03-12,EPL,Fulham,Arsenal,A,A
+2023-03-12,SerieA,Lecce,Torino,A,A
+2023-03-12,EPL,Newcastle,Wolves,H,H
+2023-03-12,SerieA,Roma,Sassuolo,A,A
+2023-03-12,Bundes,Freiburg,Hoffenheim,H,H
+2023-03-12,LaLiga,Ath Bilbao,Barcelona,A,A
+2023-03-12,LaLiga,Sevilla,Almeria,H,H
+2023-03-12,SerieA,Cremonese,Fiorentina,A,A
+2023-03-12,Bundes,Werder Bremen,Leverkusen,A,A
+2023-03-13,LaLiga,Girona,Ath Madrid,A,A
+2023-03-15,EPL,Brighton,Crystal Palace,H,H
+2023-03-15,EPL,Southampton,Brentford,A,A
+2023-03-17,SerieA,Atalanta,Empoli,H,H
+2023-03-17,LaLiga,Valladolid,Ath Bilbao,A,H
+2023-03-17,EPL,Nott'm Forest,Newcastle,A,A
+2023-03-17,SerieA,Sassuolo,Spezia,H,H
+2023-03-18,SerieA,Udinese,Milan,H,H
+2023-03-18,EPL,Wolves,Leeds,A,H
+2023-03-18,EPL,Aston Villa,Bournemouth,H,H
+2023-03-18,LaLiga,Espanol,Celta,A,A
+2023-03-18,Bundes,Dortmund,FC Koln,H,H
+2023-03-18,Bundes,Stuttgart,Wolfsburg,A,A
+2023-03-18,Bundes,Hoffenheim,Hertha,H,H
+2023-03-18,Bundes,Bochum,RB Leipzig,H,A
+2023-03-18,LaLiga,Ath Madrid,Valencia,H,H
+2023-03-19,LaLiga,Barcelona,Real Madrid,H,H
+2023-03-19,LaLiga,Getafe,Sevilla,H,A
+2023-03-19,LaLiga,Sociedad,Elche,H,H
+2023-03-19,LaLiga,Osasuna,Villarreal,A,H
+2023-03-19,Bundes,Union Berlin,Ein Frankfurt,H,H
+2023-03-19,LaLiga,Betis,Mallorca,H,H
+2023-03-19,SerieA,Sampdoria,Verona,H,A
+2023-03-19,EPL,Arsenal,Crystal Palace,H,H
+2023-03-19,SerieA,Inter,Juventus,A,A
+2023-03-19,SerieA,Lazio,Roma,H,A
+2023-03-19,SerieA,Torino,Napoli,A,A
+2023-03-19,SerieA,Fiorentina,Lecce,H,H
+2023-03-19,Bundes,Leverkusen,Bayern Munich,H,A
+2023-04-01,LaLiga,Girona,Espanol,H,H
+2023-04-01,EPL,Crystal Palace,Leicester,H,A
+2023-04-01,EPL,Chelsea,Aston Villa,A,H
+2023-04-01,EPL,Arsenal,Leeds,H,H
+2023-04-01,EPL,Man City,Liverpool,H,H
+2023-04-01,Bundes,Bayern Munich,Dortmund,H,H
+2023-04-01,EPL,Bournemouth,Fulham,H,A
+2023-04-01,SerieA,Juventus,Verona,H,H
+2023-04-01,LaLiga,Elche,Barcelona,A,A
+2023-04-01,LaLiga,Cadiz,Sevilla,A,A
+2023-04-01,Bundes,Union Berlin,Stuttgart,H,H
+2023-04-01,Bundes,RB Leipzig,Mainz,A,H
+2023-04-01,Bundes,Schalke 04,Leverkusen,A,A
+2023-04-01,SerieA,Inter,Fiorentina,A,H
+2023-04-01,SerieA,Cremonese,Atalanta,A,A
+2023-04-02,LaLiga,Ath Madrid,Betis,H,H
+2023-04-02,LaLiga,Villarreal,Sociedad,H,A
+2023-04-02,LaLiga,Real Madrid,Valladolid,H,H
+2023-04-02,SerieA,Monza,Lazio,A,A
+2023-04-02,EPL,Newcastle,Man United,H,H
+2023-04-02,SerieA,Roma,Sampdoria,H,H
+2023-04-02,SerieA,Bologna,Udinese,H,H
+2023-04-02,Bundes,Werder Bremen,Hoffenheim,A,A
+2023-04-02,SerieA,Napoli,Milan,A,H
+2023-04-02,EPL,West Ham,Southampton,H,H
+2023-04-03,SerieA,Empoli,Lecce,H,H
+2023-04-04,EPL,Bournemouth,Brighton,A,A
+2023-04-04,EPL,Leeds,Nott'm Forest,H,H
+2023-04-04,EPL,Leicester,Aston Villa,A,H
+2023-04-05,EPL,Man United,Brentford,H,H
+2023-04-05,EPL,West Ham,Newcastle,A,A
+2023-04-07,SerieA,Lecce,Napoli,A,A
+2023-04-08,Bundes,Dortmund,Union Berlin,H,H
+2023-04-08,Bundes,Freiburg,Bayern Munich,A,A
+2023-04-08,Bundes,Leverkusen,Ein Frankfurt,H,H
+2023-04-08,Bundes,Augsburg,FC Koln,A,H
+2023-04-08,SerieA,Torino,Roma,A,A
+2023-04-08,SerieA,Verona,Sassuolo,H,A
+2023-04-08,SerieA,Lazio,Juventus,H,A
+2023-04-08,Bundes,Hertha,RB Leipzig,A,A
+2023-04-08,EPL,Brentford,Newcastle,A,A
+2023-04-08,SerieA,Sampdoria,Cremonese,A,A
+2023-04-08,LaLiga,Real Madrid,Villarreal,A,H
+2023-04-08,LaLiga,Sociedad,Getafe,H,H
+2023-04-08,LaLiga,Espanol,Ath Bilbao,A,A
+2023-04-08,LaLiga,Osasuna,Elche,H,H
+2023-04-08,EPL,Wolves,Chelsea,H,A
+2023-04-08,EPL,Southampton,Man City,A,A
+2023-04-08,SerieA,Atalanta,Bologna,A,H
+2023-04-08,EPL,Leicester,Bournemouth,A,H
+2023-04-08,EPL,Fulham,West Ham,A,H
+2023-04-08,EPL,Tottenham,Brighton,H,A
+2023-04-08,EPL,Man United,Everton,H,H
+2023-04-08,EPL,Aston Villa,Nott'm Forest,H,H
+2023-04-09,Bundes,Hoffenheim,Schalke 04,H,A
+2023-04-09,Bundes,Bochum,Stuttgart,A,H
+2023-04-09,Bundes,M'gladbach,Wolfsburg,H,H
+2023-04-09,LaLiga,Vallecano,Ath Madrid,A,A
+2023-04-09,LaLiga,Almeria,Valencia,H,H
+2023-04-09,LaLiga,Betis,Cadiz,A,H
+2023-04-09,EPL,Leeds,Crystal Palace,A,H
+2023-04-14,SerieA,Spezia,Lazio,A,A
+2023-04-14,LaLiga,Vallecano,Osasuna,H,H
+2023-04-14,Bundes,Schalke 04,Hertha,H,H
+2023-04-14,SerieA,Cremonese,Empoli,H,A
+2023-04-15,LaLiga,Ath Bilbao,Sociedad,H,A
+2023-04-15,EPL,Southampton,Crystal Palace,A,A
+2023-04-15,LaLiga,Betis,Espanol,H,H
+2023-04-15,LaLiga,Villarreal,Valladolid,A,H
+2023-04-15,EPL,Aston Villa,Newcastle,H,A
+2023-04-15,EPL,Chelsea,Brighton,A,A
+2023-04-15,Bundes,RB Leipzig,Augsburg,H,H
+2023-04-15,LaLiga,Cadiz,Real Madrid,A,A
+2023-04-15,EPL,Wolves,Brentford,H,H
+2023-04-15,EPL,Everton,Fulham,A,H
+2023-04-15,EPL,Man City,Leicester,H,H
+2023-04-15,EPL,Tottenham,Bournemouth,A,H
+2023-04-15,SerieA,Inter,Monza,A,H
+2023-04-16,Bundes,Werder Bremen,Freiburg,A,H
+2023-04-16,LaLiga,Valencia,Sevilla,A,H
+2023-04-16,SerieA,Roma,Udinese,H,H
+2023-04-16,SerieA,Sassuolo,Juventus,H,A
+2023-04-16,LaLiga,Girona,Elche,H,H
+2023-04-16,EPL,Nott'm Forest,Man United,A,H
+2023-04-16,LaLiga,Ath Madrid,Almeria,H,H
+2023-04-17,LaLiga,Celta,Mallorca,A,H
+2023-04-17,EPL,Leeds,Liverpool,A,A
+2023-04-21,SerieA,Verona,Bologna,H,A
+2023-04-22,Bundes,Dortmund,Ein Frankfurt,H,H
+2023-04-22,EPL,Fulham,Leeds,H,H
+2023-04-22,EPL,Leicester,Wolves,H,H
+2023-04-22,LaLiga,Almeria,Ath Bilbao,A,A
+2023-04-22,LaLiga,Osasuna,Betis,H,A
+2023-04-22,Bundes,Hoffenheim,FC Koln,A,H
+2023-04-22,Bundes,Hertha,Werder Bremen,A,A
+2023-04-22,Bundes,Bochum,Wolfsburg,A,A
+2023-04-22,SerieA,Salernitana,Sassuolo,H,A
+2023-04-22,SerieA,Lazio,Torino,A,A
+2023-04-22,LaLiga,Real Madrid,Celta,H,H
+2023-04-22,LaLiga,Valladolid,Girona,H,H
+2023-04-22,LaLiga,Sociedad,Vallecano,H,H
+2023-04-22,Bundes,Mainz,Bayern Munich,H,A
+2023-04-22,EPL,Liverpool,Nott'm Forest,H,H
+2023-04-23,Bundes,Leverkusen,RB Leipzig,H,A
+2023-04-23,Bundes,Freiburg,Schalke 04,H,H
+2023-04-23,EPL,Bournemouth,West Ham,A,H
+2023-04-23,LaLiga,Mallorca,Getafe,H,A
+2023-04-23,SerieA,Monza,Fiorentina,H,A
+2023-04-23,LaLiga,Barcelona,Ath Madrid,H,H
+2023-04-23,LaLiga,Sevilla,Villarreal,H,H
+2023-04-23,Bundes,M'gladbach,Union Berlin,A,H
+2023-04-23,SerieA,Udinese,Cremonese,H,H
+2023-04-23,SerieA,Empoli,Inter,A,A
+2023-04-23,SerieA,Milan,Lecce,H,H
+2023-04-23,SerieA,Juventus,Napoli,A,A
+2023-04-23,LaLiga,Elche,Valencia,A,A
+2023-04-23,EPL,Newcastle,Tottenham,H,H
+2023-04-24,SerieA,Atalanta,Roma,H,H
+2023-04-25,LaLiga,Girona,Real Madrid,H,A
+2023-04-25,LaLiga,Cadiz,Osasuna,A,A
+2023-04-25,EPL,Wolves,Crystal Palace,H,H
+2023-04-25,EPL,Aston Villa,Fulham,H,A
+2023-04-26,LaLiga,Getafe,Almeria,A,A
+2023-04-26,LaLiga,Ath Madrid,Mallorca,H,H
+2023-04-26,EPL,Nott'm Forest,Brighton,H,A
+2023-04-26,LaLiga,Vallecano,Barcelona,H,A
+2023-04-26,EPL,Chelsea,Brentford,A,A
+2023-04-26,EPL,West Ham,Liverpool,A,A
+2023-04-26,LaLiga,Celta,Elche,H,H
+2023-04-26,EPL,Man City,Arsenal,H,H
+2023-04-27,EPL,Southampton,Bournemouth,A,H
+2023-04-27,LaLiga,Ath Bilbao,Sevilla,A,H
+2023-04-27,EPL,Everton,Newcastle,A,A
+2023-04-27,LaLiga,Valencia,Valladolid,H,H
+2023-04-27,LaLiga,Villarreal,Espanol,H,H
+2023-04-28,SerieA,Spezia,Monza,A,A
+2023-04-28,LaLiga,Osasuna,Sociedad,A,A
+2023-04-28,SerieA,Lecce,Udinese,H,H
+2023-04-29,EPL,Crystal Palace,West Ham,H,A
+2023-04-29,LaLiga,Elche,Vallecano,H,A
+2023-04-29,EPL,Brentford,Nott'm Forest,H,H
+2023-04-29,Bundes,RB Leipzig,Hoffenheim,H,H
+2023-04-29,Bundes,Schalke 04,Werder Bremen,H,A
+2023-04-29,EPL,Brighton,Wolves,H,H
+2023-04-29,Bundes,Stuttgart,M'gladbach,H,H
+2023-04-29,LaLiga,Barcelona,Betis,H,H
+2023-04-29,Bundes,FC Koln,Freiburg,A,A
+2023-04-29,SerieA,Torino,Atalanta,A,A
+2023-04-29,LaLiga,Real Madrid,Almeria,H,H
+2023-04-30,EPL,Fulham,Man City,A,A
+2023-04-30,LaLiga,Valladolid,Ath Madrid,A,A
+2023-04-30,LaLiga,Espanol,Getafe,H,H
+2023-04-30,LaLiga,Cadiz,Valencia,H,A
+2023-04-30,EPL,Bournemouth,Leeds,H,A
+2023-04-30,Bundes,Wolfsburg,Mainz,H,H
+2023-04-30,EPL,Liverpool,Tottenham,H,H
+2023-04-30,EPL,Newcastle,Southampton,H,H
+2023-04-30,Bundes,Bayern Munich,Hertha,H,H
+2023-04-30,LaLiga,Villarreal,Celta,H,H
+2023-04-30,SerieA,Inter,Lazio,H,H
+2023-04-30,SerieA,Sassuolo,Empoli,H,H
+2023-04-30,SerieA,Fiorentina,Sampdoria,H,H
+2023-04-30,EPL,Man United,Aston Villa,H,H
+2023-05-01,LaLiga,Sevilla,Girona,A,H
+2023-05-02,LaLiga,Sociedad,Real Madrid,H,A
+2023-05-02,EPL,Arsenal,Chelsea,H,H
+2023-05-02,LaLiga,Almeria,Elche,H,A
+2023-05-02,LaLiga,Barcelona,Osasuna,H,H
+2023-05-03,EPL,Liverpool,Fulham,H,H
+2023-05-03,EPL,Man City,West Ham,H,H
+2023-05-03,SerieA,Verona,Inter,A,A
+2023-05-03,LaLiga,Ath Madrid,Cadiz,H,H
+2023-05-03,SerieA,Atalanta,Spezia,H,H
+2023-05-03,SerieA,Lazio,Sassuolo,H,H
+2023-05-03,SerieA,Sampdoria,Torino,A,A
+2023-05-03,LaLiga,Getafe,Celta,H,A
+2023-05-03,SerieA,Juventus,Lecce,H,H
+2023-05-04,LaLiga,Sevilla,Espanol,H,H
+2023-05-04,LaLiga,Girona,Mallorca,H,H
+2023-05-04,EPL,Brighton,Man United,H,H
+2023-05-04,SerieA,Empoli,Bologna,H,H
+2023-05-04,LaLiga,Ath Bilbao,Betis,A,H
+2023-05-04,LaLiga,Vallecano,Valladolid,H,H
+2023-05-05,Bundes,Mainz,Schalke 04,A,H
+2023-05-05,Bundes,Leverkusen,FC Koln,A,H
+2023-05-06,EPL,Man City,Leeds,H,H
+2023-05-06,SerieA,Cremonese,Spezia,H,A
+2023-05-06,EPL,Liverpool,Brentford,H,H
+2023-05-06,Bundes,Werder Bremen,Bayern Munich,A,A
+2023-05-06,EPL,Wolves,Aston Villa,H,H
+2023-05-06,EPL,Tottenham,Crystal Palace,H,H
+2023-05-06,EPL,Bournemouth,Chelsea,A,A
+2023-05-06,Bundes,Freiburg,RB Leipzig,A,A
+2023-05-06,SerieA,Roma,Inter,A,A
+2023-05-06,Bundes,Hoffenheim,Ein Frankfurt,H,A
+2023-05-06,SerieA,Milan,Lazio,H,H
+2023-05-06,Bundes,Augsburg,Union Berlin,H,A
+2023-05-06,Bundes,M'gladbach,Bochum,H,H
+2023-05-06,Bundes,Hertha,Stuttgart,H,A
+2023-05-07,SerieA,Atalanta,Juventus,A,H
+2023-05-07,SerieA,Napoli,Fiorentina,H,H
+2023-05-07,SerieA,Lecce,Verona,A,A
+2023-05-07,EPL,Newcastle,Arsenal,A,A
+2023-05-07,Bundes,Dortmund,Wolfsburg,H,H
+2023-05-07,EPL,West Ham,Man United,H,A
+2023-05-08,SerieA,Udinese,Sampdoria,H,H
+2023-05-08,SerieA,Empoli,Salernitana,H,H
+2023-05-08,EPL,Brighton,Everton,A,H
+2023-05-08,EPL,Nott'm Forest,Southampton,H,H
+2023-05-08,EPL,Fulham,Leicester,H,A
+2023-05-12,LaLiga,Mallorca,Cadiz,H,H
+2023-05-12,Bundes,FC Koln,Hertha,H,H
+2023-05-13,Bundes,Bochum,Augsburg,H,A
+2023-05-13,Bundes,Ein Frankfurt,Mainz,H,H
+2023-05-13,EPL,Aston Villa,Tottenham,H,H
+2023-05-13,EPL,Crystal Palace,Bournemouth,H,A
+2023-05-13,EPL,Man United,Wolves,H,H
+2023-05-13,EPL,Southampton,Fulham,A,A
+2023-05-13,SerieA,Inter,Sassuolo,H,H
+2023-05-13,SerieA,Salernitana,Atalanta,H,A
+2023-05-13,Bundes,Bayern Munich,Schalke 04,H,H
+2023-05-13,LaLiga,Real Madrid,Getafe,H,H
+2023-05-13,SerieA,Spezia,Milan,H,A
+2023-05-13,Bundes,Union Berlin,Freiburg,H,H
+2023-05-13,LaLiga,Villarreal,Ath Bilbao,H,A
+2023-05-13,LaLiga,Osasuna,Almeria,H,A
+2023-05-13,Bundes,Wolfsburg,Hoffenheim,H,H
+2023-05-13,Bundes,Dortmund,M'gladbach,H,H
+2023-05-14,SerieA,Verona,Torino,A,A
+2023-05-14,EPL,Brentford,West Ham,H,H
+2023-05-14,EPL,Arsenal,Brighton,A,H
+2023-05-14,EPL,Everton,Man City,A,A
+2023-05-14,SerieA,Juventus,Cremonese,H,H
+2023-05-14,SerieA,Fiorentina,Udinese,H,H
+2023-05-14,SerieA,Monza,Napoli,H,A
+2023-05-14,Bundes,RB Leipzig,Werder Bremen,H,H
+2023-05-14,LaLiga,Celta,Valencia,A,H
+2023-05-14,LaLiga,Elche,Ath Madrid,H,A
+2023-05-14,LaLiga,Espanol,Barcelona,A,A
+2023-05-14,LaLiga,Valladolid,Sevilla,A,A
+2023-05-15,LaLiga,Betis,Vallecano,H,H
+2023-05-15,EPL,Leicester,Liverpool,A,A
+2023-05-18,EPL,Newcastle,Brighton,H,A
+2023-05-19,Bundes,Freiburg,Wolfsburg,H,A
+2023-05-19,SerieA,Sassuolo,Monza,A,A
+2023-05-19,LaLiga,Cadiz,Valladolid,H,H
+2023-05-20,SerieA,Atalanta,Verona,H,H
+2023-05-20,EPL,Nott'm Forest,Arsenal,H,A
+2023-05-20,EPL,Bournemouth,Man United,A,A
+2023-05-20,SerieA,Milan,Sampdoria,H,H
+2023-05-20,LaLiga,Barcelona,Sociedad,A,H
+2023-05-20,Bundes,Hoffenheim,Union Berlin,H,A
+2023-05-20,LaLiga,Almeria,Mallorca,H,H
+2023-05-20,LaLiga,Ath Bilbao,Celta,H,A
+2023-05-20,EPL,Tottenham,Brentford,A,H
+2023-05-20,SerieA,Cremonese,Bologna,A,A
+2023-05-20,Bundes,Bayern Munich,RB Leipzig,A,H
+2023-05-20,LaLiga,Girona,Villarreal,A,A
+2023-05-21,Bundes,Augsburg,Dortmund,A,A
+2023-05-21,SerieA,Napoli,Inter,H,A
+2023-05-21,Bundes,Mainz,Stuttgart,A,H
+2023-05-21,LaLiga,Ath Madrid,Osasuna,H,H
+2023-05-21,LaLiga,Valencia,Real Madrid,H,A
+2023-05-21,LaLiga,Vallecano,Espanol,A,H
+2023-05-21,SerieA,Udinese,Lazio,A,A
+2023-05-21,EPL,Brighton,Southampton,H,H
+2023-05-21,EPL,Man City,Chelsea,H,H
+2023-05-21,EPL,West Ham,Leeds,H,H
+2023-05-22,SerieA,Empoli,Juventus,H,A
+2023-05-23,LaLiga,Sociedad,Almeria,H,H
+2023-05-23,LaLiga,Valladolid,Barcelona,H,A
+2023-05-24,LaLiga,Betis,Getafe,A,H
+2023-05-24,LaLiga,Real Madrid,Vallecano,H,H
+2023-05-24,LaLiga,Villarreal,Cadiz,H,H
+2023-05-25,EPL,Man United,Chelsea,H,H
+2023-05-25,LaLiga,Mallorca,Valencia,H,H
+2023-05-25,LaLiga,Osasuna,Ath Bilbao,H,A
+2023-05-27,Bundes,Ein Frankfurt,Freiburg,H,H
+2023-05-27,Bundes,Bochum,Leverkusen,H,A
+2023-05-27,Bundes,Wolfsburg,Hertha,A,H
+2023-05-27,Bundes,Union Berlin,Werder Bremen,H,H
+2023-05-27,SerieA,Inter,Atalanta,H,H
+2023-05-27,SerieA,Fiorentina,Roma,H,A
+2023-05-27,Bundes,FC Koln,Bayern Munich,A,A
+2023-05-27,SerieA,Salernitana,Udinese,H,A
+2023-05-27,LaLiga,Sevilla,Real Madrid,A,A
+2023-05-27,Bundes,M'gladbach,Augsburg,H,H
+2023-05-27,Bundes,RB Leipzig,Schalke 04,H,H
+2023-05-27,SerieA,Spezia,Torino,A,A
+2023-05-28,SerieA,Monza,Lecce,A,A
+2023-05-28,EPL,Leeds,Tottenham,A,A
+2023-05-28,SerieA,Lazio,Cremonese,H,H
+2023-05-28,SerieA,Juventus,Milan,A,H
+2023-05-28,LaLiga,Ath Madrid,Sociedad,H,H
+2023-05-28,EPL,Leicester,West Ham,H,A
+2023-05-28,EPL,Everton,Bournemouth,H,A
+2023-05-28,EPL,Man United,Fulham,H,H
+2023-05-28,EPL,Aston Villa,Brighton,H,A
+2023-05-28,LaLiga,Ath Bilbao,Elche,A,H
+2023-05-28,LaLiga,Barcelona,Mallorca,H,H
+2023-05-28,LaLiga,Girona,Betis,A,A
+2023-05-28,LaLiga,Cadiz,Celta,H,A
+2023-05-28,EPL,Brentford,Man City,H,A
+2023-05-28,EPL,Arsenal,Wolves,H,H
+2023-05-28,LaLiga,Getafe,Osasuna,H,H
+2023-05-28,LaLiga,Vallecano,Villarreal,H,A
+2023-06-02,SerieA,Sassuolo,Fiorentina,A,A
+2023-06-03,SerieA,Torino,Inter,A,A
+2023-06-03,SerieA,Empoli,Lazio,A,A
+2023-06-03,SerieA,Cremonese,Salernitana,H,A
+2023-06-04,LaLiga,Mallorca,Vallecano,H,H
+2023-06-04,LaLiga,Osasuna,Girona,H,A
+2023-06-04,LaLiga,Sociedad,Sevilla,H,H
+2023-06-04,SerieA,Udinese,Juventus,A,A
+2023-06-04,SerieA,Milan,Verona,H,H
+2023-06-04,SerieA,Lecce,Bologna,A,A
+2023-06-04,SerieA,Atalanta,Monza,H,H
+2023-06-04,LaLiga,Celta,Barcelona,H,A
+2023-06-04,SerieA,Napoli,Sampdoria,H,H
+2023-06-04,SerieA,Roma,Spezia,H,H
+2023-08-11,EPL,Burnley,Man City,A,A
+2023-08-11,LaLiga,Almeria,Vallecano,A,A
+2023-08-11,LaLiga,Sevilla,Valencia,A,H
+2023-08-12,LaLiga,Ath Bilbao,Real Madrid,A,A
+2023-08-12,EPL,Arsenal,Nott'm Forest,H,H
+2023-08-12,EPL,Sheffield United,Crystal Palace,A,A
+2023-08-12,EPL,Everton,Fulham,A,H
+2023-08-12,EPL,Newcastle,Aston Villa,H,H
+2023-08-13,LaLiga,Celta,Osasuna,A,H
+2023-08-13,LaLiga,Villarreal,Betis,A,H
+2023-08-14,LaLiga,Ath Madrid,Granada,H,H
+2023-08-14,EPL,Man United,Wolves,H,H
+2023-08-14,LaLiga,Cadiz,Alaves,H,H
+2023-08-18,Bundes,Werder Bremen,Bayern Munich,A,A
+2023-08-18,EPL,Nott'm Forest,Sheffield United,H,H
+2023-08-18,LaLiga,Mallorca,Villarreal,A,A
+2023-08-18,LaLiga,Valencia,Las Palmas,H,H
+2023-08-19,LaLiga,Osasuna,Ath Bilbao,A,A
+2023-08-19,SerieA,Inter,Monza,H,A
+2023-08-19,SerieA,Genoa,Fiorentina,A,A
+2023-08-19,SerieA,Frosinone,Napoli,A,A
+2023-08-19,SerieA,Empoli,Verona,A,A
+2023-08-19,EPL,Fulham,Brentford,A,H
+2023-08-19,EPL,Tottenham,Man United,H,A
+2023-08-19,EPL,Wolves,Brighton,A,A
+2023-08-19,EPL,Liverpool,Bournemouth,H,H
+2023-08-19,Bundes,Hoffenheim,Freiburg,A,A
+2023-08-19,Bundes,Leverkusen,RB Leipzig,H,A
+2023-08-19,Bundes,Stuttgart,Bochum,H,A
+2023-08-19,Bundes,Dortmund,FC Koln,H,H
+2023-08-19,LaLiga,Almeria,Real Madrid,A,A
+2023-08-19,EPL,Man City,Newcastle,H,H
+2023-08-20,SerieA,Udinese,Juventus,A,A
+2023-08-20,SerieA,Lecce,Lazio,H,A
+2023-08-20,LaLiga,Barcelona,Cadiz,H,H
+2023-08-20,LaLiga,Girona,Getafe,H,H
+2023-08-20,Bundes,Union Berlin,Mainz,H,H
+2023-08-20,EPL,West Ham,Chelsea,H,H
+2023-08-20,EPL,Aston Villa,Everton,H,H
+2023-08-20,Bundes,Ein Frankfurt,Darmstadt,H,H
+2023-08-20,SerieA,Sassuolo,Atalanta,A,H
+2023-08-21,LaLiga,Alaves,Sevilla,H,A
+2023-08-21,LaLiga,Granada,Vallecano,A,A
+2023-08-21,EPL,Crystal Palace,Arsenal,A,A
+2023-08-21,SerieA,Bologna,Milan,A,A
+2023-08-25,Bundes,RB Leipzig,Stuttgart,H,H
+2023-08-25,LaLiga,Celta,Real Madrid,A,A
+2023-08-26,Bundes,M'gladbach,Leverkusen,A,A
+2023-08-26,EPL,Brighton,West Ham,A,H
+2023-08-26,Bundes,FC Koln,Wolfsburg,A,H
+2023-08-26,Bundes,Darmstadt,Union Berlin,A,A
+2023-08-26,EPL,Bournemouth,Tottenham,A,A
+2023-08-26,Bundes,Freiburg,Werder Bremen,H,H
+2023-08-26,LaLiga,Granada,Mallorca,H,H
+2023-08-26,SerieA,Frosinone,Atalanta,H,A
+2023-08-26,LaLiga,Sevilla,Girona,A,A
+2023-08-26,SerieA,Milan,Torino,H,H
+2023-08-26,SerieA,Verona,Roma,H,A
+2023-08-26,EPL,Man United,Nott'm Forest,H,H
+2023-08-26,EPL,Everton,Wolves,A,H
+2023-08-26,SerieA,Monza,Empoli,H,A
+2023-08-27,LaLiga,Valencia,Osasuna,A,H
+2023-08-27,LaLiga,Villarreal,Barcelona,A,A
+2023-08-27,Bundes,Bayern Munich,Augsburg,H,H
+2023-08-27,SerieA,Napoli,Sassuolo,H,H
+2023-08-27,SerieA,Lazio,Genoa,A,H
+2023-08-27,EPL,Newcastle,Liverpool,A,A
+2023-08-27,EPL,Sheffield United,Man City,A,A
+2023-08-27,EPL,Burnley,Aston Villa,A,A
+2023-08-27,LaLiga,Ath Bilbao,Betis,H,H
+2023-08-28,SerieA,Cagliari,Inter,A,A
+2023-08-28,LaLiga,Getafe,Alaves,H,H
+2023-08-28,LaLiga,Vallecano,Ath Madrid,A,A
+2023-09-01,LaLiga,Cadiz,Villarreal,H,A
+2023-09-01,SerieA,Roma,Milan,A,A
+2023-09-01,SerieA,Sassuolo,Verona,H,A
+2023-09-01,LaLiga,Almeria,Celta,A,H
+2023-09-02,LaLiga,Real Madrid,Getafe,H,H
+2023-09-02,Bundes,M'gladbach,Bayern Munich,A,A
+2023-09-02,Bundes,Werder Bremen,Mainz,H,A
+2023-09-02,Bundes,Stuttgart,Freiburg,H,A
+2023-09-02,Bundes,Leverkusen,Darmstadt,H,H
+2023-09-02,Bundes,Hoffenheim,Wolfsburg,H,A
+2023-09-02,LaLiga,Alaves,Valencia,H,H
+2023-09-02,LaLiga,Betis,Vallecano,H,H
+2023-09-02,LaLiga,Sociedad,Granada,H,H
+2023-09-02,EPL,Chelsea,Nott'm Forest,A,H
+2023-09-02,EPL,Burnley,Tottenham,A,A
+2023-09-02,SerieA,Bologna,Cagliari,H,A
+2023-09-02,EPL,Man City,Fulham,H,H
+2023-09-02,EPL,Brighton,Newcastle,H,H
+2023-09-02,SerieA,Napoli,Lazio,A,H
+2023-09-02,SerieA,Atalanta,Monza,H,H
+2023-09-03,SerieA,Inter,Fiorentina,H,H
+2023-09-03,SerieA,Empoli,Juventus,A,A
+2023-09-03,EPL,Arsenal,Man United,H,H
+2023-09-03,LaLiga,Osasuna,Barcelona,A,A
+2023-09-03,EPL,Liverpool,Aston Villa,H,H
+2023-09-03,SerieA,Torino,Genoa,H,H
+2023-09-03,EPL,Crystal Palace,Wolves,H,H
+2023-09-03,SerieA,Lecce,Salernitana,H,H
+2023-09-03,Bundes,Union Berlin,RB Leipzig,A,A
+2023-09-03,LaLiga,Girona,Las Palmas,H,H
+2023-09-15,LaLiga,Vallecano,Alaves,H,H
+2023-09-16,Bundes,FC Koln,Hoffenheim,A,H
+2023-09-16,EPL,West Ham,Man City,A,A
+2023-09-16,LaLiga,Barcelona,Betis,H,H
+2023-09-16,EPL,Newcastle,Brentford,H,H
+2023-09-16,Bundes,Wolfsburg,Union Berlin,H,A
+2023-09-16,SerieA,Juventus,Lazio,H,H
+2023-09-16,SerieA,Inter,Milan,H,H
+2023-09-16,EPL,Wolves,Liverpool,A,A
+2023-09-16,Bundes,Freiburg,Dortmund,A,A
+2023-09-16,LaLiga,Ath Bilbao,Cadiz,H,H
+2023-09-16,Bundes,Mainz,Stuttgart,A,A
+2023-09-16,EPL,Tottenham,Sheffield United,H,H
+2023-09-16,EPL,Man United,Brighton,A,H
+2023-09-16,LaLiga,Celta,Mallorca,A,H
+2023-09-16,Bundes,RB Leipzig,Augsburg,H,H
+2023-09-16,LaLiga,Valencia,Ath Madrid,H,A
+2023-09-16,EPL,Aston Villa,Crystal Palace,H,H
+2023-09-17,SerieA,Roma,Empoli,H,H
+2023-09-17,SerieA,Fiorentina,Atalanta,H,H
+2023-09-17,LaLiga,Getafe,Osasuna,H,H
+2023-09-17,LaLiga,Real Madrid,Sociedad,H,H
+2023-09-17,LaLiga,Sevilla,Las Palmas,H,H
+2023-09-17,EPL,Everton,Arsenal,A,A
+2023-09-17,SerieA,Frosinone,Sassuolo,H,A
+2023-09-17,LaLiga,Villarreal,Almeria,H,H
+2023-09-18,SerieA,Salernitana,Torino,A,A
+2023-09-18,LaLiga,Granada,Girona,A,A
+2023-09-22,Bundes,Stuttgart,Darmstadt,H,H
+2023-09-22,LaLiga,Alaves,Ath Bilbao,A,A
+2023-09-22,SerieA,Lecce,Genoa,H,H
+2023-09-23,Bundes,Bayern Munich,Bochum,H,H
+2023-09-23,Bundes,Dortmund,Wolfsburg,H,H
+2023-09-23,Bundes,M'gladbach,RB Leipzig,A,A
+2023-09-23,Bundes,Union Berlin,Hoffenheim,A,H
+2023-09-23,Bundes,Werder Bremen,FC Koln,H,A
+2023-09-23,Bundes,Augsburg,Mainz,H,A
+2023-09-23,LaLiga,Barcelona,Celta,H,H
+2023-09-23,SerieA,Milan,Verona,H,H
+2023-09-23,EPL,Brentford,Everton,A,H
+2023-09-23,EPL,Man City,Nott'm Forest,H,H
+2023-09-23,EPL,Burnley,Man United,A,A
+2023-09-23,LaLiga,Girona,Mallorca,H,H
+2023-09-23,SerieA,Sassuolo,Juventus,H,A
+2023-09-24,LaLiga,Las Palmas,Granada,H,A
+2023-09-24,LaLiga,Ath Madrid,Real Madrid,H,H
+2023-09-24,EPL,Liverpool,West Ham,H,H
+2023-09-24,SerieA,Empoli,Inter,A,A
+2023-09-24,EPL,Sheffield United,Newcastle,A,A
+2023-09-24,EPL,Chelsea,Aston Villa,A,H
+2023-09-24,SerieA,Udinese,Fiorentina,A,A
+2023-09-24,SerieA,Atalanta,Cagliari,H,H
+2023-09-24,EPL,Brighton,Bournemouth,H,H
+2023-09-24,LaLiga,Sociedad,Getafe,H,H
+2023-09-26,SerieA,Juventus,Lecce,H,H
+2023-09-26,LaLiga,Sevilla,Almeria,H,H
+2023-09-27,LaLiga,Villarreal,Girona,A,A
+2023-09-27,LaLiga,Real Madrid,Las Palmas,H,H
+2023-09-27,SerieA,Lazio,Torino,H,A
+2023-09-27,SerieA,Inter,Sassuolo,A,H
+2023-09-27,SerieA,Cagliari,Milan,A,A
+2023-09-27,SerieA,Empoli,Salernitana,H,A
+2023-09-27,SerieA,Verona,Atalanta,A,A
+2023-09-27,SerieA,Napoli,Udinese,H,H
+2023-09-27,LaLiga,Valencia,Sociedad,A,H
+2023-09-28,LaLiga,Osasuna,Ath Madrid,A,A
+2023-09-28,SerieA,Genoa,Roma,H,A
+2023-09-29,Bundes,Hoffenheim,Dortmund,A,A
+2023-09-29,LaLiga,Barcelona,Sevilla,H,H
+2023-09-30,EPL,Wolves,Man City,H,A
+2023-09-30,SerieA,Milan,Lazio,H,H
+2023-09-30,SerieA,Salernitana,Inter,A,A
+2023-09-30,EPL,Newcastle,Burnley,H,H
+2023-09-30,EPL,West Ham,Sheffield United,H,H
+2023-09-30,EPL,Aston Villa,Brighton,H,A
+2023-09-30,EPL,Bournemouth,Arsenal,A,A
+2023-09-30,EPL,Tottenham,Liverpool,H,A
+2023-09-30,SerieA,Lecce,Napoli,A,A
+2023-09-30,Bundes,FC Koln,Stuttgart,A,A
+2023-09-30,EPL,Man United,Crystal Palace,A,H
+2023-09-30,LaLiga,Sociedad,Ath Bilbao,H,A
+2023-09-30,LaLiga,Girona,Real Madrid,A,A
+2023-09-30,Bundes,Mainz,Leverkusen,A,A
+2023-09-30,Bundes,Wolfsburg,Ein Frankfurt,H,H
+2023-09-30,Bundes,Bochum,M'gladbach,A,A
+2023-10-01,Bundes,Darmstadt,Werder Bremen,H,A
+2023-10-01,LaLiga,Ath Madrid,Cadiz,H,H
+2023-10-01,LaLiga,Alaves,Osasuna,A,H
+2023-10-01,LaLiga,Betis,Valencia,H,H
+2023-10-01,SerieA,Roma,Frosinone,H,H
+2023-10-01,Bundes,Freiburg,Augsburg,H,H
+2023-10-01,SerieA,Bologna,Empoli,H,H
+2023-10-02,SerieA,Fiorentina,Cagliari,H,H
+2023-10-02,SerieA,Sassuolo,Monza,A,A
+2023-10-02,EPL,Fulham,Chelsea,A,A
+2023-10-02,LaLiga,Las Palmas,Celta,H,A
+2023-10-06,LaLiga,Ath Bilbao,Almeria,H,H
+2023-10-07,Bundes,Stuttgart,Wolfsburg,H,H
+2023-10-07,LaLiga,Cadiz,Girona,A,A
+2023-10-07,LaLiga,Real Madrid,Osasuna,H,H
+2023-10-07,Bundes,Augsburg,Darmstadt,A,H
+2023-10-07,Bundes,Dortmund,Union Berlin,H,H
+2023-10-07,Bundes,Werder Bremen,Hoffenheim,A,A
+2023-10-07,EPL,Man United,Brentford,H,H
+2023-10-07,SerieA,Juventus,Torino,H,H
+2023-10-07,SerieA,Genoa,Milan,A,A
+2023-10-07,EPL,Fulham,Sheffield United,H,H
+2023-10-07,EPL,Burnley,Chelsea,A,A
+2023-10-07,EPL,Everton,Bournemouth,H,A
+2023-10-08,LaLiga,Ath Madrid,Sociedad,H,H
+2023-10-08,SerieA,Monza,Salernitana,H,H
+2023-10-08,SerieA,Napoli,Fiorentina,A,H
+2023-10-08,SerieA,Lazio,Atalanta,H,H
+2023-10-08,SerieA,Frosinone,Verona,H,H
+2023-10-08,Bundes,Leverkusen,FC Koln,H,H
+2023-10-08,LaLiga,Villarreal,Las Palmas,A,H
+2023-10-08,Bundes,Bayern Munich,Freiburg,H,H
+2023-10-08,SerieA,Cagliari,Roma,A,A
+2023-10-08,EPL,Arsenal,Man City,H,A
+2023-10-20,Bundes,Dortmund,Werder Bremen,H,H
+2023-10-20,LaLiga,Osasuna,Granada,H,H
+2023-10-21,LaLiga,Celta,Ath Madrid,A,A
+2023-10-21,EPL,Liverpool,Everton,H,H
+2023-10-21,Bundes,Union Berlin,Stuttgart,A,H
+2023-10-21,EPL,Brentford,Burnley,H,H
+2023-10-21,Bundes,Hoffenheim,Ein Frankfurt,A,H
+2023-10-21,SerieA,Sassuolo,Lazio,A,A
+2023-10-21,EPL,Bournemouth,Wolves,A,A
+2023-10-21,EPL,Sheffield United,Man United,A,A
+2023-10-21,EPL,Man City,Brighton,H,H
+2023-10-21,Bundes,Darmstadt,RB Leipzig,A,A
+2023-10-21,EPL,Newcastle,Crystal Palace,H,H
+2023-10-21,LaLiga,Sociedad,Mallorca,H,H
+2023-10-21,SerieA,Torino,Inter,A,A
+2023-10-21,Bundes,Wolfsburg,Leverkusen,A,A
+2023-10-21,Bundes,Mainz,Bayern Munich,A,A
+2023-10-21,SerieA,Verona,Napoli,A,A
+2023-10-21,Bundes,Freiburg,Bochum,H,H
+2023-10-22,Bundes,FC Koln,M'gladbach,H,H
+2023-10-22,LaLiga,Barcelona,Ath Bilbao,H,H
+2023-10-22,LaLiga,Girona,Almeria,H,H
+2023-10-22,LaLiga,Las Palmas,Vallecano,A,A
+2023-10-22,SerieA,Atalanta,Genoa,H,H
+2023-10-22,SerieA,Bologna,Frosinone,H,H
+2023-10-22,SerieA,Milan,Juventus,A,H
+2023-10-22,SerieA,Roma,Monza,H,H
+2023-10-22,EPL,Aston Villa,West Ham,H,H
+2023-10-23,EPL,Tottenham,Fulham,H,H
+2023-10-23,LaLiga,Valencia,Cadiz,H,H
+2023-10-23,SerieA,Fiorentina,Empoli,A,H
+2023-10-27,EPL,Crystal Palace,Tottenham,A,A
+2023-10-27,SerieA,Genoa,Salernitana,H,H
+2023-10-27,LaLiga,Girona,Celta,H,H
+2023-10-28,SerieA,Juventus,Verona,H,H
+2023-10-28,Bundes,Bayern Munich,Darmstadt,H,H
+2023-10-28,Bundes,Augsburg,Wolfsburg,H,A
+2023-10-28,LaLiga,Almeria,Las Palmas,A,H
+2023-10-28,LaLiga,Barcelona,Real Madrid,A,H
+2023-10-28,SerieA,Lecce,Torino,A,A
+2023-10-28,Bundes,Werder Bremen,Union Berlin,H,A
+2023-10-28,EPL,Arsenal,Sheffield United,H,H
+2023-10-28,EPL,Bournemouth,Burnley,H,A
+2023-10-28,EPL,Chelsea,Brentford,A,A
+2023-10-28,Bundes,RB Leipzig,FC Koln,H,H
+2023-10-28,Bundes,Stuttgart,Hoffenheim,A,H
+2023-10-29,EPL,West Ham,Everton,A,H
+2023-10-29,SerieA,Cagliari,Frosinone,H,A
+2023-10-29,SerieA,Inter,Roma,H,H
+2023-10-29,Bundes,Leverkusen,Freiburg,H,H
+2023-10-29,EPL,Man United,Man City,A,A
+2023-10-29,EPL,Liverpool,Nott'm Forest,H,H
+2023-10-29,EPL,Aston Villa,Luton,H,H
+2023-10-29,LaLiga,Betis,Osasuna,H,H
+2023-10-29,LaLiga,Ath Madrid,Alaves,H,H
+2023-10-30,LaLiga,Granada,Villarreal,A,A
+2023-10-30,SerieA,Lazio,Fiorentina,H,H
+2023-10-30,SerieA,Empoli,Atalanta,A,A
+2023-11-03,LaLiga,Las Palmas,Ath Madrid,H,A
+2023-11-03,SerieA,Bologna,Lazio,H,A
+2023-11-03,Bundes,Darmstadt,Bochum,A,H
+2023-11-04,EPL,Man City,Bournemouth,H,H
+2023-11-04,EPL,Sheffield United,Wolves,H,A
+2023-11-04,EPL,Newcastle,Arsenal,H,A
+2023-11-04,LaLiga,Osasuna,Girona,A,H
+2023-11-04,LaLiga,Sociedad,Barcelona,A,A
+2023-11-04,Bundes,Dortmund,Bayern Munich,A,A
+2023-11-04,Bundes,Hoffenheim,Leverkusen,A,A
+2023-11-04,LaLiga,Betis,Mallorca,H,H
+2023-11-04,Bundes,Union Berlin,Ein Frankfurt,A,H
+2023-11-04,EPL,Burnley,Crystal Palace,A,A
+2023-11-04,SerieA,Atalanta,Inter,A,A
+2023-11-04,SerieA,Salernitana,Napoli,A,A
+2023-11-04,Bundes,Mainz,RB Leipzig,H,A
+2023-11-04,SerieA,Milan,Udinese,A,H
+2023-11-04,EPL,Brentford,West Ham,H,H
+2023-11-04,EPL,Fulham,Man United,A,A
+2023-11-05,EPL,Nott'm Forest,Aston Villa,H,A
+2023-11-05,SerieA,Fiorentina,Juventus,A,H
+2023-11-05,SerieA,Roma,Lecce,H,H
+2023-11-05,LaLiga,Valencia,Granada,H,H
+2023-11-05,LaLiga,Alaves,Almeria,H,H
+2023-11-05,SerieA,Verona,Monza,A,A
+2023-11-05,SerieA,Cagliari,Genoa,H,A
+2023-11-05,LaLiga,Villarreal,Ath Bilbao,A,A
+2023-11-06,LaLiga,Getafe,Cadiz,H,H
+2023-11-06,SerieA,Frosinone,Empoli,H,A
+2023-11-06,SerieA,Torino,Sassuolo,H,A
+2023-11-06,EPL,Tottenham,Chelsea,A,H
+2023-11-10,LaLiga,Ath Bilbao,Celta,H,H
+2023-11-10,Bundes,M'gladbach,Wolfsburg,H,A
+2023-11-10,SerieA,Genoa,Verona,H,A
+2023-11-11,LaLiga,Vallecano,Girona,A,A
+2023-11-11,LaLiga,Almeria,Sociedad,A,H
+2023-11-11,EPL,Bournemouth,Newcastle,H,A
+2023-11-11,EPL,Crystal Palace,Everton,A,A
+2023-11-11,EPL,Arsenal,Burnley,H,H
+2023-11-11,EPL,Man United,Luton,H,H
+2023-11-11,SerieA,Juventus,Cagliari,H,H
+2023-11-11,LaLiga,Real Madrid,Valencia,H,H
+2023-11-11,Bundes,Stuttgart,Dortmund,H,H
+2023-11-11,Bundes,Bayern Munich,Heidenheim,H,H
+2023-11-11,EPL,Wolves,Tottenham,H,A
+2023-11-12,EPL,West Ham,Nott'm Forest,H,H
+2023-11-12,EPL,Liverpool,Brentford,H,H
+2023-11-12,Bundes,RB Leipzig,Freiburg,H,H
+2023-11-12,LaLiga,Barcelona,Alaves,H,H
+2023-11-12,EPL,Aston Villa,Fulham,H,H
+2023-11-12,Bundes,Leverkusen,Union Berlin,H,H
+2023-11-12,LaLiga,Ath Madrid,Villarreal,H,H
+2023-11-12,SerieA,Napoli,Empoli,A,H
+2023-11-12,SerieA,Inter,Frosinone,H,H
+2023-11-12,SerieA,Fiorentina,Bologna,H,H
+2023-11-24,Bundes,FC Koln,Bayern Munich,A,A
+2023-11-24,LaLiga,Alaves,Granada,H,H
+2023-11-25,SerieA,Atalanta,Napoli,A,A
+2023-11-25,Bundes,Dortmund,M'gladbach,H,H
+2023-11-25,EPL,Sheffield United,Bournemouth,A,A
+2023-11-25,EPL,Burnley,West Ham,A,A
+2023-11-25,EPL,Nott'm Forest,Brighton,A,H
+2023-11-25,SerieA,Milan,Fiorentina,H,H
+2023-11-25,EPL,Brentford,Arsenal,A,A
+2023-11-25,EPL,Luton,Crystal Palace,H,A
+2023-11-25,Bundes,Wolfsburg,RB Leipzig,H,A
+2023-11-25,Bundes,Werder Bremen,Leverkusen,A,A
+2023-11-25,SerieA,Salernitana,Lazio,H,A
+2023-11-25,EPL,Newcastle,Chelsea,H,A
+2023-11-25,LaLiga,Ath Madrid,Mallorca,H,H
+2023-11-25,LaLiga,Getafe,Almeria,H,H
+2023-11-25,Bundes,Ein Frankfurt,Stuttgart,A,H
+2023-11-26,LaLiga,Cadiz,Real Madrid,A,A
+2023-11-26,LaLiga,Sociedad,Sevilla,H,H
+2023-11-26,LaLiga,Villarreal,Osasuna,H,A
+2023-11-26,LaLiga,Betis,Las Palmas,H,H
+2023-11-26,EPL,Tottenham,Aston Villa,A,H
+2023-11-26,SerieA,Empoli,Sassuolo,A,A
+2023-11-26,EPL,Everton,Man United,A,A
+2023-11-26,SerieA,Frosinone,Genoa,H,A
+2023-11-26,SerieA,Roma,Udinese,H,H
+2023-11-27,SerieA,Bologna,Torino,H,H
+2023-11-27,EPL,Fulham,Wolves,H,A
+2023-12-01,SerieA,Monza,Juventus,A,A
+2023-12-01,LaLiga,Las Palmas,Getafe,H,H
+2023-12-01,Bundes,Darmstadt,FC Koln,A,A
+2023-12-02,Bundes,Stuttgart,Werder Bremen,H,H
+2023-12-02,EPL,Nott'm Forest,Everton,A,A
+2023-12-02,Bundes,Bochum,Wolfsburg,H,A
+2023-12-02,LaLiga,Real Madrid,Granada,H,H
+2023-12-02,Bundes,RB Leipzig,Heidenheim,H,H
+2023-12-02,SerieA,Milan,Frosinone,H,H
+2023-12-02,Bundes,M'gladbach,Hoffenheim,H,H
+2023-12-02,SerieA,Lazio,Cagliari,H,H
+2023-12-02,EPL,Brentford,Luton,H,H
+2023-12-02,EPL,Newcastle,Man United,H,H
+2023-12-02,EPL,Burnley,Sheffield United,H,H
+2023-12-02,EPL,Arsenal,Wolves,H,H
+2023-12-02,LaLiga,Ath Bilbao,Vallecano,H,H
+2023-12-02,LaLiga,Girona,Valencia,H,A
+2023-12-03,SerieA,Fiorentina,Salernitana,H,H
+2023-12-03,LaLiga,Barcelona,Ath Madrid,H,H
+2023-12-03,SerieA,Napoli,Inter,A,A
+2023-12-03,EPL,Liverpool,Fulham,H,H
+2023-12-03,Bundes,Mainz,Freiburg,A,H
+2023-12-03,Bundes,Augsburg,Ein Frankfurt,H,A
+2023-12-03,SerieA,Sassuolo,Roma,A,H
+2023-12-03,EPL,Chelsea,Brighton,H,A
+2023-12-04,SerieA,Torino,Atalanta,H,A
+2023-12-05,EPL,Luton,Arsenal,A,A
+2023-12-05,EPL,Wolves,Burnley,H,H
+2023-12-06,EPL,Man United,Chelsea,H,A
+2023-12-06,EPL,Brighton,Brentford,H,H
+2023-12-06,EPL,Crystal Palace,Bournemouth,A,H
+2023-12-06,EPL,Aston Villa,Man City,H,A
+2023-12-06,EPL,Sheffield United,Liverpool,A,A
+2023-12-06,EPL,Fulham,Nott'm Forest,H,H
+2023-12-07,EPL,Everton,Newcastle,H,A
+2023-12-07,EPL,Tottenham,West Ham,A,H
+2023-12-08,Bundes,Hoffenheim,Bochum,H,H
+2023-12-08,LaLiga,Getafe,Valencia,H,H
+2023-12-08,SerieA,Juventus,Napoli,H,A
+2023-12-09,EPL,Aston Villa,Arsenal,H,H
+2023-12-09,Bundes,Union Berlin,M'gladbach,H,A
+2023-12-09,LaLiga,Mallorca,Sevilla,H,A
+2023-12-09,LaLiga,Villarreal,Sociedad,A,A
+2023-12-09,Bundes,Wolfsburg,Freiburg,A,H
+2023-12-09,Bundes,Heidenheim,Darmstadt,H,H
+2023-12-09,Bundes,Werder Bremen,Augsburg,H,A
+2023-12-09,Bundes,Ein Frankfurt,Bayern Munich,H,A
+2023-12-09,SerieA,Inter,Udinese,H,H
+2023-12-09,SerieA,Atalanta,Milan,H,A
+2023-12-09,LaLiga,Alaves,Las Palmas,A,H
+2023-12-09,Bundes,Dortmund,RB Leipzig,A,A
+2023-12-09,EPL,Sheffield United,Brentford,H,A
+2023-12-09,EPL,Man United,Bournemouth,A,H
+2023-12-09,EPL,Crystal Palace,Liverpool,A,A
+2023-12-10,EPL,Luton,Man City,A,A
+2023-12-10,EPL,Everton,Chelsea,H,A
+2023-12-10,LaLiga,Ath Madrid,Almeria,H,H
+2023-12-10,EPL,Fulham,West Ham,H,A
+2023-12-10,LaLiga,Barcelona,Girona,A,A
+2023-12-10,EPL,Tottenham,Newcastle,H,A
+2023-12-10,SerieA,Salernitana,Bologna,A,A
+2023-12-10,SerieA,Monza,Genoa,H,H
+2023-12-11,SerieA,Cagliari,Sassuolo,H,A
+2023-12-15,LaLiga,Osasuna,Vallecano,H,H
+2023-12-15,EPL,Nott'm Forest,Tottenham,A,A
+2023-12-16,EPL,Newcastle,Fulham,H,H
+2023-12-16,LaLiga,Sevilla,Getafe,A,H
+2023-12-16,LaLiga,Celta,Granada,H,H
+2023-12-16,EPL,Chelsea,Sheffield United,H,H
+2023-12-16,EPL,Burnley,Everton,A,A
+2023-12-16,LaLiga,Ath Bilbao,Ath Madrid,H,H
+2023-12-16,SerieA,Torino,Empoli,H,H
+2023-12-16,SerieA,Napoli,Cagliari,H,H
+2023-12-16,Bundes,Bochum,Union Berlin,H,H
+2023-12-16,Bundes,Darmstadt,Wolfsburg,A,A
+2023-12-16,Bundes,Mainz,Heidenheim,A,H
+2023-12-16,Bundes,RB Leipzig,Hoffenheim,H,H
+2023-12-16,SerieA,Lecce,Frosinone,H,H
+2023-12-17,SerieA,Lazio,Inter,A,A
+2023-12-17,SerieA,Milan,Monza,H,H
+2023-12-17,Bundes,Freiburg,FC Koln,H,H
+2023-12-17,SerieA,Bologna,Roma,H,A
+2023-12-17,SerieA,Fiorentina,Verona,H,H
+2023-12-17,LaLiga,Real Madrid,Villarreal,H,H
+2023-12-17,Bundes,Leverkusen,Ein Frankfurt,H,H
+2023-12-17,EPL,Arsenal,Brighton,H,H
+2023-12-17,EPL,Brentford,Aston Villa,A,H
+2023-12-17,EPL,West Ham,Wolves,H,H
+2023-12-17,Bundes,Bayern Munich,Stuttgart,H,H
+2023-12-18,SerieA,Atalanta,Salernitana,H,H
+2023-12-18,LaLiga,Girona,Alaves,H,A
+2023-12-19,LaLiga,Vallecano,Valencia,A,H
+2023-12-19,LaLiga,Granada,Sevilla,A,A
+2023-12-20,Bundes,Union Berlin,FC Koln,H,H
+2023-12-20,Bundes,Leverkusen,Bochum,H,H
+2023-12-20,Bundes,Heidenheim,Freiburg,H,H
+2023-12-20,Bundes,Stuttgart,Augsburg,H,H
+2023-12-20,LaLiga,Barcelona,Almeria,H,H
+2023-12-20,LaLiga,Ath Bilbao,Las Palmas,H,H
+2023-12-20,LaLiga,Villarreal,Celta,H,A
+2023-12-20,Bundes,Ein Frankfurt,M'gladbach,H,H
+2023-12-20,Bundes,Wolfsburg,Bayern Munich,A,A
+2023-12-21,LaLiga,Alaves,Real Madrid,A,A
+2023-12-21,LaLiga,Mallorca,Osasuna,H,A
+2023-12-22,SerieA,Monza,Fiorentina,A,A
+2023-12-22,SerieA,Sassuolo,Genoa,A,H
+2023-12-22,SerieA,Empoli,Lazio,A,A
+2023-12-23,SerieA,Frosinone,Juventus,A,A
+2023-12-23,EPL,Nott'm Forest,Bournemouth,A,A
+2023-12-23,EPL,Luton,Newcastle,H,A
+2023-12-23,EPL,West Ham,Man United,H,A
+2023-12-23,SerieA,Roma,Napoli,H,A
+2023-12-23,EPL,Fulham,Burnley,A,H
+2023-12-23,SerieA,Verona,Cagliari,H,A
+2023-12-23,SerieA,Inter,Lecce,H,H
+2023-12-23,EPL,Tottenham,Everton,H,H
+2023-12-23,SerieA,Bologna,Atalanta,H,A
+2023-12-23,LaLiga,Ath Madrid,Sevilla,H,H
+2023-12-24,EPL,Wolves,Chelsea,H,H
+2023-12-26,EPL,Man United,Aston Villa,H,A
+2023-12-26,EPL,Bournemouth,Fulham,H,H
+2023-12-26,EPL,Sheffield United,Luton,A,H
+2023-12-26,EPL,Burnley,Liverpool,A,A
+2023-12-26,EPL,Newcastle,Nott'm Forest,A,H
+2023-12-27,EPL,Everton,Man City,A,A
+2023-12-27,EPL,Chelsea,Crystal Palace,H,H
+2023-12-27,EPL,Brentford,Wolves,A,H
+2023-12-28,EPL,Brighton,Tottenham,H,A
+2023-12-28,EPL,Arsenal,West Ham,A,H
+2023-12-29,SerieA,Fiorentina,Torino,H,H
+2023-12-29,SerieA,Lazio,Frosinone,H,H
+2023-12-30,SerieA,Udinese,Bologna,H,A
+2023-12-30,SerieA,Milan,Sassuolo,H,H
+2023-12-30,SerieA,Juventus,Roma,H,H
+2023-12-30,SerieA,Atalanta,Lecce,H,H
+2023-12-30,SerieA,Verona,Salernitana,A,H
+2023-12-30,EPL,Wolves,Everton,H,A
+2023-12-30,EPL,Luton,Chelsea,A,A
+2023-12-30,EPL,Aston Villa,Burnley,H,H
+2023-12-30,EPL,Nott'm Forest,Man United,H,A
+2023-12-30,EPL,Crystal Palace,Brentford,H,H
+2023-12-30,EPL,Man City,Sheffield United,H,H
+2023-12-31,EPL,Tottenham,Bournemouth,H,H
+2023-12-31,EPL,Fulham,Arsenal,H,A
+2024-01-01,EPL,Liverpool,Newcastle,H,H
+2024-01-02,LaLiga,Valencia,Villarreal,H,H
+2024-01-02,LaLiga,Getafe,Vallecano,A,H
+2024-01-03,LaLiga,Real Madrid,Mallorca,H,H
+2024-01-03,LaLiga,Girona,Ath Madrid,H,A
+2024-01-03,LaLiga,Granada,Cadiz,H,A
+2024-01-03,LaLiga,Celta,Betis,H,H
+2024-01-04,LaLiga,Osasuna,Almeria,H,H
+2024-01-04,LaLiga,Las Palmas,Barcelona,A,A
+2024-01-04,LaLiga,Sevilla,Ath Bilbao,A,A
+2024-01-06,SerieA,Frosinone,Monza,A,H
+2024-01-06,SerieA,Inter,Verona,H,H
+2024-01-06,SerieA,Sassuolo,Fiorentina,H,A
+2024-01-07,SerieA,Empoli,Milan,A,A
+2024-01-07,SerieA,Torino,Napoli,H,A
+2024-01-07,SerieA,Udinese,Lazio,A,A
+2024-01-07,SerieA,Salernitana,Juventus,A,A
+2024-01-12,LaLiga,Sevilla,Alaves,A,H
+2024-01-12,Bundes,Bayern Munich,Hoffenheim,H,H
+2024-01-13,SerieA,Monza,Inter,A,A
+2024-01-13,LaLiga,Las Palmas,Villarreal,H,H
+2024-01-13,LaLiga,Ath Bilbao,Sociedad,H,H
+2024-01-13,LaLiga,Betis,Granada,H,H
+2024-01-13,SerieA,Napoli,Salernitana,H,H
+2024-01-13,EPL,Chelsea,Fulham,H,H
+2024-01-13,Bundes,Augsburg,Leverkusen,A,A
+2024-01-13,SerieA,Verona,Empoli,H,H
+2024-01-13,Bundes,RB Leipzig,Ein Frankfurt,A,H
+2024-01-13,Bundes,Darmstadt,Dortmund,A,A
+2024-01-13,EPL,Newcastle,Man City,A,A
+2024-01-14,SerieA,Milan,Roma,H,H
+2024-01-14,LaLiga,Cadiz,Valencia,A,H
+2024-01-14,SerieA,Cagliari,Bologna,H,A
+2024-01-14,Bundes,M'gladbach,Stuttgart,H,A
+2024-01-14,SerieA,Lazio,Lecce,H,A
+2024-01-15,SerieA,Atalanta,Frosinone,H,H
+2024-01-16,SerieA,Juventus,Sassuolo,H,H
+2024-01-19,LaLiga,Alaves,Cadiz,H,H
+2024-01-20,SerieA,Udinese,Milan,A,A
+2024-01-20,Bundes,Bochum,Stuttgart,H,A
+2024-01-20,Bundes,FC Koln,Dortmund,A,A
+2024-01-20,Bundes,Freiburg,Hoffenheim,H,H
+2024-01-20,Bundes,RB Leipzig,Leverkusen,A,H
+2024-01-20,EPL,Brentford,Nott'm Forest,H,H
+2024-01-20,LaLiga,Vallecano,Las Palmas,A,H
+2024-01-20,LaLiga,Valencia,Ath Bilbao,H,A
+2024-01-20,LaLiga,Celta,Sociedad,A,A
+2024-01-20,SerieA,Roma,Verona,H,H
+2024-01-20,EPL,Arsenal,Crystal Palace,H,H
+2024-01-21,Bundes,M'gladbach,Augsburg,A,H
+2024-01-21,LaLiga,Girona,Sevilla,H,H
+2024-01-21,SerieA,Empoli,Monza,H,A
+2024-01-21,LaLiga,Real Madrid,Almeria,H,H
+2024-01-21,LaLiga,Betis,Barcelona,A,A
+2024-01-21,SerieA,Frosinone,Cagliari,H,H
+2024-01-21,EPL,Bournemouth,Liverpool,A,A
+2024-01-21,LaLiga,Osasuna,Getafe,H,A
+2024-01-21,Bundes,Bayern Munich,Werder Bremen,A,H
+2024-01-21,SerieA,Lecce,Juventus,A,A
+2024-01-21,SerieA,Salernitana,Genoa,A,H
+2024-01-22,LaLiga,Granada,Ath Madrid,A,A
+2024-01-24,Bundes,Bayern Munich,Union Berlin,H,H
+2024-01-26,Bundes,Ein Frankfurt,Mainz,H,H
+2024-01-26,SerieA,Cagliari,Torino,A,H
+2024-01-26,LaLiga,Almeria,Alaves,A,H
+2024-01-27,LaLiga,Mallorca,Betis,A,A
+2024-01-27,SerieA,Atalanta,Udinese,H,H
+2024-01-27,Bundes,Augsburg,Bayern Munich,A,A
+2024-01-27,Bundes,Werder Bremen,Freiburg,H,A
+2024-01-27,Bundes,Stuttgart,RB Leipzig,H,A
+2024-01-27,LaLiga,Las Palmas,Real Madrid,A,A
+2024-01-27,LaLiga,Barcelona,Villarreal,A,H
+2024-01-28,SerieA,Genoa,Lecce,H,H
+2024-01-28,SerieA,Monza,Sassuolo,H,A
+2024-01-28,Bundes,Dortmund,Bochum,H,H
+2024-01-28,LaLiga,Celta,Girona,A,A
+2024-01-28,LaLiga,Ath Madrid,Valencia,H,H
+2024-01-28,SerieA,Fiorentina,Inter,A,A
+2024-01-28,Bundes,Union Berlin,Darmstadt,H,H
+2024-01-29,LaLiga,Getafe,Granada,H,H
+2024-01-29,SerieA,Salernitana,Roma,A,A
+2024-01-30,EPL,Aston Villa,Newcastle,A,H
+2024-01-30,EPL,Luton,Brighton,H,A
+2024-01-30,EPL,Nott'm Forest,Arsenal,A,A
+2024-01-30,EPL,Crystal Palace,Sheffield United,H,H
+2024-01-31,EPL,Man City,Burnley,H,H
+2024-01-31,LaLiga,Barcelona,Osasuna,H,H
+2024-01-31,EPL,Tottenham,Brentford,H,H
+2024-01-31,LaLiga,Ath Madrid,Vallecano,H,H
+2024-01-31,EPL,Liverpool,Chelsea,H,H
+2024-02-01,EPL,Wolves,Man United,A,A
+2024-02-01,LaLiga,Getafe,Real Madrid,A,A
+2024-02-02,LaLiga,Ath Bilbao,Mallorca,H,H
+2024-02-02,SerieA,Lecce,Fiorentina,H,A
+2024-02-03,Bundes,Bayern Munich,M'gladbach,H,H
+2024-02-03,SerieA,Bologna,Sassuolo,H,A
+2024-02-03,Bundes,FC Koln,Ein Frankfurt,H,A
+2024-02-03,Bundes,Freiburg,Stuttgart,A,H
+2024-02-03,SerieA,Frosinone,Milan,A,A
+2024-02-03,Bundes,Mainz,Werder Bremen,A,H
+2024-02-03,EPL,Brighton,Crystal Palace,H,H
+2024-02-03,LaLiga,Valencia,Almeria,H,H
+2024-02-03,EPL,Sheffield United,Aston Villa,A,A
+2024-02-03,LaLiga,Alaves,Barcelona,A,A
+2024-02-03,Bundes,Darmstadt,Leverkusen,A,A
+2024-02-04,Bundes,RB Leipzig,Union Berlin,H,H
+2024-02-04,LaLiga,Osasuna,Celta,A,H
+2024-02-04,EPL,Arsenal,Liverpool,H,A
+2024-02-04,EPL,Chelsea,Wolves,A,A
+2024-02-04,SerieA,Napoli,Verona,H,H
+2024-02-04,SerieA,Atalanta,Lazio,H,H
+2024-02-04,SerieA,Inter,Juventus,H,A
+2024-02-04,EPL,Man United,West Ham,H,A
+2024-02-05,SerieA,Roma,Cagliari,H,H
+2024-02-05,EPL,Brentford,Man City,A,A
+2024-02-05,LaLiga,Vallecano,Sevilla,A,H
+2024-02-09,LaLiga,Cadiz,Betis,A,A
+2024-02-09,SerieA,Salernitana,Empoli,A,H
+2024-02-09,Bundes,Dortmund,Freiburg,H,H
+2024-02-10,Bundes,Leverkusen,Bayern Munich,H,H
+2024-02-10,SerieA,Cagliari,Lazio,A,A
+2024-02-10,Bundes,Union Berlin,Wolfsburg,H,H
+2024-02-10,EPL,Luton,Sheffield United,A,H
+2024-02-10,EPL,Tottenham,Brighton,H,H
+2024-02-10,EPL,Wolves,Brentford,A,H
+2024-02-10,EPL,Nott'm Forest,Newcastle,A,A
+2024-02-10,EPL,Liverpool,Burnley,H,H
+2024-02-10,EPL,Fulham,Bournemouth,H,A
+2024-02-10,Bundes,Werder Bremen,Heidenheim,A,H
+2024-02-10,LaLiga,Las Palmas,Valencia,H,H
+2024-02-10,LaLiga,Sociedad,Osasuna,A,H
+2024-02-10,LaLiga,Real Madrid,Girona,H,H
+2024-02-10,SerieA,Roma,Inter,A,A
+2024-02-10,EPL,Man City,Everton,H,H
+2024-02-11,SerieA,Genoa,Atalanta,A,H
+2024-02-11,SerieA,Milan,Napoli,H,H
+2024-02-11,SerieA,Bologna,Lecce,H,H
+2024-02-11,SerieA,Fiorentina,Frosinone,H,H
+2024-02-11,LaLiga,Sevilla,Ath Madrid,H,A
+2024-02-11,EPL,Aston Villa,Man United,A,H
+2024-02-11,EPL,West Ham,Arsenal,A,A
+2024-02-11,Bundes,Stuttgart,Mainz,H,H
+2024-02-11,LaLiga,Mallorca,Vallecano,H,A
+2024-02-11,LaLiga,Getafe,Celta,H,H
+2024-02-12,SerieA,Juventus,Udinese,A,H
+2024-02-12,EPL,Crystal Palace,Chelsea,A,A
+2024-02-14,SerieA,Bologna,Fiorentina,H,H
+2024-02-16,SerieA,Torino,Lecce,H,H
+2024-02-16,SerieA,Inter,Salernitana,H,H
+2024-02-16,Bundes,FC Koln,Werder Bremen,A,A
+2024-02-17,Bundes,Mainz,Augsburg,H,H
+2024-02-17,Bundes,Hoffenheim,Union Berlin,A,H
+2024-02-17,EPL,Nott'm Forest,West Ham,H,A
+2024-02-17,Bundes,Darmstadt,Stuttgart,A,A
+2024-02-17,Bundes,RB Leipzig,M'gladbach,H,H
+2024-02-17,SerieA,Atalanta,Sassuolo,H,H
+2024-02-17,LaLiga,Ath Madrid,Las Palmas,H,H
+2024-02-17,EPL,Brentford,Liverpool,A,A
+2024-02-17,EPL,Fulham,Aston Villa,A,A
+2024-02-17,EPL,Burnley,Arsenal,A,A
+2024-02-17,EPL,Tottenham,Wolves,A,H
+2024-02-17,Bundes,Heidenheim,Leverkusen,A,A
+2024-02-17,LaLiga,Osasuna,Cadiz,H,H
+2024-02-17,LaLiga,Celta,Barcelona,A,A
+2024-02-18,Bundes,Bochum,Bayern Munich,H,A
+2024-02-18,SerieA,Lazio,Bologna,A,H
+2024-02-18,SerieA,Frosinone,Roma,A,A
+2024-02-18,SerieA,Monza,Milan,H,A
+2024-02-18,EPL,Sheffield United,Brighton,A,A
+2024-02-18,EPL,Luton,Man United,A,A
+2024-02-18,LaLiga,Mallorca,Sociedad,A,A
+2024-02-19,LaLiga,Ath Bilbao,Girona,H,H
+2024-02-20,EPL,Man City,Brentford,H,H
+2024-02-21,EPL,Liverpool,Luton,H,H
+2024-02-22,SerieA,Torino,Lazio,A,H
+2024-02-23,SerieA,Bologna,Verona,H,H
+2024-02-23,Bundes,Leverkusen,Mainz,H,H
+2024-02-23,LaLiga,Sociedad,Villarreal,A,H
+2024-02-24,EPL,Bournemouth,Man City,A,A
+2024-02-24,EPL,Aston Villa,Nott'm Forest,H,H
+2024-02-24,EPL,Crystal Palace,Burnley,H,H
+2024-02-24,EPL,Man United,Fulham,A,H
+2024-02-24,SerieA,Salernitana,Monza,A,A
+2024-02-24,SerieA,Genoa,Udinese,H,H
+2024-02-24,Bundes,M'gladbach,Bochum,H,H
+2024-02-24,Bundes,Bayern Munich,RB Leipzig,H,H
+2024-02-24,EPL,Arsenal,Newcastle,H,H
+2024-02-24,LaLiga,Barcelona,Getafe,H,H
+2024-02-24,SerieA,Sassuolo,Empoli,A,H
+2024-02-25,SerieA,Juventus,Frosinone,H,H
+2024-02-25,LaLiga,Real Madrid,Sevilla,H,H
+2024-02-25,SerieA,Lecce,Inter,A,A
+2024-02-25,LaLiga,Betis,Ath Bilbao,H,H
+2024-02-25,Bundes,Dortmund,Hoffenheim,A,H
+2024-02-25,EPL,Wolves,Sheffield United,H,H
+2024-02-25,Bundes,Augsburg,Freiburg,H,A
+2024-02-26,SerieA,Fiorentina,Lazio,H,A
+2024-02-26,SerieA,Roma,Torino,H,H
+2024-02-26,EPL,West Ham,Brentford,H,A
+2024-02-26,LaLiga,Girona,Vallecano,H,H
+2024-02-28,SerieA,Sassuolo,Napoli,A,A
+2024-02-28,SerieA,Inter,Atalanta,H,H
+2024-03-01,LaLiga,Celta,Almeria,H,H
+2024-03-01,SerieA,Lazio,Milan,A,A
+2024-03-02,EPL,Luton,Aston Villa,A,A
+2024-03-02,EPL,Everton,West Ham,A,A
+2024-03-02,EPL,Fulham,Brighton,H,H
+2024-03-02,EPL,Newcastle,Wolves,H,A
+2024-03-02,EPL,Nott'm Forest,Liverpool,A,A
+2024-03-02,SerieA,Monza,Roma,A,A
+2024-03-02,EPL,Tottenham,Crystal Palace,H,H
+2024-03-02,Bundes,Darmstadt,Augsburg,A,A
+2024-03-02,Bundes,Heidenheim,Ein Frankfurt,A,A
+2024-03-02,Bundes,Union Berlin,Dortmund,A,A
+2024-03-02,Bundes,Wolfsburg,Stuttgart,A,A
+2024-03-02,LaLiga,Sevilla,Sociedad,H,A
+2024-03-02,Bundes,Bochum,RB Leipzig,A,A
+2024-03-03,EPL,Man City,Man United,H,H
+2024-03-03,Bundes,FC Koln,Leverkusen,A,A
+2024-03-03,Bundes,Hoffenheim,Werder Bremen,H,H
+2024-03-03,SerieA,Verona,Sassuolo,H,A
+2024-03-03,SerieA,Empoli,Cagliari,A,H
+2024-03-03,SerieA,Atalanta,Bologna,A,H
+2024-03-03,SerieA,Napoli,Juventus,H,H
+2024-03-03,EPL,Burnley,Bournemouth,A,A
+2024-03-03,LaLiga,Villarreal,Granada,H,H
+2024-03-03,LaLiga,Ath Madrid,Betis,H,H
+2024-03-03,LaLiga,Mallorca,Girona,H,A
+2024-03-04,EPL,Sheffield United,Arsenal,A,A
+2024-03-04,LaLiga,Osasuna,Alaves,H,H
+2024-03-04,SerieA,Inter,Genoa,H,H
+2024-03-08,LaLiga,Barcelona,Mallorca,H,H
+2024-03-08,Bundes,Stuttgart,Union Berlin,H,H
+2024-03-09,LaLiga,Cadiz,Ath Madrid,H,A
+2024-03-09,LaLiga,Valencia,Getafe,H,H
+2024-03-09,LaLiga,Granada,Sociedad,A,A
+2024-03-09,LaLiga,Girona,Osasuna,H,H
+2024-03-09,SerieA,Sassuolo,Frosinone,H,H
+2024-03-09,SerieA,Cagliari,Salernitana,H,H
+2024-03-09,EPL,Arsenal,Brentford,H,H
+2024-03-09,SerieA,Genoa,Monza,A,A
+2024-03-09,EPL,Man United,Everton,H,H
+2024-03-09,Bundes,Augsburg,Heidenheim,H,H
+2024-03-09,Bundes,Bayern Munich,Mainz,H,H
+2024-03-09,Bundes,Werder Bremen,Dortmund,A,A
+2024-03-09,EPL,Wolves,Fulham,H,H
+2024-03-09,Bundes,RB Leipzig,Darmstadt,H,H
+2024-03-09,SerieA,Bologna,Inter,A,A
+2024-03-10,Bundes,Ein Frankfurt,Hoffenheim,H,A
+2024-03-10,Bundes,Leverkusen,Wolfsburg,H,H
+2024-03-10,LaLiga,Betis,Villarreal,A,H
+2024-03-10,LaLiga,Real Madrid,Celta,H,H
+2024-03-10,EPL,Brighton,Nott'm Forest,H,H
+2024-03-10,EPL,Aston Villa,Tottenham,A,H
+2024-03-10,SerieA,Milan,Empoli,H,H
+2024-03-10,Bundes,Bochum,Freiburg,A,A
+2024-03-10,SerieA,Lecce,Verona,A,A
+2024-03-10,LaLiga,Alaves,Vallecano,H,A
+2024-03-10,LaLiga,Las Palmas,Ath Bilbao,A,H
+2024-03-11,EPL,Chelsea,Newcastle,H,A
+2024-03-11,SerieA,Lazio,Udinese,A,H
+2024-03-13,EPL,Bournemouth,Luton,H,A
+2024-03-15,Bundes,FC Koln,RB Leipzig,A,A
+2024-03-15,SerieA,Empoli,Bologna,A,A
+2024-03-15,LaLiga,Sociedad,Cadiz,H,H
+2024-03-16,Bundes,Mainz,Bochum,H,H
+2024-03-16,LaLiga,Mallorca,Granada,H,H
+2024-03-16,LaLiga,Osasuna,Real Madrid,A,A
+2024-03-16,LaLiga,Getafe,Girona,H,A
+2024-03-16,LaLiga,Ath Bilbao,Alaves,H,H
+2024-03-16,Bundes,Hoffenheim,Stuttgart,A,A
+2024-03-16,Bundes,Darmstadt,Bayern Munich,A,A
+2024-03-16,Bundes,Union Berlin,Werder Bremen,H,H
+2024-03-16,SerieA,Udinese,Torino,A,H
+2024-03-16,Bundes,Wolfsburg,Augsburg,A,A
+2024-03-16,SerieA,Monza,Cagliari,H,H
+2024-03-16,EPL,Burnley,Brentford,H,A
+2024-03-16,EPL,Fulham,Tottenham,H,A
+2024-03-16,SerieA,Frosinone,Lazio,A,A
+2024-03-16,SerieA,Salernitana,Lecce,A,A
+2024-03-17,LaLiga,Sevilla,Celta,A,A
+2024-03-17,SerieA,Verona,Milan,A,A
+2024-03-17,Bundes,Dortmund,Ein Frankfurt,H,H
+2024-03-17,LaLiga,Las Palmas,Almeria,A,H
+2024-03-17,Bundes,Freiburg,Leverkusen,A,A
+2024-03-17,LaLiga,Vallecano,Betis,H,A
+2024-03-17,LaLiga,Ath Madrid,Barcelona,A,H
+2024-03-17,SerieA,Roma,Sassuolo,H,H
+2024-03-17,LaLiga,Villarreal,Valencia,H,H
+2024-03-29,LaLiga,Cadiz,Granada,H,H
+2024-03-30,SerieA,Lazio,Juventus,H,A
+2024-03-30,SerieA,Fiorentina,Milan,A,A
+2024-03-30,SerieA,Napoli,Atalanta,A,H
+2024-03-30,Bundes,M'gladbach,Freiburg,A,H
+2024-03-30,LaLiga,Almeria,Osasuna,A,H
+2024-03-30,LaLiga,Getafe,Sevilla,A,H
+2024-03-30,LaLiga,Barcelona,Las Palmas,H,H
+2024-03-30,Bundes,Leverkusen,Hoffenheim,H,H
+2024-03-30,SerieA,Torino,Monza,H,H
+2024-03-30,Bundes,Werder Bremen,Wolfsburg,A,A
+2024-03-30,Bundes,Bayern Munich,Dortmund,A,H
+2024-03-30,EPL,Tottenham,Luton,H,H
+2024-03-30,EPL,Aston Villa,Wolves,H,A
+2024-03-30,EPL,Bournemouth,Everton,H,H
+2024-03-30,EPL,Newcastle,West Ham,H,H
+2024-03-31,LaLiga,Girona,Betis,H,H
+2024-03-31,LaLiga,Alaves,Sociedad,A,A
+2024-03-31,LaLiga,Real Madrid,Ath Bilbao,H,H
+2024-03-31,EPL,Liverpool,Brighton,H,H
+2024-04-01,SerieA,Inter,Empoli,H,H
+2024-04-01,SerieA,Bologna,Salernitana,H,H
+2024-04-01,LaLiga,Villarreal,Ath Madrid,A,H
+2024-04-02,EPL,Nott'm Forest,Fulham,H,A
+2024-04-02,EPL,Bournemouth,Crystal Palace,H,A
+2024-04-03,EPL,Arsenal,Luton,H,H
+2024-04-03,EPL,Man City,Aston Villa,H,A
+2024-04-04,LaLiga,Granada,Valencia,A,A
+2024-04-04,EPL,Liverpool,Sheffield United,H,H
+2024-04-04,EPL,Chelsea,Man United,H,H
+2024-04-06,EPL,Luton,Bournemouth,H,A
+2024-04-06,SerieA,Roma,Lazio,H,A
+2024-04-06,SerieA,Empoli,Torino,H,A
+2024-04-06,EPL,Brighton,Arsenal,A,A
+2024-04-06,EPL,Fulham,Newcastle,A,H
+2024-04-06,EPL,Wolves,West Ham,A,A
+2024-04-06,Bundes,Dortmund,Stuttgart,A,A
+2024-04-06,SerieA,Milan,Lecce,H,H
+2024-04-06,Bundes,Mainz,Darmstadt,H,H
+2024-04-06,Bundes,Freiburg,RB Leipzig,A,A
+2024-04-06,Bundes,FC Koln,Bochum,H,A
+2024-04-06,EPL,Crystal Palace,Man City,A,A
+2024-04-06,Bundes,Union Berlin,Leverkusen,A,A
+2024-04-06,EPL,Everton,Burnley,H,H
+2024-04-06,Bundes,Heidenheim,Bayern Munich,H,A
+2024-04-07,EPL,Tottenham,Nott'm Forest,H,H
+2024-04-07,Bundes,Wolfsburg,M'gladbach,A,H
+2024-04-07,Bundes,Hoffenheim,Augsburg,H,A
+2024-04-07,SerieA,Cagliari,Atalanta,H,A
+2024-04-07,SerieA,Monza,Napoli,A,A
+2024-04-07,SerieA,Verona,Genoa,A,H
+2024-04-07,SerieA,Juventus,Fiorentina,H,H
+2024-04-08,SerieA,Udinese,Inter,A,A
+2024-04-12,LaLiga,Betis,Celta,H,A
+2024-04-12,Bundes,Augsburg,Union Berlin,H,H
+2024-04-12,SerieA,Lazio,Salernitana,H,H
+2024-04-13,Bundes,Bayern Munich,FC Koln,H,H
+2024-04-13,Bundes,RB Leipzig,Wolfsburg,H,H
+2024-04-13,Bundes,Stuttgart,Ein Frankfurt,H,A
+2024-04-13,Bundes,M'gladbach,Dortmund,A,A
+2024-04-13,Bundes,Mainz,Hoffenheim,H,H
+2024-04-13,EPL,Man City,Luton,H,H
+2024-04-13,EPL,Brentford,Sheffield United,H,A
+2024-04-13,LaLiga,Mallorca,Real Madrid,A,A
+2024-04-13,SerieA,Lecce,Empoli,H,A
+2024-04-13,LaLiga,Ath Madrid,Girona,H,H
+2024-04-13,LaLiga,Cadiz,Barcelona,A,A
+2024-04-13,EPL,Newcastle,Tottenham,H,A
+2024-04-14,EPL,West Ham,Fulham,A,H
+2024-04-14,EPL,Liverpool,Crystal Palace,A,H
+2024-04-14,Bundes,Leverkusen,Werder Bremen,H,H
+2024-04-14,LaLiga,Las Palmas,Sevilla,A,H
+2024-04-14,Bundes,Darmstadt,Freiburg,A,A
+2024-04-14,EPL,Arsenal,Aston Villa,A,H
+2024-04-14,LaLiga,Granada,Alaves,H,A
+2024-04-15,EPL,Chelsea,Everton,H,H
+2024-04-15,LaLiga,Osasuna,Valencia,A,A
+2024-04-19,Bundes,Ein Frankfurt,Augsburg,H,A
+2024-04-19,SerieA,Genoa,Lazio,A,A
+2024-04-20,LaLiga,Celta,Las Palmas,H,H
+2024-04-20,LaLiga,Valencia,Betis,A,H
+2024-04-20,LaLiga,Vallecano,Osasuna,H,A
+2024-04-20,Bundes,Union Berlin,Bayern Munich,A,A
+2024-04-20,Bundes,Wolfsburg,Bochum,H,A
+2024-04-20,Bundes,FC Koln,Darmstadt,A,H
+2024-04-20,Bundes,Heidenheim,RB Leipzig,A,A
+2024-04-20,Bundes,Hoffenheim,M'gladbach,H,A
+2024-04-20,SerieA,Empoli,Napoli,H,A
+2024-04-20,SerieA,Verona,Udinese,H,H
+2024-04-20,EPL,Luton,Brentford,A,H
+2024-04-20,EPL,Sheffield United,Burnley,A,A
+2024-04-20,EPL,Wolves,Arsenal,A,A
+2024-04-20,LaLiga,Girona,Cadiz,H,H
+2024-04-21,Bundes,Werder Bremen,Stuttgart,H,A
+2024-04-21,LaLiga,Almeria,Villarreal,A,A
+2024-04-21,LaLiga,Alaves,Ath Madrid,H,A
+2024-04-21,LaLiga,Real Madrid,Barcelona,H,H
+2024-04-21,SerieA,Monza,Atalanta,A,A
+2024-04-21,SerieA,Sassuolo,Lecce,A,H
+2024-04-21,EPL,Everton,Nott'm Forest,H,A
+2024-04-21,EPL,Aston Villa,Bournemouth,H,A
+2024-04-21,EPL,Crystal Palace,West Ham,H,H
+2024-04-21,EPL,Fulham,Liverpool,A,A
+2024-04-21,SerieA,Salernitana,Fiorentina,A,A
+2024-04-22,LaLiga,Sevilla,Mallorca,H,H
+2024-04-22,SerieA,Roma,Bologna,A,A
+2024-04-22,SerieA,Milan,Inter,A,A
+2024-04-23,EPL,Arsenal,Chelsea,H,H
+2024-04-24,EPL,Crystal Palace,Newcastle,H,H
+2024-04-24,EPL,Everton,Liverpool,H,A
+2024-04-24,EPL,Man United,Sheffield United,H,H
+2024-04-24,EPL,Wolves,Bournemouth,A,A
+2024-04-25,EPL,Brighton,Man City,A,A
+2024-04-25,SerieA,Udinese,Roma,A,A
+2024-04-26,SerieA,Frosinone,Salernitana,H,H
+2024-04-26,LaLiga,Sociedad,Real Madrid,A,A
+2024-04-26,Bundes,Bochum,Hoffenheim,H,H
+2024-04-27,Bundes,Bayern Munich,Ein Frankfurt,H,H
+2024-04-27,Bundes,Freiburg,Wolfsburg,A,A
+2024-04-27,Bundes,Augsburg,Werder Bremen,A,H
+2024-04-27,EPL,Newcastle,Sheffield United,H,H
+2024-04-27,Bundes,RB Leipzig,Dortmund,H,H
+2024-04-27,EPL,Everton,Brentford,H,A
+2024-04-27,LaLiga,Almeria,Getafe,A,H
+2024-04-27,LaLiga,Las Palmas,Girona,A,A
+2024-04-27,SerieA,Lazio,Verona,H,H
+2024-04-27,LaLiga,Ath Madrid,Ath Bilbao,H,H
+2024-04-27,EPL,Wolves,Luton,H,A
+2024-04-27,LaLiga,Alaves,Celta,H,A
+2024-04-28,LaLiga,Villarreal,Vallecano,H,H
+2024-04-28,LaLiga,Granada,Osasuna,H,A
+2024-04-28,EPL,Nott'm Forest,Man City,A,A
+2024-04-28,EPL,Tottenham,Arsenal,A,A
+2024-04-28,EPL,Bournemouth,Brighton,H,A
+2024-04-28,SerieA,Atalanta,Empoli,H,H
+2024-04-28,SerieA,Fiorentina,Sassuolo,H,H
+2024-04-28,SerieA,Inter,Torino,H,H
+2024-04-28,Bundes,Darmstadt,Heidenheim,A,A
+2024-04-29,LaLiga,Barcelona,Valencia,H,H
+2024-04-29,SerieA,Genoa,Cagliari,H,H
+2024-05-02,EPL,Chelsea,Tottenham,H,H
+2024-05-03,LaLiga,Getafe,Ath Bilbao,A,H
+2024-05-04,LaLiga,Real Madrid,Cadiz,H,H
+2024-05-04,SerieA,Sassuolo,Inter,H,A
+2024-05-04,LaLiga,Sociedad,Las Palmas,H,H
+2024-05-04,EPL,Burnley,Newcastle,A,A
+2024-05-04,LaLiga,Mallorca,Ath Madrid,A,H
+2024-05-04,LaLiga,Girona,Barcelona,H,H
+2024-05-04,Bundes,Stuttgart,Bayern Munich,H,A
+2024-05-04,Bundes,Wolfsburg,Darmstadt,H,H
+2024-05-04,EPL,Man City,Wolves,H,H
+2024-05-04,EPL,Sheffield United,Nott'm Forest,A,A
+2024-05-04,EPL,Arsenal,Bournemouth,H,H
+2024-05-04,Bundes,Dortmund,Augsburg,H,H
+2024-05-05,EPL,Liverpool,Tottenham,H,H
+2024-05-05,LaLiga,Sevilla,Granada,H,H
+2024-05-05,LaLiga,Valencia,Alaves,A,H
+2024-05-05,LaLiga,Celta,Villarreal,H,A
+2024-05-05,LaLiga,Osasuna,Betis,A,A
+2024-05-05,EPL,Chelsea,West Ham,H,H
+2024-05-05,LaLiga,Vallecano,Almeria,A,H
+2024-05-05,SerieA,Verona,Fiorentina,H,H
+2024-05-05,Bundes,Union Berlin,Bochum,A,H
+2024-05-05,Bundes,Ein Frankfurt,Leverkusen,A,A
+2024-05-05,EPL,Brighton,Aston Villa,H,A
+2024-05-06,SerieA,Salernitana,Atalanta,A,A
+2024-05-06,EPL,Crystal Palace,Man United,H,H
+2024-05-10,SerieA,Frosinone,Inter,A,A
+2024-05-10,Bundes,Augsburg,Stuttgart,A,A
+2024-05-11,LaLiga,Villarreal,Sevilla,H,A
+2024-05-11,EPL,Wolves,Crystal Palace,A,A
+2024-05-11,EPL,Everton,Sheffield United,H,H
+2024-05-11,EPL,Bournemouth,Brentford,A,A
+2024-05-11,EPL,Fulham,Man City,A,A
+2024-05-11,EPL,Nott'm Forest,Chelsea,A,A
+2024-05-11,EPL,West Ham,Luton,H,A
+2024-05-11,EPL,Tottenham,Burnley,H,H
+2024-05-11,LaLiga,Mallorca,Las Palmas,H,H
+2024-05-11,SerieA,Milan,Cagliari,H,H
+2024-05-11,SerieA,Napoli,Bologna,A,H
+2024-05-11,LaLiga,Granada,Real Madrid,A,A
+2024-05-11,Bundes,FC Koln,Union Berlin,H,A
+2024-05-11,Bundes,Mainz,Dortmund,H,A
+2024-05-12,LaLiga,Betis,Almeria,H,H
+2024-05-12,SerieA,Verona,Torino,A,A
+2024-05-12,SerieA,Lazio,Empoli,H,H
+2024-05-12,SerieA,Atalanta,Roma,H,H
+2024-05-12,Bundes,Bochum,Leverkusen,A,A
+2024-05-12,LaLiga,Cadiz,Getafe,H,A
+2024-05-12,SerieA,Genoa,Sassuolo,H,H
+2024-05-12,Bundes,Darmstadt,Hoffenheim,A,A
+2024-05-12,EPL,Man United,Arsenal,A,A
+2024-05-12,Bundes,Bayern Munich,Wolfsburg,H,H
+2024-05-12,LaLiga,Ath Madrid,Celta,H,H
+2024-05-13,SerieA,Lecce,Udinese,A,H
+2024-05-13,SerieA,Fiorentina,Monza,H,H
+2024-05-13,LaLiga,Barcelona,Sociedad,H,H
+2024-05-14,LaLiga,Girona,Villarreal,A,H
+2024-05-14,LaLiga,Real Madrid,Alaves,H,H
+2024-05-14,EPL,Tottenham,Man City,A,A
+2024-05-15,LaLiga,Vallecano,Granada,H,H
+2024-05-15,LaLiga,Getafe,Ath Madrid,A,A
+2024-05-15,EPL,Brighton,Chelsea,A,H
+2024-05-15,LaLiga,Celta,Ath Bilbao,H,H
+2024-05-15,LaLiga,Sevilla,Cadiz,A,H
+2024-05-15,EPL,Man United,Newcastle,H,H
+2024-05-16,LaLiga,Sociedad,Valencia,H,H
+2024-05-16,LaLiga,Almeria,Barcelona,A,A
+2024-05-18,SerieA,Torino,Milan,H,A
+2024-05-18,Bundes,Union Berlin,Freiburg,H,A
+2024-05-18,Bundes,Hoffenheim,Bayern Munich,H,A
+2024-05-18,LaLiga,Alaves,Getafe,H,A
+2024-05-18,SerieA,Lecce,Atalanta,A,A
+2024-05-18,Bundes,Wolfsburg,Mainz,A,H
+2024-05-18,Bundes,Dortmund,Darmstadt,H,H
+2024-05-18,Bundes,Stuttgart,M'gladbach,H,H
+2024-05-18,Bundes,Werder Bremen,Bochum,H,H
+2024-05-18,Bundes,Leverkusen,Augsburg,H,H
+2024-05-18,Bundes,Heidenheim,FC Koln,H,A
+2024-05-19,LaLiga,Granada,Celta,A,A
+2024-05-19,SerieA,Roma,Genoa,H,H
+2024-05-19,LaLiga,Betis,Sociedad,A,A
+2024-05-19,LaLiga,Barcelona,Vallecano,H,H
+2024-05-19,EPL,Arsenal,Everton,H,H
+2024-05-19,EPL,Brentford,Newcastle,A,A
+2024-05-19,EPL,Brighton,Man United,A,A
+2024-05-19,EPL,Burnley,Nott'm Forest,A,A
+2024-05-19,EPL,Chelsea,Bournemouth,H,H
+2024-05-19,EPL,Liverpool,Wolves,H,H
+2024-05-19,EPL,Man City,West Ham,H,H
+2024-05-19,EPL,Crystal Palace,Aston Villa,H,H
+2024-05-19,SerieA,Monza,Frosinone,A,H
+2024-05-19,SerieA,Sassuolo,Cagliari,A,A
+2024-05-19,EPL,Sheffield United,Tottenham,A,A
+2024-05-19,LaLiga,Ath Madrid,Osasuna,A,H
+2024-05-19,LaLiga,Valencia,Girona,A,A
+2024-05-19,EPL,Luton,Fulham,A,A
+2024-05-19,LaLiga,Ath Bilbao,Sevilla,H,H
+2024-05-20,SerieA,Salernitana,Verona,A,A
+2024-05-23,SerieA,Cagliari,Fiorentina,A,A
+2024-05-24,LaLiga,Girona,Granada,H,H
+2024-05-24,SerieA,Genoa,Bologna,H,A
+2024-05-25,SerieA,Juventus,Monza,H,H
+2024-05-25,LaLiga,Sociedad,Ath Madrid,A,A
+2024-05-25,LaLiga,Almeria,Cadiz,H,A
+2024-05-25,LaLiga,Vallecano,Ath Bilbao,A,H
+2024-05-26,LaLiga,Sevilla,Barcelona,A,A
+2024-05-26,LaLiga,Getafe,Mallorca,A,H
+2024-05-26,SerieA,Frosinone,Udinese,A,H
+2024-05-26,SerieA,Empoli,Roma,H,A
+2024-05-26,SerieA,Atalanta,Torino,H,H
+2024-06-02,SerieA,Atalanta,Fiorentina,A,H
+2024-08-16,LaLiga,Celta,Alaves,H,H
+2024-08-16,EPL,Man United,Fulham,H,H
+2024-08-17,EPL,Arsenal,Wolves,H,H
+2024-08-17,EPL,Newcastle,Southampton,H,H
+2024-08-17,EPL,West Ham,Aston Villa,A,A
+2024-08-17,LaLiga,Valencia,Barcelona,A,A
+2024-08-17,EPL,Everton,Brighton,A,H
+2024-08-18,EPL,Brentford,Crystal Palace,H,A
+2024-08-18,EPL,Chelsea,Man City,A,A
+2024-08-18,SerieA,Lazio,Venezia,H,H
+2024-08-18,LaLiga,Sociedad,Vallecano,A,H
+2024-08-18,SerieA,Verona,Napoli,H,A
+2024-08-19,LaLiga,Valladolid,Espanol,H,H
+2024-08-19,SerieA,Lecce,Atalanta,A,A
+2024-08-23,LaLiga,Sevilla,Villarreal,A,A
+2024-08-23,LaLiga,Celta,Valencia,H,H
+2024-08-23,Bundes,M'gladbach,Leverkusen,A,A
+2024-08-24,Bundes,Dortmund,Ein Frankfurt,H,H
+2024-08-24,Bundes,RB Leipzig,Bochum,H,H
+2024-08-24,EPL,Aston Villa,Arsenal,A,A
+2024-08-24,Bundes,Freiburg,Stuttgart,H,A
+2024-08-24,LaLiga,Osasuna,Mallorca,H,A
+2024-08-24,LaLiga,Barcelona,Ath Bilbao,H,H
+2024-08-24,LaLiga,Espanol,Sociedad,A,A
+2024-08-24,SerieA,Udinese,Lazio,H,A
+2024-08-24,EPL,Tottenham,Everton,H,H
+2024-08-24,EPL,Southampton,Nott'm Forest,A,A
+2024-08-24,EPL,Fulham,Leicester,H,A
+2024-08-24,EPL,Crystal Palace,West Ham,A,H
+2024-08-24,SerieA,Monza,Genoa,A,A
+2024-08-24,SerieA,Parma,Milan,H,A
+2024-08-24,SerieA,Inter,Lecce,H,H
+2024-08-24,EPL,Brighton,Man United,H,H
+2024-08-25,SerieA,Roma,Empoli,A,H
+2024-08-25,SerieA,Napoli,Bologna,H,H
+2024-08-25,EPL,Liverpool,Brentford,H,H
+2024-08-25,EPL,Wolves,Chelsea,A,A
+2024-08-25,LaLiga,Ath Madrid,Girona,H,H
+2024-08-25,SerieA,Torino,Atalanta,H,A
+2024-08-25,LaLiga,Leganes,Las Palmas,H,H
+2024-08-25,LaLiga,Real Madrid,Valladolid,H,H
+2024-08-25,Bundes,Wolfsburg,Bayern Munich,A,A
+2024-08-25,Bundes,St Pauli,Heidenheim,A,A
+2024-08-26,LaLiga,Villarreal,Celta,H,H
+2024-08-26,SerieA,Verona,Juventus,A,A
+2024-08-27,LaLiga,Vallecano,Barcelona,A,A
+2024-08-28,LaLiga,Ath Bilbao,Valencia,H,H
+2024-08-28,LaLiga,Sociedad,Alaves,A,A
+2024-08-29,LaLiga,Girona,Osasuna,H,H
+2024-08-30,SerieA,Venezia,Torino,A,A
+2024-08-30,Bundes,Union Berlin,St Pauli,H,H
+2024-08-30,SerieA,Inter,Atalanta,H,A
+2024-08-31,EPL,Brentford,Southampton,H,H
+2024-08-31,LaLiga,Barcelona,Valladolid,H,H
+2024-08-31,LaLiga,Ath Bilbao,Ath Madrid,A,H
+2024-08-31,LaLiga,Espanol,Vallecano,H,H
+2024-08-31,LaLiga,Leganes,Mallorca,A,A
+2024-08-31,EPL,Everton,Bournemouth,A,A
+2024-08-31,EPL,Leicester,Aston Villa,A,A
+2024-08-31,EPL,West Ham,Man City,A,A
+2024-08-31,Bundes,Bochum,M'gladbach,A,A
+2024-08-31,Bundes,Leverkusen,RB Leipzig,A,H
+2024-08-31,Bundes,Ein Frankfurt,Hoffenheim,H,H
+2024-08-31,SerieA,Napoli,Parma,H,H
+2024-08-31,SerieA,Lecce,Cagliari,H,H
+2024-09-01,LaLiga,Osasuna,Celta,H,A
+2024-09-01,LaLiga,Real Madrid,Betis,H,H
+2024-09-01,LaLiga,Sevilla,Girona,A,H
+2024-09-01,LaLiga,Alaves,Las Palmas,H,H
+2024-09-01,EPL,Newcastle,Tottenham,H,H
+2024-09-01,SerieA,Genoa,Verona,A,H
+2024-09-01,Bundes,Bayern Munich,Freiburg,H,H
+2024-09-01,Bundes,Heidenheim,Augsburg,H,A
+2024-09-01,EPL,Man United,Liverpool,A,A
+2024-09-13,Bundes,Dortmund,Heidenheim,H,H
+2024-09-13,LaLiga,Betis,Leganes,H,H
+2024-09-14,Bundes,Wolfsburg,Ein Frankfurt,A,H
+2024-09-14,EPL,Bournemouth,Chelsea,A,A
+2024-09-14,LaLiga,Sociedad,Real Madrid,A,A
+2024-09-14,LaLiga,Espanol,Alaves,H,H
+2024-09-14,LaLiga,Sevilla,Getafe,H,H
+2024-09-14,Bundes,M'gladbach,Stuttgart,A,A
+2024-09-14,LaLiga,Mallorca,Villarreal,A,H
+2024-09-14,Bundes,Hoffenheim,Leverkusen,A,A
+2024-09-14,SerieA,Milan,Venezia,H,H
+2024-09-14,EPL,Aston Villa,Everton,H,H
+2024-09-14,EPL,Man City,Brentford,H,H
+2024-09-14,EPL,Liverpool,Nott'm Forest,A,H
+2024-09-14,EPL,Southampton,Man United,A,A
+2024-09-14,Bundes,Freiburg,Bochum,H,H
+2024-09-15,LaLiga,Las Palmas,Ath Bilbao,A,H
+2024-09-15,EPL,Wolves,Newcastle,A,A
+2024-09-15,LaLiga,Celta,Valladolid,H,H
+2024-09-15,LaLiga,Girona,Barcelona,A,A
+2024-09-15,EPL,Tottenham,Arsenal,A,A
+2024-09-15,Bundes,Augsburg,St Pauli,H,A
+2024-09-15,SerieA,Cagliari,Napoli,A,A
+2024-09-15,SerieA,Atalanta,Fiorentina,H,H
+2024-09-15,Bundes,Mainz,Werder Bremen,A,H
+2024-09-15,LaLiga,Ath Madrid,Valencia,H,H
+2024-09-16,SerieA,Parma,Udinese,A,A
+2024-09-16,SerieA,Lazio,Verona,H,H
+2024-09-16,LaLiga,Vallecano,Osasuna,H,H
+2024-09-17,LaLiga,Mallorca,Sociedad,H,A
+2024-09-18,LaLiga,Betis,Getafe,H,H
+2024-09-19,LaLiga,Leganes,Ath Bilbao,A,H
+2024-09-20,SerieA,Verona,Torino,A,A
+2024-09-20,Bundes,Augsburg,Mainz,A,A
+2024-09-20,SerieA,Cagliari,Empoli,A,H
+2024-09-20,LaLiga,Alaves,Sevilla,H,H
+2024-09-21,Bundes,Werder Bremen,Bayern Munich,A,A
+2024-09-21,EPL,Liverpool,Bournemouth,H,H
+2024-09-21,EPL,Tottenham,Brentford,H,H
+2024-09-21,EPL,Fulham,Newcastle,H,A
+2024-09-21,Bundes,Heidenheim,Freiburg,A,H
+2024-09-21,Bundes,Union Berlin,Hoffenheim,H,H
+2024-09-21,Bundes,Ein Frankfurt,M'gladbach,H,H
+2024-09-21,LaLiga,Real Madrid,Espanol,H,H
+2024-09-21,EPL,Aston Villa,Wolves,H,H
+2024-09-21,EPL,West Ham,Chelsea,A,A
+2024-09-21,SerieA,Venezia,Genoa,H,A
+2024-09-21,LaLiga,Osasuna,Las Palmas,H,A
+2024-09-21,LaLiga,Valencia,Girona,H,A
+2024-09-22,LaLiga,Ath Bilbao,Celta,H,H
+2024-09-22,LaLiga,Villarreal,Barcelona,A,A
+2024-09-22,Bundes,Leverkusen,Wolfsburg,H,H
+2024-09-22,SerieA,Roma,Udinese,H,H
+2024-09-22,Bundes,Stuttgart,Dortmund,H,H
+2024-09-22,SerieA,Fiorentina,Lazio,H,A
+2024-09-22,SerieA,Monza,Bologna,A,A
+2024-09-22,SerieA,Inter,Milan,A,H
+2024-09-23,LaLiga,Betis,Mallorca,A,H
+2024-09-24,LaLiga,Sevilla,Valladolid,H,H
+2024-09-24,LaLiga,Real Madrid,Alaves,H,H
+2024-09-25,LaLiga,Barcelona,Getafe,H,H
+2024-09-26,LaLiga,Espanol,Villarreal,A,A
+2024-09-26,LaLiga,Celta,Ath Madrid,A,A
+2024-09-27,LaLiga,Valladolid,Mallorca,A,A
+2024-09-27,SerieA,Milan,Lecce,H,H
+2024-09-27,Bundes,Dortmund,Bochum,H,H
+2024-09-28,Bundes,Freiburg,St Pauli,A,A
+2024-09-28,Bundes,Mainz,Heidenheim,A,A
+2024-09-28,Bundes,M'gladbach,Union Berlin,H,A
+2024-09-28,Bundes,RB Leipzig,Augsburg,H,H
+2024-09-28,EPL,Arsenal,Leicester,H,H
+2024-09-28,EPL,Chelsea,Brighton,H,H
+2024-09-28,LaLiga,Getafe,Alaves,H,A
+2024-09-28,EPL,Nott'm Forest,Fulham,A,A
+2024-09-28,SerieA,Udinese,Inter,A,A
+2024-09-28,SerieA,Genoa,Juventus,A,A
+2024-09-28,EPL,Wolves,Liverpool,A,A
+2024-09-28,LaLiga,Osasuna,Barcelona,H,A
+2024-09-28,LaLiga,Sociedad,Valencia,H,H
+2024-09-28,EPL,Everton,Crystal Palace,H,H
+2024-09-29,SerieA,Torino,Lazio,A,A
+2024-09-29,Bundes,Hoffenheim,Werder Bremen,A,H
+2024-09-29,SerieA,Roma,Venezia,H,H
+2024-09-29,LaLiga,Betis,Espanol,H,H
+2024-09-29,SerieA,Napoli,Monza,H,H
+2024-09-29,EPL,Man United,Tottenham,A,H
+2024-09-30,SerieA,Parma,Cagliari,A,A
+2024-09-30,EPL,Bournemouth,Southampton,H,H
+2024-09-30,LaLiga,Villarreal,Las Palmas,H,H
+2024-10-04,Bundes,Augsburg,M'gladbach,H,A
+2024-10-04,SerieA,Verona,Venezia,H,H
+2024-10-05,SerieA,Udinese,Lecce,H,A
+2024-10-05,Bundes,Werder Bremen,Freiburg,A,A
+2024-10-05,Bundes,St Pauli,Mainz,A,A
+2024-10-05,SerieA,Inter,Torino,H,H
+2024-10-05,SerieA,Atalanta,Genoa,H,H
+2024-10-05,Bundes,Bochum,Wolfsburg,A,A
+2024-10-05,Bundes,Union Berlin,Dortmund,H,A
+2024-10-05,LaLiga,Espanol,Mallorca,H,H
+2024-10-05,EPL,Arsenal,Southampton,H,H
+2024-10-05,EPL,Brentford,Wolves,H,A
+2024-10-05,EPL,Leicester,Bournemouth,H,A
+2024-10-05,EPL,Crystal Palace,Liverpool,A,A
+2024-10-05,LaLiga,Valladolid,Vallecano,A,A
+2024-10-05,LaLiga,Real Madrid,Villarreal,H,H
+2024-10-05,LaLiga,Las Palmas,Celta,A,A
+2024-10-05,EPL,Man City,Fulham,H,H
+2024-10-06,LaLiga,Girona,Ath Bilbao,H,H
+2024-10-06,EPL,Brighton,Tottenham,H,A
+2024-10-06,Bundes,Heidenheim,RB Leipzig,A,A
+2024-10-06,SerieA,Fiorentina,Milan,H,A
+2024-10-06,SerieA,Lazio,Empoli,H,H
+2024-10-06,LaLiga,Sevilla,Betis,H,H
+2024-10-06,LaLiga,Alaves,Barcelona,A,A
+2024-10-18,LaLiga,Alaves,Valladolid,A,H
+2024-10-18,Bundes,Dortmund,St Pauli,H,H
+2024-10-19,LaLiga,Girona,Sociedad,A,H
+2024-10-19,EPL,Man United,Brentford,H,H
+2024-10-19,EPL,Newcastle,Brighton,A,H
+2024-10-19,EPL,Southampton,Leicester,A,A
+2024-10-19,EPL,Bournemouth,Arsenal,H,A
+2024-10-19,LaLiga,Ath Bilbao,Espanol,H,H
+2024-10-19,EPL,Tottenham,West Ham,H,H
+2024-10-19,LaLiga,Celta,Real Madrid,A,A
+2024-10-19,LaLiga,Osasuna,Betis,A,A
+2024-10-19,Bundes,Hoffenheim,Bochum,H,H
+2024-10-19,Bundes,Mainz,RB Leipzig,A,A
+2024-10-19,Bundes,M'gladbach,Heidenheim,H,A
+2024-10-19,Bundes,Bayern Munich,Stuttgart,H,H
+2024-10-19,EPL,Fulham,Aston Villa,A,A
+2024-10-19,Bundes,Leverkusen,Ein Frankfurt,H,H
+2024-10-19,SerieA,Milan,Udinese,H,H
+2024-10-19,SerieA,Juventus,Lazio,H,A
+2024-10-19,Bundes,Freiburg,Augsburg,H,H
+2024-10-20,SerieA,Roma,Inter,A,A
+2024-10-20,LaLiga,Mallorca,Vallecano,H,H
+2024-10-20,EPL,Liverpool,Chelsea,H,H
+2024-10-20,SerieA,Empoli,Napoli,A,A
+2024-10-20,SerieA,Cagliari,Torino,H,A
+2024-10-20,EPL,Wolves,Man City,A,A
+2024-10-20,SerieA,Venezia,Atalanta,A,A
+2024-10-20,LaLiga,Ath Madrid,Leganes,H,H
+2024-10-20,LaLiga,Barcelona,Sevilla,H,H
+2024-10-20,SerieA,Lecce,Fiorentina,A,A
+2024-10-20,Bundes,Wolfsburg,Werder Bremen,A,A
+2024-10-21,EPL,Nott'm Forest,Crystal Palace,H,A
+2024-10-21,SerieA,Verona,Monza,A,A
+2024-10-21,LaLiga,Valencia,Las Palmas,A,A
+2024-10-25,SerieA,Udinese,Cagliari,H,A
+2024-10-25,SerieA,Torino,Como,H,A
+2024-10-25,LaLiga,Espanol,Sevilla,A,A
+2024-10-25,EPL,Leicester,Nott'm Forest,A,A
+2024-10-26,LaLiga,Las Palmas,Girona,H,A
+2024-10-26,SerieA,Napoli,Lecce,H,H
+2024-10-26,EPL,Man City,Southampton,H,H
+2024-10-26,LaLiga,Vallecano,Alaves,H,H
+2024-10-26,LaLiga,Real Madrid,Barcelona,A,A
+2024-10-26,LaLiga,Valladolid,Villarreal,A,A
+2024-10-26,SerieA,Atalanta,Verona,H,H
+2024-10-26,Bundes,Augsburg,Dortmund,H,A
+2024-10-26,Bundes,RB Leipzig,Freiburg,H,H
+2024-10-27,SerieA,Lazio,Genoa,H,H
+2024-10-27,SerieA,Fiorentina,Roma,H,H
+2024-10-27,EPL,West Ham,Man United,H,A
+2024-10-27,EPL,Crystal Palace,Tottenham,H,A
+2024-10-27,EPL,Chelsea,Newcastle,H,H
+2024-10-27,LaLiga,Leganes,Celta,H,A
+2024-10-27,LaLiga,Betis,Ath Madrid,H,A
+2024-10-27,Bundes,Bochum,Bayern Munich,A,A
+2024-10-27,LaLiga,Sociedad,Osasuna,A,H
+2024-10-29,SerieA,Lecce,Verona,H,A
+2024-10-29,SerieA,Milan,Napoli,A,H
+2024-10-29,SerieA,Cagliari,Bologna,A,A
+2024-10-30,SerieA,Atalanta,Monza,H,H
+2024-10-30,SerieA,Venezia,Udinese,H,A
+2024-10-30,SerieA,Empoli,Inter,A,A
+2024-10-31,SerieA,Genoa,Fiorentina,A,A
+2024-10-31,SerieA,Roma,Torino,H,H
+2024-11-01,LaLiga,Alaves,Mallorca,H,A
+2024-11-02,Bundes,Hoffenheim,St Pauli,A,H
+2024-11-02,SerieA,Bologna,Lecce,H,A
+2024-11-02,SerieA,Udinese,Juventus,A,A
+2024-11-02,SerieA,Monza,Milan,A,A
+2024-11-02,EPL,Southampton,Everton,H,A
+2024-11-02,EPL,Nott'm Forest,West Ham,H,A
+2024-11-02,Bundes,Ein Frankfurt,Bochum,H,H
+2024-11-02,EPL,Bournemouth,Man City,H,A
+2024-11-02,LaLiga,Girona,Leganes,H,H
+2024-11-02,LaLiga,Osasuna,Valladolid,H,H
+2024-11-02,Bundes,Bayern Munich,Union Berlin,H,H
+2024-11-02,Bundes,Dortmund,RB Leipzig,H,A
+2024-11-02,EPL,Liverpool,Brighton,H,H
+2024-11-02,EPL,Newcastle,Arsenal,H,A
+2024-11-03,SerieA,Inter,Venezia,H,H
+2024-11-03,LaLiga,Barcelona,Espanol,H,H
+2024-11-03,SerieA,Napoli,Atalanta,A,H
+2024-11-03,SerieA,Verona,Roma,H,A
+2024-11-03,LaLiga,Ath Madrid,Las Palmas,H,H
+2024-11-03,SerieA,Torino,Fiorentina,A,A
+2024-11-03,EPL,Tottenham,Aston Villa,H,H
+2024-11-03,Bundes,M'gladbach,Werder Bremen,H,A
+2024-11-03,LaLiga,Sevilla,Sociedad,A,A
+2024-11-04,SerieA,Lazio,Cagliari,H,H
+2024-11-04,SerieA,Parma,Genoa,A,H
+2024-11-04,SerieA,Empoli,Como,H,A
+2024-11-04,EPL,Fulham,Brentford,H,A
+2024-11-04,LaLiga,Celta,Getafe,H,H
+2024-11-08,LaLiga,Vallecano,Las Palmas,A,H
+2024-11-09,LaLiga,Leganes,Sevilla,H,A
+2024-11-09,LaLiga,Real Madrid,Osasuna,H,H
+2024-11-09,Bundes,St Pauli,Bayern Munich,A,A
+2024-11-09,Bundes,Mainz,Dortmund,H,A
+2024-11-09,SerieA,Juventus,Torino,H,H
+2024-11-09,LaLiga,Villarreal,Alaves,H,H
+2024-11-09,SerieA,Venezia,Parma,A,H
+2024-11-09,EPL,Liverpool,Aston Villa,H,H
+2024-11-09,EPL,Brighton,Man City,H,A
+2024-11-09,EPL,Wolves,Southampton,H,H
+2024-11-09,EPL,Crystal Palace,Fulham,A,H
+2024-11-09,EPL,Brentford,Bournemouth,H,H
+2024-11-10,SerieA,Monza,Lazio,A,A
+2024-11-10,Bundes,Heidenheim,Wolfsburg,A,A
+2024-11-10,Bundes,Stuttgart,Ein Frankfurt,A,H
+2024-11-10,LaLiga,Getafe,Girona,A,A
+2024-11-10,LaLiga,Mallorca,Ath Madrid,A,A
+2024-11-10,SerieA,Fiorentina,Verona,H,H
+2024-11-10,SerieA,Roma,Bologna,A,A
+2024-11-10,EPL,Man United,Leicester,H,A
+2024-11-10,EPL,Nott'm Forest,Newcastle,A,A
+2024-11-10,EPL,Tottenham,Ipswich,A,H
+2024-11-10,LaLiga,Sociedad,Barcelona,H,A
+2024-11-10,SerieA,Atalanta,Udinese,H,H
+2024-11-22,LaLiga,Getafe,Valladolid,H,H
+2024-11-22,Bundes,Bayern Munich,Augsburg,H,H
+2024-11-23,Bundes,Wolfsburg,Union Berlin,H,A
+2024-11-23,EPL,Man City,Tottenham,A,H
+2024-11-23,EPL,Fulham,Wolves,A,H
+2024-11-23,Bundes,Leverkusen,Heidenheim,H,H
+2024-11-23,Bundes,Dortmund,Freiburg,H,H
+2024-11-23,Bundes,Hoffenheim,RB Leipzig,H,A
+2024-11-23,LaLiga,Valencia,Betis,H,A
+2024-11-23,Bundes,Stuttgart,Bochum,H,H
+2024-11-23,Bundes,Ein Frankfurt,Werder Bremen,H,A
+2024-11-23,EPL,Leicester,Chelsea,A,A
+2024-11-23,EPL,Arsenal,Nott'm Forest,H,H
+2024-11-23,EPL,Bournemouth,Brighton,A,A
+2024-11-23,SerieA,Verona,Inter,A,A
+2024-11-23,LaLiga,Girona,Espanol,H,H
+2024-11-23,LaLiga,Las Palmas,Mallorca,A,A
+2024-11-23,SerieA,Parma,Atalanta,A,A
+2024-11-23,LaLiga,Ath Madrid,Alaves,H,H
+2024-11-24,Bundes,Holstein Kiel,Mainz,A,A
+2024-11-24,Bundes,M'gladbach,St Pauli,H,H
+2024-11-24,EPL,Southampton,Liverpool,A,A
+2024-11-24,SerieA,Lazio,Bologna,H,A
+2024-11-24,LaLiga,Leganes,Real Madrid,A,A
+2024-11-24,LaLiga,Sevilla,Vallecano,H,H
+2024-11-24,SerieA,Napoli,Roma,H,H
+2024-11-24,LaLiga,Ath Bilbao,Sociedad,H,H
+2024-11-25,SerieA,Venezia,Lecce,A,A
+2024-11-25,EPL,Newcastle,West Ham,A,H
+2024-11-29,SerieA,Cagliari,Verona,H,A
+2024-11-29,LaLiga,Mallorca,Valencia,H,H
+2024-11-29,Bundes,St Pauli,Holstein Kiel,H,A
+2024-11-30,Bundes,RB Leipzig,Wolfsburg,A,H
+2024-11-30,LaLiga,Espanol,Celta,H,A
+2024-11-30,LaLiga,Valladolid,Ath Madrid,A,A
+2024-11-30,Bundes,Freiburg,M'gladbach,H,A
+2024-11-30,SerieA,Bologna,Venezia,H,H
+2024-11-30,Bundes,Union Berlin,Leverkusen,A,A
+2024-11-30,SerieA,Milan,Empoli,H,H
+2024-11-30,LaLiga,Barcelona,Las Palmas,A,H
+2024-11-30,EPL,Brentford,Leicester,H,H
+2024-11-30,Bundes,Augsburg,Bochum,H,H
+2024-11-30,EPL,Wolves,Bournemouth,A,H
+2024-11-30,EPL,Nott'm Forest,Ipswich,H,H
+2024-11-30,EPL,West Ham,Arsenal,A,A
+2024-12-01,SerieA,Udinese,Genoa,A,A
+2024-12-01,LaLiga,Sociedad,Betis,H,H
+2024-12-01,SerieA,Parma,Lazio,H,A
+2024-12-01,LaLiga,Vallecano,Ath Bilbao,A,A
+2024-12-01,LaLiga,Real Madrid,Getafe,H,H
+2024-12-01,SerieA,Torino,Napoli,A,A
+2024-12-01,EPL,Chelsea,Aston Villa,H,H
+2024-12-01,EPL,Man United,Everton,H,H
+2024-12-01,Bundes,Mainz,Hoffenheim,H,H
+2024-12-01,Bundes,Heidenheim,Ein Frankfurt,A,A
+2024-12-01,EPL,Liverpool,Man City,H,A
+2024-12-02,SerieA,Roma,Atalanta,A,A
+2024-12-03,EPL,Ipswich,Crystal Palace,A,A
+2024-12-03,EPL,Leicester,West Ham,H,A
+2024-12-03,LaLiga,Mallorca,Barcelona,A,A
+2024-12-04,LaLiga,Ath Bilbao,Real Madrid,H,A
+2024-12-04,EPL,Aston Villa,Brentford,H,H
+2024-12-04,EPL,Arsenal,Man United,H,H
+2024-12-04,EPL,Southampton,Chelsea,A,A
+2024-12-04,EPL,Man City,Nott'm Forest,H,H
+2024-12-04,EPL,Everton,Wolves,H,H
+2024-12-05,EPL,Bournemouth,Tottenham,H,A
+2024-12-05,EPL,Fulham,Brighton,H,H
+2024-12-06,SerieA,Atalanta,Milan,H,A
+2024-12-06,Bundes,Stuttgart,Union Berlin,H,H
+2024-12-06,SerieA,Inter,Parma,H,H
+2024-12-06,LaLiga,Celta,Mallorca,H,A
+2024-12-07,SerieA,Roma,Lecce,H,A
+2024-12-07,Bundes,Leverkusen,St Pauli,H,H
+2024-12-07,LaLiga,Las Palmas,Valladolid,H,H
+2024-12-07,Bundes,Holstein Kiel,RB Leipzig,A,A
+2024-12-07,LaLiga,Girona,Real Madrid,A,A
+2024-12-07,EPL,Man United,Nott'm Forest,A,A
+2024-12-07,LaLiga,Valencia,Vallecano,A,A
+2024-12-07,EPL,Brentford,Newcastle,H,H
+2024-12-07,EPL,Aston Villa,Southampton,H,H
+2024-12-07,Bundes,Bochum,Werder Bremen,A,A
+2024-12-07,Bundes,Bayern Munich,Heidenheim,H,H
+2024-12-08,LaLiga,Leganes,Sociedad,A,A
+2024-12-08,SerieA,Napoli,Lazio,A,A
+2024-12-08,LaLiga,Ath Bilbao,Villarreal,H,A
+2024-12-08,SerieA,Fiorentina,Cagliari,H,H
+2024-12-08,Bundes,Wolfsburg,Mainz,H,H
+2024-12-08,SerieA,Verona,Empoli,A,A
+2024-12-08,LaLiga,Ath Madrid,Sevilla,H,H
+2024-12-08,EPL,Tottenham,Chelsea,A,A
+2024-12-08,EPL,Ipswich,Bournemouth,A,A
+2024-12-09,EPL,West Ham,Wolves,H,H
+2024-12-09,SerieA,Monza,Udinese,A,A
+2024-12-09,LaLiga,Getafe,Espanol,H,H
+2024-12-13,SerieA,Empoli,Torino,A,A
+2024-12-13,Bundes,Freiburg,Wolfsburg,H,A
+2024-12-13,LaLiga,Valladolid,Valencia,H,A
+2024-12-14,SerieA,Cagliari,Atalanta,A,A
+2024-12-14,Bundes,Mainz,Bayern Munich,H,A
+2024-12-14,SerieA,Udinese,Napoli,A,A
+2024-12-14,Bundes,M'gladbach,Holstein Kiel,H,H
+2024-12-14,Bundes,Union Berlin,Bochum,A,A
+2024-12-14,Bundes,St Pauli,Werder Bremen,A,A
+2024-12-14,EPL,Nott'm Forest,Aston Villa,H,A
+2024-12-14,EPL,Newcastle,Leicester,H,H
+2024-12-14,Bundes,Augsburg,Leverkusen,A,A
+2024-12-14,LaLiga,Sevilla,Celta,H,H
+2024-12-14,LaLiga,Mallorca,Girona,H,A
+2024-12-14,EPL,Wolves,Ipswich,A,H
+2024-12-15,LaLiga,Villarreal,Betis,A,H
+2024-12-15,EPL,Brighton,Crystal Palace,A,A
+2024-12-15,EPL,Man City,Man United,A,H
+2024-12-15,EPL,Chelsea,Brentford,H,H
+2024-12-15,EPL,Southampton,Tottenham,A,A
+2024-12-15,SerieA,Como,Roma,H,H
+2024-12-15,Bundes,RB Leipzig,Ein Frankfurt,H,A
+2024-12-15,SerieA,Bologna,Fiorentina,H,A
+2024-12-15,Bundes,Heidenheim,Stuttgart,A,A
+2024-12-15,SerieA,Parma,Verona,A,A
+2024-12-15,LaLiga,Ath Madrid,Getafe,H,H
+2024-12-15,LaLiga,Barcelona,Leganes,A,H
+2024-12-15,SerieA,Lecce,Monza,H,A
+2024-12-16,SerieA,Lazio,Inter,A,A
+2024-12-20,SerieA,Verona,Milan,A,A
+2024-12-20,LaLiga,Girona,Valladolid,H,H
+2024-12-20,Bundes,Bayern Munich,RB Leipzig,H,H
+2024-12-21,Bundes,Leverkusen,Freiburg,H,H
+2024-12-21,SerieA,Torino,Bologna,A,A
+2024-12-21,SerieA,Genoa,Napoli,A,A
+2024-12-21,SerieA,Lecce,Lazio,A,A
+2024-12-21,LaLiga,Osasuna,Ath Bilbao,A,H
+2024-12-21,LaLiga,Barcelona,Ath Madrid,A,H
+2024-12-21,LaLiga,Celta,Sociedad,H,A
+2024-12-21,EPL,Crystal Palace,Arsenal,A,A
+2024-12-21,Bundes,Werder Bremen,Union Berlin,H,H
+2024-12-21,Bundes,Hoffenheim,M'gladbach,A,A
+2024-12-21,Bundes,Holstein Kiel,Augsburg,H,H
+2024-12-21,LaLiga,Getafe,Mallorca,A,A
+2024-12-21,Bundes,Ein Frankfurt,Mainz,A,A
+2024-12-21,EPL,Aston Villa,Man City,H,A
+2024-12-21,EPL,Brentford,Nott'm Forest,A,H
+2024-12-21,EPL,Ipswich,Newcastle,A,A
+2024-12-21,Bundes,Stuttgart,St Pauli,A,H
+2024-12-22,LaLiga,Leganes,Villarreal,A,A
+2024-12-22,LaLiga,Las Palmas,Espanol,H,H
+2024-12-22,EPL,Tottenham,Liverpool,A,A
+2024-12-22,Bundes,Wolfsburg,Dortmund,A,A
+2024-12-22,Bundes,Bochum,Heidenheim,H,A
+2024-12-22,LaLiga,Real Madrid,Sevilla,H,H
+2024-12-22,SerieA,Roma,Parma,H,H
+2024-12-22,SerieA,Venezia,Cagliari,H,H
+2024-12-22,SerieA,Atalanta,Empoli,H,H
+2024-12-22,SerieA,Monza,Juventus,A,A
+2024-12-22,EPL,Leicester,Wolves,A,H
+2024-12-22,EPL,Man United,Bournemouth,A,H
+2024-12-23,SerieA,Inter,Como,H,H
+2024-12-23,SerieA,Fiorentina,Udinese,A,H
+2024-12-26,EPL,Wolves,Man United,H,A
+2024-12-26,EPL,Liverpool,Leicester,H,H
+2024-12-26,EPL,Newcastle,Aston Villa,H,H
+2024-12-26,EPL,Southampton,West Ham,A,A
+2024-12-26,EPL,Nott'm Forest,Tottenham,H,A
+2024-12-26,EPL,Chelsea,Fulham,A,H
+2024-12-27,EPL,Arsenal,Ipswich,H,H
+2024-12-28,SerieA,Empoli,Genoa,A,A
+2024-12-28,SerieA,Parma,Monza,H,A
+2024-12-28,SerieA,Cagliari,Inter,A,A
+2024-12-29,EPL,Crystal Palace,Southampton,H,H
+2024-12-29,SerieA,Napoli,Venezia,H,H
+2024-12-29,EPL,West Ham,Liverpool,A,A
+2024-12-29,EPL,Leicester,Man City,A,A
+2024-12-29,EPL,Everton,Nott'm Forest,A,H
+2024-12-30,EPL,Man United,Newcastle,A,A
+2024-12-30,EPL,Ipswich,Chelsea,H,A
+2024-12-30,SerieA,Como,Lecce,H,H
+2024-12-30,SerieA,Bologna,Verona,A,H
+2025-01-01,EPL,Brentford,Arsenal,A,H
+2025-01-03,LaLiga,Valencia,Real Madrid,A,A
+2025-01-04,EPL,Tottenham,Newcastle,A,A
+2025-01-04,EPL,Aston Villa,Leicester,H,H
+2025-01-04,EPL,Man City,West Ham,H,H
+2025-01-04,SerieA,Fiorentina,Napoli,A,A
+2025-01-04,EPL,Bournemouth,Everton,H,H
+2025-01-04,EPL,Southampton,Brentford,A,A
+2025-01-05,SerieA,Roma,Lazio,H,A
+2025-01-05,SerieA,Monza,Cagliari,A,A
+2025-01-06,EPL,Wolves,Nott'm Forest,A,A
+2025-01-10,LaLiga,Vallecano,Celta,H,H
+2025-01-10,Bundes,Dortmund,Leverkusen,A,H
+2025-01-11,Bundes,Mainz,Bochum,H,H
+2025-01-11,LaLiga,Valladolid,Betis,H,A
+2025-01-11,Bundes,Hoffenheim,Wolfsburg,A,H
+2025-01-11,LaLiga,Alaves,Girona,A,A
+2025-01-11,Bundes,Heidenheim,Union Berlin,H,A
+2025-01-11,SerieA,Empoli,Lecce,A,H
+2025-01-11,Bundes,St Pauli,Ein Frankfurt,A,A
+2025-01-11,Bundes,Freiburg,Holstein Kiel,H,H
+2025-01-11,Bundes,M'gladbach,Bayern Munich,A,A
+2025-01-12,Bundes,RB Leipzig,Werder Bremen,H,H
+2025-01-12,Bundes,Augsburg,Stuttgart,A,A
+2025-01-12,LaLiga,Ath Madrid,Osasuna,H,H
+2025-01-12,LaLiga,Las Palmas,Getafe,A,H
+2025-01-12,SerieA,Genoa,Parma,H,H
+2025-01-12,SerieA,Venezia,Inter,A,A
+2025-01-12,SerieA,Napoli,Verona,H,H
+2025-01-13,SerieA,Monza,Fiorentina,H,A
+2025-01-13,LaLiga,Sociedad,Villarreal,H,A
+2025-01-14,Bundes,Wolfsburg,M'gladbach,H,H
+2025-01-14,Bundes,Leverkusen,Mainz,H,H
+2025-01-14,Bundes,Ein Frankfurt,Freiburg,H,H
+2025-01-14,Bundes,Holstein Kiel,Dortmund,H,A
+2025-01-14,EPL,West Ham,Fulham,H,A
+2025-01-14,SerieA,Como,Milan,A,A
+2025-01-15,Bundes,Stuttgart,RB Leipzig,H,H
+2025-01-15,Bundes,Bayern Munich,Hoffenheim,H,H
+2025-01-15,Bundes,Bochum,St Pauli,H,A
+2025-01-15,EPL,Leicester,Crystal Palace,A,A
+2025-01-15,EPL,Newcastle,Wolves,H,H
+2025-01-15,EPL,Arsenal,Tottenham,H,H
+2025-01-15,Bundes,Union Berlin,Augsburg,A,H
+2025-01-15,EPL,Everton,Aston Villa,A,A
+2025-01-16,EPL,Man United,Southampton,H,H
+2025-01-16,EPL,Ipswich,Brighton,A,A
+2025-01-17,SerieA,Roma,Genoa,H,H
+2025-01-17,Bundes,Ein Frankfurt,Dortmund,H,H
+2025-01-17,LaLiga,Espanol,Valladolid,H,H
+2025-01-18,Bundes,Heidenheim,St Pauli,A,H
+2025-01-18,SerieA,Bologna,Monza,H,H
+2025-01-18,Bundes,Holstein Kiel,Hoffenheim,A,A
+2025-01-18,Bundes,Leverkusen,M'gladbach,H,H
+2025-01-18,SerieA,Juventus,Milan,H,A
+2025-01-18,Bundes,Stuttgart,Freiburg,H,H
+2025-01-18,SerieA,Atalanta,Napoli,A,A
+2025-01-18,Bundes,Bayern Munich,Wolfsburg,H,H
+2025-01-18,LaLiga,Leganes,Ath Madrid,H,A
+2025-01-18,EPL,West Ham,Crystal Palace,A,A
+2025-01-18,EPL,Leicester,Fulham,A,A
+2025-01-18,EPL,Brentford,Liverpool,A,A
+2025-01-18,EPL,Newcastle,Bournemouth,A,H
+2025-01-18,LaLiga,Girona,Sevilla,A,H
+2025-01-18,LaLiga,Betis,Alaves,A,H
+2025-01-19,LaLiga,Real Madrid,Las Palmas,H,H
+2025-01-19,SerieA,Cagliari,Lecce,H,H
+2025-01-19,SerieA,Inter,Empoli,H,H
+2025-01-19,SerieA,Verona,Lazio,A,A
+2025-01-19,EPL,Nott'm Forest,Southampton,H,H
+2025-01-19,LaLiga,Valencia,Sociedad,H,A
+2025-01-19,Bundes,Werder Bremen,Augsburg,A,H
+2025-01-19,Bundes,Union Berlin,Mainz,H,A
+2025-01-19,EPL,Everton,Tottenham,H,A
+2025-01-19,EPL,Man United,Brighton,A,A
+2025-01-19,EPL,Ipswich,Man City,A,A
+2025-01-19,LaLiga,Celta,Ath Bilbao,A,A
+2025-01-20,EPL,Chelsea,Wolves,H,H
+2025-01-20,SerieA,Como,Udinese,H,A
+2025-01-20,LaLiga,Villarreal,Mallorca,H,H
+2025-01-24,SerieA,Torino,Cagliari,H,A
+2025-01-25,EPL,Wolves,Arsenal,A,A
+2025-01-25,EPL,Southampton,Newcastle,A,A
+2025-01-25,LaLiga,Valladolid,Real Madrid,A,A
+2025-01-25,EPL,Man City,Chelsea,H,A
+2025-01-25,SerieA,Napoli,Juventus,H,A
+2025-01-25,SerieA,Como,Atalanta,A,H
+2025-01-25,Bundes,M'gladbach,Bochum,H,H
+2025-01-25,EPL,Bournemouth,Nott'm Forest,H,H
+2025-01-25,EPL,Brighton,Everton,A,H
+2025-01-25,EPL,Liverpool,Ipswich,H,H
+2025-01-25,LaLiga,Mallorca,Betis,A,A
+2025-01-25,Bundes,Augsburg,Heidenheim,H,A
+2025-01-25,Bundes,Freiburg,Bayern Munich,A,A
+2025-01-25,Bundes,Mainz,Stuttgart,H,A
+2025-01-26,Bundes,St Pauli,Union Berlin,H,A
+2025-01-26,LaLiga,Sociedad,Getafe,A,H
+2025-01-26,LaLiga,Vallecano,Girona,H,A
+2025-01-26,SerieA,Lecce,Inter,A,A
+2025-01-26,EPL,Tottenham,Leicester,A,H
+2025-01-26,SerieA,Udinese,Roma,A,H
+2025-01-26,SerieA,Lazio,Fiorentina,A,H
+2025-01-26,LaLiga,Barcelona,Valencia,H,H
+2025-01-26,EPL,Crystal Palace,Brentford,A,H
+2025-01-26,SerieA,Milan,Parma,H,H
+2025-01-26,EPL,Fulham,Man United,A,A
+2025-01-27,SerieA,Genoa,Monza,H,A
+2025-01-31,Bundes,Werder Bremen,Mainz,H,A
+2025-01-31,SerieA,Parma,Lecce,A,H
+2025-01-31,LaLiga,Leganes,Vallecano,A,A
+2025-02-01,SerieA,Udinese,Venezia,H,H
+2025-02-01,EPL,Ipswich,Southampton,A,H
+2025-02-01,EPL,Everton,Leicester,H,H
+2025-02-01,EPL,Bournemouth,Liverpool,A,A
+2025-02-01,EPL,Nott'm Forest,Brighton,H,A
+2025-02-01,SerieA,Bologna,Como,H,H
+2025-02-01,SerieA,Monza,Verona,A,H
+2025-02-01,LaLiga,Villarreal,Valladolid,H,H
+2025-02-01,Bundes,Stuttgart,M'gladbach,A,H
+2025-02-01,EPL,Newcastle,Fulham,A,H
+2025-02-01,LaLiga,Espanol,Real Madrid,H,A
+2025-02-01,Bundes,Bayern Munich,Holstein Kiel,H,H
+2025-02-01,Bundes,Bochum,Freiburg,A,A
+2025-02-01,Bundes,Heidenheim,Dortmund,A,A
+2025-02-01,LaLiga,Ath Madrid,Mallorca,H,H
+2025-02-01,EPL,Wolves,Aston Villa,H,H
+2025-02-02,SerieA,Fiorentina,Genoa,H,H
+2025-02-02,SerieA,Juventus,Empoli,H,H
+2025-02-02,LaLiga,Barcelona,Alaves,H,H
+2025-02-02,EPL,Man United,Crystal Palace,A,A
+2025-02-02,LaLiga,Osasuna,Sociedad,H,A
+2025-02-02,Bundes,Leverkusen,Hoffenheim,H,H
+2025-02-02,EPL,Arsenal,Man City,H,A
+2025-02-02,EPL,Brentford,Tottenham,A,A
+2025-02-02,LaLiga,Valencia,Celta,H,H
+2025-02-03,EPL,Chelsea,West Ham,H,H
+2025-02-03,SerieA,Cagliari,Lazio,A,A
+2025-02-03,LaLiga,Girona,Las Palmas,H,H
+2025-02-06,SerieA,Fiorentina,Inter,H,A
+2025-02-07,Bundes,Bayern Munich,Werder Bremen,H,H
+2025-02-07,SerieA,Como,Juventus,A,A
+2025-02-07,LaLiga,Vallecano,Valladolid,H,H
+2025-02-08,Bundes,Dortmund,Stuttgart,A,A
+2025-02-08,SerieA,Verona,Atalanta,A,A
+2025-02-08,SerieA,Empoli,Milan,A,A
+2025-02-08,LaLiga,Las Palmas,Villarreal,A,A
+2025-02-08,LaLiga,Ath Bilbao,Girona,H,A
+2025-02-08,Bundes,Hoffenheim,Union Berlin,A,A
+2025-02-08,LaLiga,Celta,Betis,H,H
+2025-02-08,Bundes,Freiburg,Heidenheim,H,H
+2025-02-09,SerieA,Lazio,Monza,H,H
+2025-02-09,SerieA,Venezia,Roma,A,A
+2025-02-09,SerieA,Cagliari,Parma,H,H
+2025-02-09,LaLiga,Alaves,Getafe,A,A
+2025-02-09,Bundes,RB Leipzig,St Pauli,H,H
+2025-02-09,LaLiga,Sevilla,Barcelona,A,A
+2025-02-09,LaLiga,Sociedad,Espanol,H,H
+2025-02-09,LaLiga,Valencia,Leganes,H,A
+2025-02-10,SerieA,Inter,Fiorentina,H,H
+2025-02-14,LaLiga,Girona,Getafe,A,H
+2025-02-14,SerieA,Bologna,Torino,H,H
+2025-02-14,EPL,Brighton,Chelsea,H,A
+2025-02-15,EPL,Crystal Palace,Everton,A,H
+2025-02-15,EPL,Man City,Newcastle,H,H
+2025-02-15,EPL,Southampton,Bournemouth,A,A
+2025-02-15,EPL,West Ham,Brentford,A,A
+2025-02-15,Bundes,Stuttgart,Wolfsburg,A,H
+2025-02-15,Bundes,St Pauli,Freiburg,A,H
+2025-02-15,Bundes,Union Berlin,M'gladbach,A,H
+2025-02-15,EPL,Fulham,Nott'm Forest,H,H
+2025-02-15,EPL,Leicester,Arsenal,A,A
+2025-02-15,Bundes,Bochum,Dortmund,H,H
+2025-02-15,SerieA,Milan,Verona,H,H
+2025-02-16,LaLiga,Mallorca,Las Palmas,H,H
+2025-02-16,LaLiga,Valladolid,Sevilla,A,A
+2025-02-16,EPL,Tottenham,Man United,H,A
+2025-02-16,EPL,Liverpool,Wolves,H,H
+2025-02-16,LaLiga,Betis,Sociedad,H,H
+2025-02-16,Bundes,Werder Bremen,Hoffenheim,A,H
+2025-02-16,Bundes,Heidenheim,Mainz,A,A
+2025-02-16,SerieA,Parma,Roma,A,H
+2025-02-16,SerieA,Udinese,Empoli,H,A
+2025-02-16,SerieA,Fiorentina,Como,A,H
+2025-02-16,Bundes,Ein Frankfurt,Holstein Kiel,H,H
+2025-02-16,SerieA,Juventus,Inter,H,A
+2025-02-17,LaLiga,Barcelona,Vallecano,H,H
+2025-02-17,SerieA,Genoa,Venezia,H,H
+2025-02-21,Bundes,Freiburg,Werder Bremen,H,H
+2025-02-21,SerieA,Lecce,Udinese,A,A
+2025-02-21,LaLiga,Celta,Osasuna,H,A
+2025-02-21,EPL,Leicester,Brentford,A,A
+2025-02-22,EPL,Ipswich,Tottenham,A,A
+2025-02-22,LaLiga,Vallecano,Villarreal,A,A
+2025-02-22,SerieA,Torino,Milan,H,A
+2025-02-22,LaLiga,Valencia,Ath Madrid,A,A
+2025-02-22,LaLiga,Alaves,Espanol,A,H
+2025-02-22,EPL,Southampton,Brighton,A,A
+2025-02-22,LaLiga,Las Palmas,Barcelona,A,A
+2025-02-22,EPL,Arsenal,West Ham,A,H
+2025-02-22,EPL,Bournemouth,Wolves,A,H
+2025-02-22,SerieA,Parma,Bologna,H,A
+2025-02-22,EPL,Aston Villa,Chelsea,H,H
+2025-02-22,SerieA,Inter,Genoa,H,H
+2025-02-22,Bundes,Dortmund,Union Berlin,H,H
+2025-02-22,Bundes,Holstein Kiel,Leverkusen,A,A
+2025-02-22,Bundes,Mainz,St Pauli,H,H
+2025-02-22,Bundes,M'gladbach,Augsburg,A,A
+2025-02-22,EPL,Fulham,Crystal Palace,A,H
+2025-02-23,SerieA,Empoli,Atalanta,A,A
+2025-02-23,SerieA,Verona,Fiorentina,H,A
+2025-02-23,LaLiga,Ath Bilbao,Valladolid,H,H
+2025-02-23,EPL,Man City,Liverpool,A,A
+2025-02-23,SerieA,Como,Napoli,H,A
+2025-02-23,EPL,Newcastle,Nott'm Forest,H,H
+2025-02-23,SerieA,Cagliari,Juventus,A,A
+2025-02-23,LaLiga,Getafe,Betis,A,A
+2025-02-23,Bundes,Bayern Munich,Ein Frankfurt,H,H
+2025-02-23,LaLiga,Real Madrid,Girona,H,H
+2025-02-23,LaLiga,Sociedad,Leganes,H,H
+2025-02-24,SerieA,Roma,Monza,H,H
+2025-02-25,EPL,Brighton,Bournemouth,H,A
+2025-02-25,EPL,Crystal Palace,Aston Villa,H,H
+2025-02-25,EPL,Wolves,Fulham,A,A
+2025-02-25,EPL,Chelsea,Southampton,H,H
+2025-02-26,EPL,Tottenham,Man City,A,A
+2025-02-26,EPL,Man United,Ipswich,H,H
+2025-02-26,EPL,Liverpool,Newcastle,H,H
+2025-02-27,EPL,West Ham,Leicester,H,A
+2025-02-27,SerieA,Bologna,Milan,H,A
+2025-02-28,Bundes,Stuttgart,Bayern Munich,A,A
+2025-02-28,SerieA,Fiorentina,Lecce,H,H
+2025-03-01,Bundes,Bochum,Hoffenheim,A,A
+2025-03-01,LaLiga,Ath Madrid,Ath Bilbao,H,H
+2025-03-01,LaLiga,Betis,Real Madrid,H,A
+2025-03-01,Bundes,RB Leipzig,Mainz,A,H
+2025-03-01,Bundes,St Pauli,Dortmund,A,H
+2025-03-01,Bundes,Werder Bremen,Wolfsburg,A,A
+2025-03-01,Bundes,Ein Frankfurt,Leverkusen,A,A
+2025-03-01,Bundes,Heidenheim,M'gladbach,A,A
+2025-03-01,SerieA,Udinese,Parma,H,H
+2025-03-02,Bundes,Union Berlin,Holstein Kiel,A,H
+2025-03-02,LaLiga,Leganes,Getafe,H,A
+2025-03-02,SerieA,Bologna,Cagliari,H,H
+2025-03-02,LaLiga,Barcelona,Sociedad,H,H
+2025-03-02,SerieA,Roma,Como,H,H
+2025-03-02,SerieA,Milan,Lazio,A,A
+2025-03-02,SerieA,Monza,Torino,A,A
+2025-03-03,SerieA,Juventus,Verona,H,H
+2025-03-07,Bundes,M'gladbach,Mainz,A,A
+2025-03-08,LaLiga,Valencia,Valladolid,H,H
+2025-03-08,EPL,Brentford,Aston Villa,A,A
+2025-03-08,EPL,Brighton,Fulham,H,A
+2025-03-08,EPL,Nott'm Forest,Man City,H,A
+2025-03-08,EPL,Crystal Palace,Ipswich,H,H
+2025-03-08,EPL,Liverpool,Southampton,H,H
+2025-03-08,Bundes,Bayern Munich,Bochum,A,H
+2025-03-08,SerieA,Lecce,Milan,A,A
+2025-03-08,LaLiga,Celta,Leganes,H,H
+2025-03-08,Bundes,Leverkusen,Werder Bremen,A,H
+2025-03-08,Bundes,Dortmund,Augsburg,A,H
+2025-03-08,LaLiga,Alaves,Villarreal,H,A
+2025-03-08,SerieA,Inter,Monza,H,H
+2025-03-09,SerieA,Juventus,Atalanta,A,A
+2025-03-09,SerieA,Empoli,Roma,A,A
+2025-03-09,LaLiga,Betis,Las Palmas,H,H
+2025-03-09,Bundes,Ein Frankfurt,Union Berlin,A,H
+2025-03-09,SerieA,Napoli,Fiorentina,H,A
+2025-03-09,LaLiga,Real Madrid,Vallecano,H,H
+2025-03-09,LaLiga,Getafe,Ath Madrid,H,A
+2025-03-09,LaLiga,Sociedad,Sevilla,A,H
+2025-03-09,SerieA,Verona,Bologna,A,A
+2025-03-09,EPL,Chelsea,Leicester,H,H
+2025-03-10,EPL,West Ham,Newcastle,A,A
+2025-03-14,Bundes,St Pauli,Hoffenheim,H,A
+2025-03-14,SerieA,Genoa,Lecce,H,H
+2025-03-15,Bundes,Werder Bremen,M'gladbach,A,A
+2025-03-15,SerieA,Milan,Como,H,H
+2025-03-15,SerieA,Torino,Empoli,H,H
+2025-03-15,EPL,Southampton,Wolves,A,A
+2025-03-15,EPL,Bournemouth,Brentford,A,A
+2025-03-15,Bundes,RB Leipzig,Dortmund,H,H
+2025-03-15,SerieA,Udinese,Verona,A,A
+2025-03-15,EPL,Ipswich,Nott'm Forest,A,A
+2025-03-15,LaLiga,Villarreal,Real Madrid,A,A
+2025-03-15,LaLiga,Mallorca,Espanol,H,H
+2025-03-15,LaLiga,Valladolid,Celta,A,A
+2025-03-15,Bundes,Augsburg,Wolfsburg,H,H
+2025-03-16,SerieA,Fiorentina,Juventus,H,A
+2025-03-16,SerieA,Bologna,Lazio,H,A
+2025-03-16,LaLiga,Ath Madrid,Barcelona,A,A
+2025-03-16,SerieA,Roma,Cagliari,H,H
+2025-03-16,SerieA,Atalanta,Inter,A,A
+2025-03-16,EPL,Arsenal,Chelsea,H,H
+2025-03-16,LaLiga,Osasuna,Getafe,A,A
+2025-03-16,EPL,Leicester,Man United,A,A
+2025-03-16,LaLiga,Leganes,Betis,A,A
+2025-03-16,LaLiga,Sevilla,Ath Bilbao,A,A
+2025-03-16,Bundes,Bochum,Ein Frankfurt,A,H
+2025-03-16,Bundes,Heidenheim,Holstein Kiel,H,A
+2025-03-16,Bundes,Stuttgart,Leverkusen,A,A
+2025-03-16,EPL,Fulham,Tottenham,H,A
+2025-03-27,LaLiga,Barcelona,Osasuna,H,H
+2025-03-28,Bundes,Leverkusen,Bochum,H,H
+2025-03-29,SerieA,Venezia,Bologna,A,A
+2025-03-29,Bundes,M'gladbach,RB Leipzig,H,A
+2025-03-29,LaLiga,Sociedad,Valladolid,H,H
+2025-03-29,LaLiga,Alaves,Vallecano,A,A
+2025-03-29,LaLiga,Real Madrid,Leganes,H,H
+2025-03-29,SerieA,Lecce,Roma,A,A
+2025-03-29,Bundes,Wolfsburg,Heidenheim,A,H
+2025-03-29,Bundes,Holstein Kiel,Werder Bremen,A,A
+2025-03-29,Bundes,Bayern Munich,St Pauli,H,H
+2025-03-29,SerieA,Juventus,Genoa,H,H
+2025-03-29,Bundes,Ein Frankfurt,Stuttgart,H,H
+2025-03-30,LaLiga,Barcelona,Girona,H,H
+2025-03-30,LaLiga,Getafe,Villarreal,A,A
+2025-03-30,Bundes,Dortmund,Mainz,H,A
+2025-03-30,Bundes,Freiburg,Union Berlin,A,H
+2025-03-30,LaLiga,Betis,Sevilla,H,A
+2025-03-30,LaLiga,Valencia,Mallorca,H,A
+2025-03-30,SerieA,Napoli,Milan,H,A
+2025-03-30,SerieA,Inter,Udinese,H,H
+2025-03-30,SerieA,Fiorentina,Atalanta,H,A
+2025-03-30,SerieA,Cagliari,Monza,H,H
+2025-04-01,EPL,Nott'm Forest,Man United,H,H
+2025-04-01,EPL,Wolves,West Ham,H,A
+2025-04-01,EPL,Arsenal,Fulham,H,H
+2025-04-02,EPL,Man City,Leicester,H,H
+2025-04-02,EPL,Brighton,Aston Villa,A,A
+2025-04-02,EPL,Newcastle,Brentford,H,A
+2025-04-02,EPL,Liverpool,Everton,H,H
+2025-04-02,EPL,Bournemouth,Ipswich,A,A
+2025-04-03,EPL,Chelsea,Tottenham,H,H
+2025-04-04,LaLiga,Vallecano,Espanol,A,H
+2025-04-04,SerieA,Genoa,Udinese,H,A
+2025-04-04,Bundes,Augsburg,Bayern Munich,A,A
+2025-04-05,EPL,Crystal Palace,Brighton,H,A
+2025-04-05,Bundes,Freiburg,Dortmund,A,A
+2025-04-05,Bundes,Werder Bremen,Ein Frankfurt,H,A
+2025-04-05,Bundes,RB Leipzig,Hoffenheim,H,H
+2025-04-05,Bundes,Heidenheim,Leverkusen,A,A
+2025-04-05,Bundes,Bochum,Stuttgart,A,A
+2025-04-05,LaLiga,Girona,Alaves,A,H
+2025-04-05,EPL,Ipswich,Wolves,A,A
+2025-04-05,EPL,Aston Villa,Nott'm Forest,H,H
+2025-04-05,SerieA,Monza,Como,A,A
+2025-04-05,LaLiga,Mallorca,Celta,A,H
+2025-04-05,LaLiga,Real Madrid,Valencia,A,H
+2025-04-06,LaLiga,Valladolid,Getafe,A,A
+2025-04-06,LaLiga,Sevilla,Ath Madrid,A,A
+2025-04-06,LaLiga,Las Palmas,Sociedad,A,H
+2025-04-06,Bundes,Union Berlin,Wolfsburg,H,A
+2025-04-06,SerieA,Atalanta,Lazio,A,H
+2025-04-06,EPL,Fulham,Liverpool,H,A
+2025-04-06,EPL,Tottenham,Southampton,H,H
+2025-04-07,EPL,Leicester,Newcastle,A,A
+2025-04-11,LaLiga,Valencia,Sevilla,H,A
+2025-04-11,SerieA,Udinese,Milan,A,A
+2025-04-11,Bundes,Wolfsburg,RB Leipzig,A,A
+2025-04-12,LaLiga,Sociedad,Mallorca,A,H
+2025-04-12,SerieA,Juventus,Lecce,H,H
+2025-04-12,SerieA,Inter,Cagliari,H,H
+2025-04-12,SerieA,Venezia,Monza,H,H
+2025-04-12,LaLiga,Leganes,Barcelona,A,A
+2025-04-12,LaLiga,Celta,Espanol,A,H
+2025-04-12,LaLiga,Getafe,Las Palmas,A,H
+2025-04-12,Bundes,Holstein Kiel,St Pauli,A,A
+2025-04-12,EPL,Southampton,Aston Villa,A,A
+2025-04-12,EPL,Nott'm Forest,Everton,A,H
+2025-04-12,EPL,Man City,Crystal Palace,H,A
+2025-04-12,Bundes,Bochum,Augsburg,A,H
+2025-04-12,Bundes,Hoffenheim,Mainz,H,A
+2025-04-12,Bundes,M'gladbach,Freiburg,A,A
+2025-04-13,SerieA,Como,Torino,H,A
+2025-04-13,LaLiga,Alaves,Real Madrid,A,A
+2025-04-13,LaLiga,Betis,Villarreal,A,H
+2025-04-13,LaLiga,Osasuna,Girona,H,A
+2025-04-13,Bundes,Ein Frankfurt,Heidenheim,H,H
+2025-04-13,EPL,Newcastle,Man United,H,H
+2025-04-13,SerieA,Atalanta,Bologna,H,A
+2025-04-13,LaLiga,Ath Bilbao,Vallecano,H,H
+2025-04-13,EPL,Liverpool,West Ham,H,H
+2025-04-13,EPL,Wolves,Tottenham,H,A
+2025-04-13,Bundes,Stuttgart,Werder Bremen,A,A
+2025-04-14,LaLiga,Ath Madrid,Valladolid,H,H
+2025-04-14,SerieA,Napoli,Empoli,H,H
+2025-04-14,EPL,Bournemouth,Fulham,H,A
+2025-04-16,EPL,Newcastle,Crystal Palace,H,A
+2025-04-18,LaLiga,Espanol,Getafe,H,A
+2025-04-19,SerieA,Roma,Verona,H,H
+2025-04-19,SerieA,Monza,Napoli,A,A
+2025-04-19,EPL,Aston Villa,Newcastle,H,A
+2025-04-19,EPL,Everton,Man City,A,A
+2025-04-19,SerieA,Lecce,Como,A,A
+2025-04-19,Bundes,Werder Bremen,Bochum,H,H
+2025-04-19,Bundes,Heidenheim,Bayern Munich,A,A
+2025-04-19,LaLiga,Las Palmas,Ath Madrid,H,A
+2025-04-19,LaLiga,Barcelona,Celta,H,H
+2025-04-19,EPL,Brentford,Brighton,H,A
+2025-04-19,Bundes,Freiburg,Hoffenheim,H,H
+2025-04-20,EPL,Leicester,Liverpool,A,A
+2025-04-20,SerieA,Milan,Atalanta,A,A
+2025-04-20,SerieA,Bologna,Inter,H,H
+2025-04-20,EPL,Fulham,Chelsea,A,H
+2025-04-20,EPL,Ipswich,Arsenal,A,A
+2025-04-20,EPL,Man United,Wolves,A,A
+2025-04-20,LaLiga,Real Madrid,Ath Bilbao,H,H
+2025-04-20,Bundes,Dortmund,M'gladbach,H,H
+2025-04-20,LaLiga,Valladolid,Osasuna,A,A
+2025-04-21,LaLiga,Girona,Betis,A,A
+2025-04-21,EPL,Tottenham,Nott'm Forest,A,H
+2025-04-22,EPL,Man City,Aston Villa,H,H
+2025-04-22,LaLiga,Barcelona,Mallorca,H,H
+2025-04-23,SerieA,Genoa,Lazio,A,A
+2025-04-23,SerieA,Parma,Juventus,H,A
+2025-04-23,SerieA,Cagliari,Fiorentina,A,A
+2025-04-23,LaLiga,Getafe,Real Madrid,A,A
+2025-04-23,SerieA,Torino,Udinese,H,A
+2025-04-23,LaLiga,Celta,Villarreal,H,A
+2025-04-23,LaLiga,Ath Bilbao,Las Palmas,H,H
+2025-04-23,LaLiga,Alaves,Sociedad,H,H
+2025-04-24,LaLiga,Betis,Valladolid,H,H
+2025-04-24,LaLiga,Osasuna,Sevilla,H,A
+2025-04-24,LaLiga,Ath Madrid,Vallecano,H,H
+2025-04-25,Bundes,Stuttgart,Heidenheim,A,A
+2025-04-26,EPL,Chelsea,Everton,H,H
+2025-04-26,Bundes,Bayern Munich,Mainz,H,H
+2025-04-26,EPL,Wolves,Leicester,H,H
+2025-04-26,EPL,Southampton,Fulham,A,A
+2025-04-26,EPL,Brighton,West Ham,H,A
+2025-04-26,Bundes,Holstein Kiel,M'gladbach,H,A
+2025-04-26,Bundes,Hoffenheim,Dortmund,A,A
+2025-04-26,Bundes,Leverkusen,Augsburg,H,H
+2025-04-26,Bundes,Wolfsburg,Freiburg,A,A
+2025-04-26,Bundes,Ein Frankfurt,RB Leipzig,H,H
+2025-04-26,EPL,Newcastle,Ipswich,H,H
+2025-04-27,EPL,Liverpool,Tottenham,H,H
+2025-04-27,SerieA,Como,Genoa,H,H
+2025-04-27,LaLiga,Villarreal,Espanol,H,H
+2025-04-27,SerieA,Fiorentina,Empoli,H,H
+2025-04-27,SerieA,Napoli,Torino,H,H
+2025-04-27,SerieA,Inter,Roma,A,H
+2025-04-27,SerieA,Juventus,Monza,H,H
+2025-04-27,SerieA,Venezia,Milan,A,A
+2025-04-28,SerieA,Verona,Cagliari,A,A
+2025-05-01,EPL,Nott'm Forest,Brentford,A,A
+2025-05-02,LaLiga,Vallecano,Getafe,H,A
+2025-05-02,EPL,Man City,Wolves,H,H
+2025-05-03,SerieA,Lecce,Napoli,A,A
+2025-05-03,Bundes,St Pauli,Stuttgart,A,A
+2025-05-03,SerieA,Inter,Verona,H,H
+2025-05-03,SerieA,Parma,Como,A,A
+2025-05-03,Bundes,Dortmund,Wolfsburg,H,H
+2025-05-03,EPL,Arsenal,Bournemouth,A,A
+2025-05-03,EPL,Aston Villa,Fulham,H,H
+2025-05-03,LaLiga,Valladolid,Barcelona,A,A
+2025-05-03,LaLiga,Las Palmas,Valencia,A,H
+2025-05-03,LaLiga,Villarreal,Osasuna,H,H
+2025-05-03,SerieA,Cagliari,Udinese,A,A
+2025-05-03,EPL,Leicester,Southampton,H,A
+2025-05-04,EPL,Chelsea,Liverpool,H,A
+2025-05-04,Bundes,Augsburg,Holstein Kiel,A,A
+2025-05-04,LaLiga,Espanol,Betis,A,A
+2025-05-04,LaLiga,Real Madrid,Celta,H,H
+2025-05-04,SerieA,Roma,Fiorentina,H,H
+2025-05-04,SerieA,Monza,Atalanta,A,A
+2025-05-04,SerieA,Empoli,Lazio,A,A
+2025-05-04,EPL,Brentford,Man United,H,A
+2025-05-05,LaLiga,Girona,Mallorca,H,H
+2025-05-05,SerieA,Genoa,Milan,A,A
+2025-05-09,SerieA,Milan,Bologna,H,A
+2025-05-09,LaLiga,Las Palmas,Vallecano,A,A
+2025-05-10,EPL,Ipswich,Brentford,A,A
+2025-05-10,SerieA,Como,Cagliari,H,H
+2025-05-10,LaLiga,Valencia,Getafe,H,A
+2025-05-10,LaLiga,Celta,Sevilla,H,H
+2025-05-10,LaLiga,Girona,Villarreal,A,A
+2025-05-10,EPL,Fulham,Everton,A,A
+2025-05-10,EPL,Wolves,Brighton,A,A
+2025-05-10,LaLiga,Mallorca,Valladolid,H,H
+2025-05-10,LaLiga,Ath Madrid,Sociedad,H,H
+2025-05-10,Bundes,Union Berlin,Heidenheim,A,A
+2025-05-10,Bundes,Holstein Kiel,Freiburg,A,A
+2025-05-10,Bundes,Bayern Munich,M'gladbach,H,H
+2025-05-10,SerieA,Empoli,Parma,H,A
+2025-05-10,Bundes,Bochum,Mainz,A,A
+2025-05-10,EPL,Bournemouth,Aston Villa,A,A
+2025-05-11,SerieA,Udinese,Monza,A,H
+2025-05-11,EPL,Newcastle,Chelsea,H,H
+2025-05-11,SerieA,Torino,Inter,A,A
+2025-05-11,EPL,Man United,West Ham,A,A
+2025-05-11,Bundes,Stuttgart,Augsburg,H,A
+2025-05-11,EPL,Tottenham,Crystal Palace,A,H
+2025-05-11,Bundes,Leverkusen,Dortmund,A,A
+2025-05-11,LaLiga,Ath Bilbao,Alaves,H,H
+2025-05-11,LaLiga,Barcelona,Real Madrid,H,H
+2025-05-11,LaLiga,Leganes,Espanol,H,A
+2025-05-12,SerieA,Atalanta,Roma,H,A
+2025-05-12,SerieA,Venezia,Fiorentina,H,A
+2025-05-13,LaLiga,Valladolid,Girona,A,A
+2025-05-13,LaLiga,Sevilla,Las Palmas,H,H
+2025-05-13,LaLiga,Sociedad,Celta,A,H
+2025-05-14,LaLiga,Real Madrid,Mallorca,H,H
+2025-05-14,LaLiga,Alaves,Valencia,H,H
+2025-05-14,LaLiga,Villarreal,Leganes,H,H
+2025-05-15,LaLiga,Espanol,Barcelona,A,A
+2025-05-15,LaLiga,Osasuna,Ath Madrid,H,A
+2025-05-15,LaLiga,Getafe,Ath Bilbao,A,A
+2025-05-16,EPL,Aston Villa,Tottenham,H,H
+2025-05-16,EPL,Chelsea,Man United,H,H
+2025-05-17,SerieA,Genoa,Atalanta,A,A
+2025-05-17,Bundes,St Pauli,Bochum,A,A
+2025-05-17,Bundes,M'gladbach,Wolfsburg,A,A
+2025-05-17,Bundes,RB Leipzig,Stuttgart,A,A
+2025-05-17,Bundes,Heidenheim,Werder Bremen,A,A
+2025-05-17,Bundes,Freiburg,Ein Frankfurt,A,A
+2025-05-17,Bundes,Dortmund,Holstein Kiel,H,H
+2025-05-17,Bundes,Augsburg,Union Berlin,A,H
+2025-05-17,Bundes,Hoffenheim,Bayern Munich,A,A
+2025-05-18,LaLiga,Ath Madrid,Betis,H,H
+2025-05-18,LaLiga,Sociedad,Girona,H,A
+2025-05-18,LaLiga,Valencia,Ath Bilbao,A,H
+2025-05-18,SerieA,Roma,Milan,H,A
+2025-05-18,EPL,Leicester,Ipswich,H,A
+2025-05-18,EPL,Arsenal,Newcastle,H,A
+2025-05-18,EPL,Everton,Southampton,H,H
+2025-05-18,EPL,West Ham,Nott'm Forest,A,A
+2025-05-18,EPL,Brentford,Fulham,A,A
+2025-05-18,LaLiga,Valladolid,Alaves,A,A
+2025-05-18,SerieA,Lecce,Torino,H,A
+2025-05-18,LaLiga,Barcelona,Villarreal,A,H
+2025-05-18,SerieA,Juventus,Udinese,H,H
+2025-05-18,LaLiga,Las Palmas,Leganes,A,A
+2025-05-18,LaLiga,Osasuna,Espanol,H,A
+2025-05-18,LaLiga,Celta,Vallecano,A,H
+2025-05-18,LaLiga,Mallorca,Getafe,A,A
+2025-05-18,SerieA,Monza,Empoli,A,A
+2025-05-18,LaLiga,Sevilla,Real Madrid,A,A
+2025-05-18,SerieA,Cagliari,Venezia,H,A
+2025-05-18,SerieA,Fiorentina,Bologna,H,A
+2025-05-19,EPL,Brighton,Liverpool,H,A
+2025-05-20,EPL,Man City,Bournemouth,H,H
+2025-05-20,EPL,Crystal Palace,Wolves,H,A
+2025-05-23,SerieA,Napoli,Cagliari,H,H
+2025-05-23,SerieA,Como,Inter,A,A
+2025-05-24,SerieA,Milan,Monza,H,H
+2025-05-24,SerieA,Bologna,Genoa,A,H
+2025-05-24,LaLiga,Real Madrid,Sociedad,H,H
+2025-05-24,LaLiga,Getafe,Celta,A,H
+2025-05-24,LaLiga,Leganes,Valladolid,H,A
+2025-05-24,LaLiga,Espanol,Las Palmas,H,A
+2025-05-25,SerieA,Venezia,Juventus,A,A
+2025-05-25,LaLiga,Villarreal,Sevilla,H,H
+2025-05-25,LaLiga,Ath Bilbao,Barcelona,A,A
+2025-05-25,LaLiga,Girona,Ath Madrid,A,A
+2025-05-25,SerieA,Udinese,Fiorentina,A,H
+2025-05-25,SerieA,Lazio,Lecce,A,H
+2025-05-25,EPL,Nott'm Forest,Chelsea,A,H
+2025-05-25,SerieA,Torino,Roma,A,A
+2025-05-25,EPL,Bournemouth,Leicester,H,H
+2025-05-25,SerieA,Empoli,Verona,A,A
+2025-05-25,EPL,Ipswich,West Ham,A,A
+2025-05-25,EPL,Man United,Aston Villa,H,A
+2025-05-25,EPL,Newcastle,Everton,A,H
+2025-05-25,EPL,Southampton,Arsenal,A,A
+2025-05-25,EPL,Tottenham,Brighton,A,A
+2025-05-25,SerieA,Atalanta,Parma,A,H
+2025-05-25,EPL,Fulham,Man City,A,A
+2025-08-15,LaLiga,Girona,Vallecano,A,A
+2025-08-15,EPL,Liverpool,Bournemouth,H,H
+2025-08-16,LaLiga,Mallorca,Barcelona,A,A
+2025-08-16,LaLiga,Alaves,Levante,H,A
+2025-08-16,EPL,Tottenham,Burnley,H,H
+2025-08-16,EPL,Sunderland,West Ham,H,A
+2025-08-16,EPL,Wolves,Man City,A,A
+2025-08-17,LaLiga,Espanol,Ath Madrid,H,A
+2025-08-17,EPL,Nott'm Forest,Brentford,H,A
+2025-08-17,EPL,Man United,Arsenal,A,A
+2025-08-17,LaLiga,Celta,Getafe,A,H
+2025-08-17,LaLiga,Ath Bilbao,Sevilla,H,H
+2025-08-18,EPL,Leeds,Everton,H,A
+2025-08-19,LaLiga,Real Madrid,Osasuna,H,H
+2025-08-22,EPL,West Ham,Chelsea,A,A
+2025-08-22,Bundes,Bayern Munich,RB Leipzig,H,H
+2025-08-22,LaLiga,Betis,Alaves,H,H
+2025-08-23,Bundes,Union Berlin,Stuttgart,H,A
+2025-08-23,EPL,Bournemouth,Wolves,H,H
+2025-08-23,Bundes,Heidenheim,Wolfsburg,A,A
+2025-08-23,Bundes,Leverkusen,Hoffenheim,A,H
+2025-08-23,Bundes,Freiburg,Augsburg,A,H
+2025-08-23,Bundes,Ein Frankfurt,Werder Bremen,H,A
+2025-08-23,SerieA,Roma,Bologna,H,A
+2025-08-23,EPL,Burnley,Sunderland,H,H
+2025-08-23,LaLiga,Levante,Barcelona,A,A
+2025-08-23,EPL,Arsenal,Leeds,H,H
+2025-08-23,SerieA,Milan,Cremonese,A,H
+2025-08-23,SerieA,Sassuolo,Napoli,A,A
+2025-08-23,EPL,Brentford,Aston Villa,H,A
+2025-08-23,EPL,Man City,Tottenham,A,H
+2025-08-24,Bundes,Mainz,FC Koln,A,H
+2025-08-24,LaLiga,Osasuna,Valencia,H,A
+2025-08-24,EPL,Everton,Brighton,H,A
+2025-08-24,LaLiga,Villarreal,Girona,H,H
+2025-08-24,SerieA,Juventus,Parma,H,H
+2025-08-24,SerieA,Como,Lazio,H,A
+2025-08-25,LaLiga,Ath Bilbao,Vallecano,H,A
+2025-08-25,LaLiga,Sevilla,Getafe,A,A
+2025-08-25,SerieA,Inter,Torino,H,H
+2025-08-25,EPL,Newcastle,Liverpool,A,A
+2025-08-29,Bundes,Hamburg,St Pauli,A,A
+2025-08-29,SerieA,Cremonese,Sassuolo,H,A
+2025-08-29,LaLiga,Valencia,Getafe,H,H
+2025-08-29,LaLiga,Elche,Levante,H,A
+2025-08-29,SerieA,Lecce,Milan,A,A
+2025-08-30,Bundes,Augsburg,Bayern Munich,A,A
+2025-08-30,Bundes,Hoffenheim,Ein Frankfurt,A,A
+2025-08-30,Bundes,RB Leipzig,Heidenheim,H,H
+2025-08-30,Bundes,Stuttgart,M'gladbach,H,A
+2025-08-30,LaLiga,Real Madrid,Mallorca,H,H
+2025-08-30,LaLiga,Girona,Sevilla,A,A
+2025-08-30,EPL,Sunderland,Brentford,H,A
+2025-08-30,EPL,Man United,Burnley,H,H
+2025-08-30,SerieA,Napoli,Cagliari,H,H
+2025-08-30,EPL,Wolves,Everton,A,A
+2025-08-30,EPL,Tottenham,Bournemouth,A,A
+2025-08-30,EPL,Chelsea,Fulham,H,H
+2025-08-30,SerieA,Bologna,Como,H,H
+2025-08-31,SerieA,Genoa,Juventus,A,A
+2025-08-31,SerieA,Lazio,Verona,H,H
+2025-08-31,LaLiga,Espanol,Osasuna,H,A
+2025-08-31,LaLiga,Betis,Ath Bilbao,A,H
+2025-08-31,Bundes,Dortmund,Union Berlin,H,H
+2025-08-31,Bundes,FC Koln,Freiburg,H,A
+2025-08-31,EPL,Aston Villa,Crystal Palace,A,A
+2025-08-31,EPL,Brighton,Man City,H,A
+2025-08-31,EPL,Liverpool,Arsenal,H,A
+2025-08-31,EPL,Nott'm Forest,West Ham,A,H
+2025-08-31,SerieA,Inter,Udinese,A,H
+2025-09-12,Bundes,Leverkusen,Ein Frankfurt,H,H
+2025-09-13,EPL,Arsenal,Nott'm Forest,H,H
+2025-09-13,SerieA,Cagliari,Parma,H,H
+2025-09-13,LaLiga,Ath Madrid,Villarreal,H,H
+2025-09-13,EPL,Bournemouth,Brighton,H,A
+2025-09-13,Bundes,Bayern Munich,Hamburg,H,H
+2025-09-13,LaLiga,Sociedad,Real Madrid,A,A
+2025-09-13,Bundes,Mainz,RB Leipzig,A,H
+2025-09-13,EPL,Newcastle,Wolves,H,H
+2025-09-13,EPL,West Ham,Tottenham,A,A
+2025-09-13,SerieA,Juventus,Inter,H,H
+2025-09-13,SerieA,Fiorentina,Napoli,A,A
+2025-09-13,Bundes,Union Berlin,Hoffenheim,A,A
+2025-09-13,LaLiga,Ath Bilbao,Alaves,A,H
+2025-09-13,Bundes,Heidenheim,Dortmund,A,A
+2025-09-13,Bundes,Freiburg,Stuttgart,H,A
+2025-09-13,EPL,Fulham,Leeds,H,H
+2025-09-14,Bundes,St Pauli,Augsburg,H,A
+2025-09-14,EPL,Burnley,Liverpool,A,A
+2025-09-14,LaLiga,Barcelona,Valencia,H,H
+2025-09-14,LaLiga,Osasuna,Vallecano,H,A
+2025-09-14,EPL,Man City,Man United,H,H
+2025-09-14,SerieA,Sassuolo,Lazio,H,A
+2025-09-14,SerieA,Atalanta,Lecce,H,H
+2025-09-14,SerieA,Roma,Torino,A,H
+2025-09-14,SerieA,Milan,Bologna,H,H
+2025-09-14,Bundes,M'gladbach,Werder Bremen,A,A
+2025-09-15,LaLiga,Espanol,Mallorca,H,H
+2025-09-19,SerieA,Lecce,Cagliari,A,A
+2025-09-19,LaLiga,Betis,Sociedad,H,H
+2025-09-19,Bundes,Stuttgart,St Pauli,H,H
+2025-09-20,EPL,Man United,Chelsea,H,H
+2025-09-20,SerieA,Bologna,Genoa,H,H
+2025-09-20,LaLiga,Villarreal,Osasuna,H,H
+2025-09-20,SerieA,Udinese,Milan,A,A
+2025-09-20,EPL,Wolves,Leeds,A,H
+2025-09-20,EPL,Fulham,Brentford,H,A
+2025-09-20,LaLiga,Valencia,Ath Bilbao,H,A
+2025-09-20,LaLiga,Alaves,Sevilla,A,A
+2025-09-20,Bundes,Hamburg,Heidenheim,H,A
+2025-09-20,LaLiga,Girona,Levante,A,A
+2025-09-20,LaLiga,Real Madrid,Espanol,H,H
+2025-09-20,EPL,West Ham,Crystal Palace,A,A
+2025-09-20,Bundes,Augsburg,Mainz,A,A
+2025-09-20,Bundes,RB Leipzig,FC Koln,H,H
+2025-09-20,Bundes,Werder Bremen,Freiburg,A,A
+2025-09-20,Bundes,Hoffenheim,Bayern Munich,A,A
+2025-09-20,EPL,Liverpool,Everton,H,H
+2025-09-21,Bundes,Dortmund,Wolfsburg,H,H
+2025-09-21,SerieA,Fiorentina,Como,A,A
+2025-09-21,SerieA,Inter,Sassuolo,H,H
+2025-09-21,Bundes,Ein Frankfurt,Union Berlin,A,H
+2025-09-21,SerieA,Lazio,Roma,A,A
+2025-09-21,LaLiga,Barcelona,Getafe,H,H
+2025-09-21,SerieA,Torino,Atalanta,A,A
+2025-09-23,LaLiga,Levante,Real Madrid,A,A
+2025-09-23,LaLiga,Sevilla,Villarreal,A,A
+2025-09-24,LaLiga,Sociedad,Mallorca,H,H
+2025-09-24,LaLiga,Ath Madrid,Vallecano,H,H
+2025-09-26,Bundes,Bayern Munich,Werder Bremen,H,H
+2025-09-27,EPL,Brentford,Man United,H,A
+2025-09-27,LaLiga,Ath Madrid,Real Madrid,H,A
+2025-09-27,EPL,Nott'm Forest,Sunderland,A,H
+2025-09-27,EPL,Man City,Burnley,H,H
+2025-09-27,Bundes,Heidenheim,Augsburg,H,A
+2025-09-27,Bundes,Mainz,Dortmund,A,A
+2025-09-27,EPL,Crystal Palace,Liverpool,H,A
+2025-09-27,EPL,Chelsea,Brighton,A,H
+2025-09-27,Bundes,Wolfsburg,RB Leipzig,A,H
+2025-09-27,LaLiga,Mallorca,Alaves,H,A
+2025-09-27,Bundes,St Pauli,Leverkusen,A,A
+2025-09-27,Bundes,M'gladbach,Ein Frankfurt,A,A
+2025-09-27,SerieA,Cagliari,Inter,A,A
+2025-09-27,LaLiga,Villarreal,Ath Bilbao,H,H
+2025-09-28,LaLiga,Betis,Osasuna,H,H
+2025-09-28,EPL,Newcastle,Arsenal,A,A
+2025-09-28,LaLiga,Barcelona,Sociedad,H,H
+2025-09-28,SerieA,Sassuolo,Udinese,H,A
+2025-09-28,EPL,Aston Villa,Fulham,H,H
+2025-09-28,LaLiga,Elche,Celta,H,A
+2025-09-28,SerieA,Milan,Napoli,H,H
+2025-09-28,SerieA,Roma,Verona,H,H
+2025-09-28,Bundes,FC Koln,Stuttgart,A,A
+2025-09-28,LaLiga,Vallecano,Sevilla,A,A
+2025-09-29,SerieA,Parma,Torino,H,A
+2025-09-29,SerieA,Genoa,Lazio,A,A
+2025-10-03,EPL,Bournemouth,Fulham,H,H
+2025-10-03,SerieA,Verona,Sassuolo,A,H
+2025-10-03,Bundes,Hoffenheim,FC Koln,A,A
+2025-10-03,LaLiga,Osasuna,Getafe,H,A
+2025-10-04,LaLiga,Girona,Valencia,H,A
+2025-10-04,LaLiga,Ath Bilbao,Mallorca,H,H
+2025-10-04,SerieA,Inter,Cremonese,H,H
+2025-10-04,LaLiga,Real Madrid,Villarreal,H,H
+2025-10-04,SerieA,Parma,Lecce,A,H
+2025-10-04,EPL,Leeds,Tottenham,A,A
+2025-10-04,EPL,Man United,Sunderland,H,H
+2025-10-04,EPL,Chelsea,Liverpool,H,H
+2025-10-04,Bundes,Augsburg,Wolfsburg,H,A
+2025-10-04,Bundes,Ein Frankfurt,Bayern Munich,A,A
+2025-10-04,Bundes,Leverkusen,Union Berlin,H,H
+2025-10-04,Bundes,Werder Bremen,St Pauli,H,A
+2025-10-04,EPL,Arsenal,West Ham,H,H
+2025-10-05,LaLiga,Sociedad,Vallecano,A,H
+2025-10-05,Bundes,Stuttgart,Heidenheim,H,H
+2025-10-05,SerieA,Napoli,Genoa,H,H
+2025-10-05,LaLiga,Sevilla,Barcelona,H,A
+2025-10-05,LaLiga,Alaves,Elche,H,H
+2025-10-05,Bundes,Hamburg,Mainz,H,A
+2025-10-05,LaLiga,Espanol,Betis,A,A
+2025-10-05,SerieA,Fiorentina,Roma,A,A
+2025-10-05,EPL,Aston Villa,Burnley,H,H
+2025-10-05,EPL,Everton,Crystal Palace,H,A
+2025-10-05,EPL,Newcastle,Nott'm Forest,H,H
+2025-10-05,EPL,Brentford,Man City,A,A
+2025-10-17,Bundes,Union Berlin,M'gladbach,H,A
+2025-10-18,EPL,Fulham,Arsenal,A,A
+2025-10-18,Bundes,Mainz,Leverkusen,A,A
+2025-10-18,EPL,Sunderland,Wolves,H,A
+2025-10-18,LaLiga,Ath Madrid,Osasuna,H,H
+2025-10-18,EPL,Brighton,Newcastle,H,H
+2025-10-18,SerieA,Roma,Inter,A,A
+2025-10-18,EPL,Man City,Everton,H,H
+2025-10-18,SerieA,Torino,Napoli,H,A
+2025-10-18,LaLiga,Barcelona,Girona,H,H
+2025-10-18,LaLiga,Sevilla,Mallorca,A,H
+2025-10-18,EPL,Burnley,Leeds,H,A
+2025-10-18,Bundes,RB Leipzig,Hamburg,H,H
+2025-10-18,EPL,Nott'm Forest,Chelsea,A,A
+2025-10-18,Bundes,Wolfsburg,Stuttgart,A,A
+2025-10-18,Bundes,Bayern Munich,Dortmund,H,H
+2025-10-19,EPL,Liverpool,Man United,A,H
+2025-10-19,LaLiga,Getafe,Real Madrid,A,A
+2025-10-19,Bundes,St Pauli,Hoffenheim,A,A
+2025-10-19,LaLiga,Levante,Vallecano,A,A
+2025-10-19,SerieA,Cagliari,Bologna,A,A
+2025-10-19,SerieA,Milan,Fiorentina,H,A
+2025-10-19,SerieA,Como,Juventus,H,A
+2025-10-19,EPL,Tottenham,Aston Villa,A,A
+2025-10-20,EPL,West Ham,Brentford,A,A
+2025-10-24,Bundes,Werder Bremen,Union Berlin,H,A
+2025-10-24,LaLiga,Sociedad,Sevilla,H,H
+2025-10-24,EPL,Leeds,West Ham,H,A
+2025-10-25,Bundes,Ein Frankfurt,St Pauli,H,H
+2025-10-25,Bundes,Hamburg,Wolfsburg,A,H
+2025-10-25,Bundes,Hoffenheim,Heidenheim,H,A
+2025-10-25,Bundes,M'gladbach,Bayern Munich,A,A
+2025-10-25,Bundes,Dortmund,FC Koln,H,H
+2025-10-25,EPL,Chelsea,Sunderland,A,H
+2025-10-25,EPL,Brentford,Liverpool,H,A
+2025-10-25,SerieA,Napoli,Inter,H,H
+2025-10-25,Bundes,Augsburg,RB Leipzig,A,A
+2025-10-25,SerieA,Udinese,Lecce,H,H
+2025-10-25,LaLiga,Espanol,Elche,H,H
+2025-10-25,LaLiga,Ath Bilbao,Getafe,A,H
+2025-10-25,LaLiga,Valencia,Villarreal,A,H
+2025-10-25,EPL,Man United,Brighton,H,A
+2025-10-25,EPL,Newcastle,Fulham,H,H
+2025-10-26,Bundes,Stuttgart,Mainz,H,H
+2025-10-26,EPL,Bournemouth,Nott'm Forest,H,H
+2025-10-26,Bundes,Leverkusen,Freiburg,H,A
+2025-10-26,LaLiga,Vallecano,Alaves,H,H
+2025-10-26,SerieA,Lazio,Juventus,H,H
+2025-10-26,LaLiga,Osasuna,Celta,A,A
+2025-10-26,SerieA,Sassuolo,Roma,A,A
+2025-10-26,EPL,Aston Villa,Man City,H,H
+2025-10-26,LaLiga,Real Madrid,Barcelona,H,A
+2025-10-26,EPL,Wolves,Burnley,A,A
+2025-10-26,EPL,Everton,Tottenham,A,H
+2025-10-26,EPL,Arsenal,Crystal Palace,H,H
+2025-10-26,SerieA,Torino,Genoa,H,H
+2025-10-27,LaLiga,Betis,Ath Madrid,A,A
+2025-10-28,SerieA,Lecce,Napoli,A,A
+2025-10-29,SerieA,Inter,Fiorentina,H,H
+2025-10-29,SerieA,Genoa,Cremonese,A,H
+2025-10-29,SerieA,Juventus,Udinese,H,H
+2025-10-29,SerieA,Como,Verona,H,H
+2025-10-29,SerieA,Roma,Parma,H,H
+2025-10-30,SerieA,Cagliari,Sassuolo,A,H
+2025-10-31,LaLiga,Getafe,Girona,H,A
+2025-10-31,Bundes,Augsburg,Dortmund,A,A
+2025-11-01,LaLiga,Real Madrid,Valencia,H,H
+2025-11-01,LaLiga,Sociedad,Ath Bilbao,H,A
+2025-11-01,SerieA,Cremonese,Juventus,A,A
+2025-11-01,Bundes,Bayern Munich,Leverkusen,H,H
+2025-11-01,Bundes,RB Leipzig,Stuttgart,H,A
+2025-11-01,Bundes,St Pauli,M'gladbach,A,A
+2025-11-01,LaLiga,Ath Madrid,Sevilla,H,H
+2025-11-01,EPL,Burnley,Arsenal,A,A
+2025-11-01,EPL,Crystal Palace,Brentford,H,H
+2025-11-01,LaLiga,Villarreal,Vallecano,H,H
+2025-11-01,EPL,Brighton,Leeds,H,H
+2025-11-01,EPL,Liverpool,Aston Villa,H,H
+2025-11-01,EPL,Tottenham,Chelsea,A,A
+2025-11-01,EPL,Fulham,Wolves,H,A
+2025-11-01,SerieA,Udinese,Atalanta,H,A
+2025-11-02,Bundes,Wolfsburg,Hoffenheim,A,A
+2025-11-02,LaLiga,Levante,Celta,A,A
+2025-11-02,LaLiga,Alaves,Espanol,H,A
+2025-11-02,LaLiga,Barcelona,Elche,H,H
+2025-11-02,LaLiga,Betis,Mallorca,H,H
+2025-11-02,Bundes,FC Koln,Hamburg,H,H
+2025-11-02,EPL,Man City,Bournemouth,H,H
+2025-11-02,SerieA,Verona,Inter,A,A
+2025-11-02,SerieA,Fiorentina,Lecce,A,H
+2025-11-02,EPL,West Ham,Newcastle,H,A
+2025-11-02,SerieA,Milan,Roma,H,A
+2025-11-02,SerieA,Parma,Bologna,A,A
+2025-11-03,SerieA,Lazio,Cagliari,H,H
+2025-11-03,SerieA,Sassuolo,Genoa,A,A
+2025-11-07,SerieA,Pisa,Cremonese,H,A
+2025-11-07,Bundes,Werder Bremen,Wolfsburg,H,H
+2025-11-08,EPL,Everton,Fulham,H,H
+2025-11-08,Bundes,Hoffenheim,RB Leipzig,H,A
+2025-11-08,Bundes,Leverkusen,Heidenheim,H,H
+2025-11-08,LaLiga,Girona,Alaves,H,A
+2025-11-08,Bundes,M'gladbach,FC Koln,H,A
+2025-11-08,LaLiga,Ath Madrid,Levante,H,H
+2025-11-08,LaLiga,Espanol,Villarreal,A,A
+2025-11-08,EPL,Chelsea,Wolves,H,H
+2025-11-08,EPL,West Ham,Burnley,H,A
+2025-11-08,LaLiga,Sevilla,Osasuna,H,H
+2025-11-09,Bundes,Freiburg,St Pauli,H,H
+2025-11-09,Bundes,Stuttgart,Augsburg,H,H
+2025-11-09,Bundes,Ein Frankfurt,Mainz,H,H
+2025-11-09,EPL,Man City,Liverpool,H,H
+2025-11-09,LaLiga,Mallorca,Getafe,H,A
+2025-11-09,SerieA,Roma,Udinese,H,H
+2025-11-09,LaLiga,Ath Bilbao,Oviedo,H,H
+2025-11-09,EPL,Aston Villa,Bournemouth,H,H
+2025-11-09,SerieA,Inter,Lazio,H,H
+2025-11-09,EPL,Brentford,Newcastle,H,A
+2025-11-09,SerieA,Atalanta,Sassuolo,A,H
+2025-11-09,EPL,Nott'm Forest,Leeds,H,H
+2025-11-09,SerieA,Bologna,Napoli,H,A
+2025-11-09,LaLiga,Celta,Barcelona,A,A
+2025-11-21,LaLiga,Valencia,Levante,H,A
+2025-11-22,SerieA,Udinese,Bologna,A,A
+2025-11-22,Bundes,Bayern Munich,Freiburg,H,H
+2025-11-22,Bundes,FC Koln,Ein Frankfurt,A,A
+2025-11-22,Bundes,Heidenheim,M'gladbach,A,A
+2025-11-22,SerieA,Napoli,Atalanta,H,H
+2025-11-22,LaLiga,Villarreal,Mallorca,H,H
+2025-11-22,LaLiga,Alaves,Celta,A,A
+2025-11-22,Bundes,Wolfsburg,Leverkusen,A,A
+2025-11-22,Bundes,Augsburg,Hamburg,H,A
+2025-11-22,LaLiga,Osasuna,Sociedad,A,H
+2025-11-22,EPL,Newcastle,Man City,H,A
+2025-11-22,EPL,Burnley,Chelsea,A,A
+2025-11-22,EPL,Brighton,Brentford,H,H
+2025-11-22,EPL,Fulham,Sunderland,H,H
+2025-11-22,EPL,Liverpool,Nott'm Forest,A,H
+2025-11-22,EPL,Wolves,Crystal Palace,A,A
+2025-11-22,LaLiga,Barcelona,Ath Bilbao,H,H
+2025-11-23,Bundes,St Pauli,Union Berlin,A,A
+2025-11-23,Bundes,RB Leipzig,Werder Bremen,H,H
+2025-11-23,SerieA,Inter,Milan,A,H
+2025-11-23,SerieA,Lazio,Lecce,H,A
+2025-11-23,EPL,Leeds,Aston Villa,A,A
+2025-11-23,SerieA,Verona,Parma,A,H
+2025-11-23,LaLiga,Getafe,Ath Madrid,A,A
+2025-11-23,EPL,Arsenal,Tottenham,H,H
+2025-11-23,SerieA,Cremonese,Roma,A,A
+2025-11-24,SerieA,Torino,Como,A,A
+2025-11-24,EPL,Man United,Everton,A,H
+2025-11-24,LaLiga,Espanol,Sevilla,H,H
+2025-11-28,SerieA,Como,Sassuolo,H,H
+2025-11-28,LaLiga,Getafe,Elche,H,A
+2025-11-29,Bundes,Union Berlin,Heidenheim,A,A
+2025-11-29,LaLiga,Barcelona,Alaves,H,H
+2025-11-29,SerieA,Milan,Lazio,H,H
+2025-11-29,SerieA,Juventus,Cagliari,H,H
+2025-11-29,SerieA,Parma,Udinese,A,A
+2025-11-29,SerieA,Genoa,Verona,H,H
+2025-11-29,Bundes,Hoffenheim,Augsburg,H,A
+2025-11-29,Bundes,Bayern Munich,St Pauli,H,H
+2025-11-29,EPL,Everton,Newcastle,A,H
+2025-11-29,EPL,Sunderland,Bournemouth,H,A
+2025-11-29,EPL,Man City,Leeds,H,H
+2025-11-29,EPL,Brentford,Burnley,H,H
+2025-11-29,LaLiga,Ath Madrid,Oviedo,H,H
+2025-11-29,LaLiga,Levante,Ath Bilbao,A,A
+2025-11-29,Bundes,Leverkusen,Dortmund,A,H
+2025-11-29,EPL,Tottenham,Fulham,A,A
+2025-11-30,EPL,Aston Villa,Wolves,H,H
+2025-11-30,SerieA,Lecce,Torino,H,A
+2025-11-30,Bundes,Freiburg,Mainz,H,H
+2025-11-30,Bundes,Hamburg,Stuttgart,H,A
+2025-11-30,EPL,Nott'm Forest,Brighton,A,A
+2025-11-30,EPL,Crystal Palace,Man United,A,H
+2025-11-30,SerieA,Atalanta,Fiorentina,H,A
+2025-11-30,LaLiga,Sociedad,Villarreal,A,A
+2025-11-30,LaLiga,Sevilla,Betis,A,A
+2025-11-30,LaLiga,Celta,Espanol,A,A
+2025-11-30,SerieA,Roma,Napoli,A,A
+2025-11-30,SerieA,Pisa,Inter,A,A
+2025-11-30,EPL,West Ham,Liverpool,A,A
+2025-12-01,SerieA,Bologna,Cremonese,A,H
+2025-12-02,EPL,Bournemouth,Everton,A,H
+2025-12-02,EPL,Fulham,Man City,A,A
+2025-12-02,LaLiga,Barcelona,Ath Madrid,H,H
+2025-12-03,EPL,Wolves,Nott'm Forest,A,A
+2025-12-03,EPL,Arsenal,Brentford,H,H
+2025-12-03,EPL,Brighton,Aston Villa,A,H
+2025-12-03,EPL,Leeds,Chelsea,H,A
+2025-12-03,LaLiga,Ath Bilbao,Real Madrid,A,A
+2025-12-03,EPL,Burnley,Crystal Palace,A,A
+2025-12-05,Bundes,Mainz,M'gladbach,A,A
+2025-12-06,SerieA,Verona,Atalanta,H,A
+2025-12-06,SerieA,Inter,Como,H,H
+2025-12-06,LaLiga,Ath Bilbao,Ath Madrid,H,A
+2025-12-06,LaLiga,Betis,Barcelona,A,A
+2025-12-06,LaLiga,Alaves,Sociedad,H,A
+2025-12-06,LaLiga,Villarreal,Getafe,H,H
+2025-12-06,EPL,Everton,Nott'm Forest,H,A
+2025-12-06,EPL,Aston Villa,Arsenal,H,A
+2025-12-06,Bundes,Wolfsburg,Union Berlin,H,A
+2025-12-06,EPL,Newcastle,Burnley,H,H
+2025-12-06,EPL,Tottenham,Brentford,H,A
+2025-12-06,SerieA,Sassuolo,Fiorentina,H,A
+2025-12-06,Bundes,Augsburg,Leverkusen,H,A
+2025-12-06,Bundes,Heidenheim,Freiburg,H,A
+2025-12-06,Bundes,Stuttgart,Bayern Munich,A,A
+2025-12-06,EPL,Man City,Sunderland,H,H
+2025-12-06,Bundes,RB Leipzig,Ein Frankfurt,H,H
+2025-12-07,Bundes,Hamburg,Werder Bremen,H,A
+2025-12-07,LaLiga,Espanol,Vallecano,H,H
+2025-12-07,LaLiga,Elche,Girona,H,H
+2025-12-07,Bundes,Dortmund,Hoffenheim,H,H
+2025-12-07,SerieA,Napoli,Juventus,H,H
+2025-12-07,EPL,Fulham,Crystal Palace,A,A
+2025-12-07,LaLiga,Real Madrid,Celta,A,H
+2025-12-07,SerieA,Cremonese,Lecce,H,A
+2025-12-07,SerieA,Cagliari,Roma,H,A
+2025-12-08,LaLiga,Osasuna,Levante,H,H
+2025-12-08,SerieA,Pisa,Parma,A,A
+2025-12-08,SerieA,Udinese,Genoa,A,A
+2025-12-08,EPL,Wolves,Man United,A,A
+2025-12-08,SerieA,Torino,Milan,A,A
